@@ -1,0 +1,914 @@
+key,song,artist,episode,is_reentry,left_censored,right_censored,start,end,entry_rank,entry_pop,prior_pop,gap_days,rank_jump,pop_rate,peak_rank,peak_pop,days_to_peak,recovery_speed,retention_days,decay_slope,volatility,album_type,total_tracks,duration_min,is_explicit,spike_score
+1-800-hot-n-fun|le sserafim,1-800-hot-n-fun,LE SSERAFIM,1,False,False,False,2025-09-01,2025-09-08,26,64,,,25,2.6666666666666665,26,75,0,0.0,8,3.928571428571427,4.2999762695121175,single,5,2.8905166666666666,False,76.8
+24yb (intro)|yanghongwon,24YB (Intro),YANGHONGWON,1,False,False,False,2025-05-26,2025-05-28,26,38,,,25,3.0,26,44,0,0.0,3,5.499999999999994,3.5,album,8,1.3873333333333333,False,76.9
+3d (alternate ver.)|jung kook,3D (feat. Jack Harlow) (Alternate Ver.),Jung Kook & Jack Harlow,1,False,False,False,2024-09-30,2024-10-21,4,0,,,47,26.666666666666668,4,80,0,0.0,22,1.5426312817617163,5.098130020430571,album,7,2.7090833333333335,False,98.9
+3d (instrumental)|jung kook,3D (feat. Jack Harlow) (Instrumental),Jung Kook & Jack Harlow,1,False,False,False,2024-09-30,2024-10-05,9,0,,,42,24.666666666666668,9,74,0,0.0,6,4.342857142857142,7.11055553385247,album,7,3.325833333333333,False,97.7
+3d (instrumental)|jung kook,3D (feat. Jack Harlow) (Instrumental),Jung Kook & Jack Harlow,2,True,False,False,2024-10-09,2024-10-13,50,60,55.0,3.0,1,0.6666666666666666,38,62,1,12.0,5,3.500000000000001,7.562241731127087,album,7,3.325833333333333,False,36.0
+3d (justin timberlake remix)|jung kook,3D (Justin Timberlake Remix),Jung Kook & Justin Timberlake,1,False,False,False,2024-11-25,2024-11-27,21,0,,,30,35.5,21,71,0,0.0,3,3.4999999999999982,1.5,single,1,2.682366666666667,False,96.9
+3d (justin timberlake remix)|jung kook,3D (Justin Timberlake Remix),Jung Kook & Justin Timberlake,2,True,False,False,2024-12-03,2024-12-05,38,75,71.0,5.0,13,0.5,36,76,1,2.0,3,,6.0,single,1,2.682366666666667,False,56.6
+3d (mk remix)|jung kook,3D (feat. Jack Harlow) (MK Remix),Jung Kook & Jack Harlow & MK,1,False,False,False,2024-10-31,2024-11-03,28,0,,,23,20.666666666666668,28,62,0,0.0,4,1.4999999999999978,1.247219128924647,single,1,3.104016666666667,True,85.3
+3d|jung kook,3D (feat. Jack Harlow),Jung Kook & Jack Harlow,1,False,False,True,2024-09-30,2025-11-27,2,0,,,49,29.333333333333332,2,89,0,0.0,420,0.015689431345982694,1.358005712783168,album,7,3.3635333333333333,True,99.3
+990|beenzino,990 (Feat. Kim Ximya),Beenzino,1,False,False,False,2024-07-05,2024-07-09,18,40,,,33,3.3333333333333335,18,50,0,0.0,5,7.799999999999998,4.205650960315181,album,18,3.560216666666667,True,84.2
+a bientot|lim young woong,A bientot,Lim Young Woong,1,False,True,False,2024-05-18,2024-07-04,41,58,,,10,0.0,34,58,12,0.5833333333333334,46,0.29381207028265893,3.145366963222786,album,12,4.272866666666666,False,54.4
+a bientot|lim young woong,A bientot,Lim Young Woong,2,True,False,False,2024-07-11,2024-07-13,47,59,58.0,6.0,4,0.0,47,59,0,0.0,2,,,album,12,4.272866666666666,False,22.8
+a bientot|lim young woong,A bientot,Lim Young Woong,3,True,False,False,2024-07-17,2024-07-18,50,59,59.0,3.0,1,0.0,50,59,0,0.0,2,,,album,12,4.272866666666666,False,3.4
+a bientot|lim young woong,A bientot,Lim Young Woong,4,True,False,False,2024-07-23,2024-07-25,50,58,59.0,4.0,1,0.0,46,58,2,2.0,3,,2.0,album,12,4.272866666666666,False,14.0
+a bientot|lim young woong,A bientot,Lim Young Woong,5,True,False,False,2024-08-04,2024-08-12,50,57,58.0,9.0,1,0.0,43,57,2,3.5,8,0.4571428571428569,2.415933503612538,album,12,4.272866666666666,False,20.9
+a bientot|lim young woong,A bientot,Lim Young Woong,6,True,False,False,2024-08-28,2024-08-28,49,57,57.0,15.0,2,0.0,49,57,0,0.0,1,,,album,12,4.272866666666666,False,10.4
+a bientot|lim young woong,A bientot,Lim Young Woong,7,True,False,False,2024-09-03,2024-09-04,50,57,57.0,5.0,1,0.0,46,57,1,4.0,2,,,album,12,4.272866666666666,False,14.0
+a bientot|lim young woong,A bientot,Lim Young Woong,8,True,False,False,2024-09-10,2024-09-14,44,57,57.0,5.0,7,0.3333333333333333,44,58,0,0.0,5,1.0999999999999954,1.224744871391589,album,12,4.272866666666666,False,39.8
+a bientot|lim young woong,A bientot,Lim Young Woong,9,True,False,False,2024-09-19,2024-10-05,50,57,58.0,4.0,1,0.0,43,57,5,1.4,14,0.28333333333333216,2.6934063692325534,album,12,4.272866666666666,False,20.9
+a bientot|lim young woong,A bientot,Lim Young Woong,10,True,False,False,2024-10-09,2024-10-09,48,57,57.0,3.0,3,0.0,48,57,0,0.0,1,,,album,12,4.272866666666666,False,16.8
+a bientot|lim young woong,A bientot,Lim Young Woong,11,True,False,False,2024-10-13,2025-04-26,45,57,57.0,3.0,6,0.3333333333333333,18,62,48,0.5625,191,0.1933418693982074,2.7880880371765686,album,12,4.272866666666666,False,62.1
+a bientot|lim young woong,A bientot,Lim Young Woong,12,True,False,False,2025-05-07,2025-05-07,43,55,56.0,10.0,8,0.0,43,55,0,0.0,1,,,album,12,4.272866666666666,False,42.3
+a bientot|lim young woong,A bientot,Lim Young Woong,13,True,False,False,2025-06-24,2025-06-25,45,51,55.0,47.0,6,0.0,45,51,0,0.0,2,,,album,12,4.272866666666666,False,33.2
+a bientot|lim young woong,A bientot,Lim Young Woong,14,True,False,False,2025-07-18,2025-07-20,48,55,51.0,21.0,3,0.0,48,55,0,0.0,3,-2.1708135360510523e-15,1.0,album,12,4.272866666666666,False,16.8
+a psalm of life|lim young woong,A Psalm of Life,Lim Young Woong,1,False,False,False,2024-06-06,2024-06-06,50,56,,,1,0.0,50,56,0,0.0,1,,,album,12,3.8893333333333335,False,3.4
+a psalm of life|lim young woong,A Psalm of Life,Lim Young Woong,2,True,False,False,2024-10-16,2025-02-12,50,57,56.0,131.0,1,0.0,25,61,45,0.5555555555555556,116,0.17300469483568062,2.9132381505361233,album,12,3.8893333333333335,False,50.5
+a psalm of life|lim young woong,A Psalm of Life,Lim Young Woong,3,True,False,False,2025-02-19,2025-02-20,45,58,58.0,6.0,6,0.0,45,58,0,0.0,2,,,album,12,3.8893333333333335,False,33.2
+a psalm of life|lim young woong,A Psalm of Life,Lim Young Woong,4,True,False,False,2025-02-26,2025-02-27,46,58,58.0,5.0,5,0.0,46,58,0,0.0,2,,,album,12,3.8893333333333335,False,28.6
+a yo|e sens,A Yo (Feat. Beenzino),E SENS,1,False,False,False,2024-07-15,2024-07-15,35,38,,,16,0.0,35,38,0,0.0,1,,,album,13,3.8666666666666667,False,60.6
+abcd|nayeon,ABCD,NAYEON,1,False,False,False,2025-06-17,2025-07-13,32,45,,,19,2.6666666666666665,26,67,1,6.0,26,0.9499999999999996,2.7147007201531443,album,7,2.714,False,72.2
+accendio|ive,Accendio,IVE,1,False,False,False,2025-05-24,2025-05-25,49,59,,,2,1.0,49,60,0,0.0,2,,,single,6,3.2002166666666665,False,14.5
+after like|ive,After LIKE,IVE,1,False,True,False,2024-05-18,2024-07-04,34,84,,,17,0.0,30,85,11,0.36363636363636365,48,0.2868658131816029,3.3035640657389753,single,2,2.94955,False,63.6
+ak47|men's tear,AK47,Men's Tear & 뷰티풀너드,1,False,False,False,2025-03-02,2025-03-27,20,39,,,31,3.0,20,52,0,0.0,24,1.0913043478260869,3.4553593889227003,single,1,2.675,False,82.0
+all i want for christmas is you|mariah carey,All I Want for Christmas Is You,Mariah Carey,1,False,False,False,2024-12-11,2024-12-11,44,98,,,7,0.0,44,98,0,0.0,1,,,album,10,4.018433333333333,False,38.3
+all i want for christmas is you|mariah carey,All I Want for Christmas Is You,Mariah Carey,2,True,False,False,2024-12-17,2024-12-27,24,99,98.0,5.0,27,0.3333333333333333,9,100,8,1.875,11,0.5,6.887670143089026,album,10,4.018433333333333,False,82.4
+all or nothing|j money,All Or Nothing,J Money & KingLee,1,False,False,False,2024-12-22,2024-12-22,30,45,,,21,0.0,30,45,0,0.0,1,,,single,1,2.858016666666667,True,68.8
+all or nothing|j money,All Or Nothing,J Money & KingLee,2,True,False,False,2025-01-17,2025-01-17,26,52,45.0,25.0,25,0.0,26,52,0,0.0,1,,,single,1,2.858016666666667,True,74.3
+all red|playboi carti,ALL RED,Playboi Carti,1,False,False,False,2025-09-15,2025-09-17,13,81,,,38,2.5,13,86,0,0.0,3,17.5,5.5,single,1,2.46755,True,87.6
+allergy|(g)i-dle,Allergy,(G)I-DLE,1,False,True,False,2024-05-18,2024-06-11,17,68,,,34,1.6666666666666667,17,78,0,0.0,25,0.7923076923076917,3.1655699855370965,single,6,2.7131,False,83.9
+alone|jimin,Alone,Jimin,1,False,True,False,2024-05-18,2025-07-01,26,80,,,25,0.0,5,82,41,0.5121951219512195,405,0.05259037351191772,4.535496484395584,single,6,3.5208333333333335,False,82.6
+alone|jimin,Alone,Jimin,2,True,False,False,2025-07-19,2025-07-20,43,71,71.0,16.0,8,0.0,43,71,0,0.0,2,,,single,6,3.5208333333333335,False,42.3
+angel pt. 1 - trailer version|fast,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",Fast & Furious: The Fast Saga & Jimin & BTS,1,False,True,False,2024-05-18,2024-06-04,14,79,,,37,0.6666666666666666,10,81,2,2.0,18,1.594117647058823,7.002224065860226,single,1,1.0464833333333334,False,86.7
+angel pt. 1 - trailer version|fast,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",Fast & Furious: The Fast Saga & Jimin & BTS,2,True,False,False,2024-09-14,2024-09-16,35,70,81.0,101.0,16,0.0,35,70,0,0.0,3,6.999999999999998,7.0,single,1,1.0464833333333334,False,60.6
+angel pt. 1 - trailer version|fast,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",Fast & Furious: The Fast Saga & Jimin & BTS,3,True,False,False,2024-10-27,2025-01-03,50,71,70.0,40.0,1,0.0,12,71,43,0.8837209302325582,66,1.7974308300395259,4.618716745882802,single,1,1.0464833333333334,False,61.2
+angel pt. 1|fast,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",Fast & Furious: The Fast Saga,1,False,False,False,2024-05-20,2024-12-23,7,27,,,44,18.0,1,90,1,6.0,218,0.1392130197250055,2.541782760589543,single,2,2.9300333333333333,False,97.8
+angel pt. 2|fast,"Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,1,False,False,False,2024-06-17,2024-08-19,5,55,,,46,4.333333333333333,5,75,0,0.0,62,0.8414545088262697,2.1693920248751826,single,2,2.9409,False,94.3
+angel pt. 2|fast,"Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,2,True,False,False,2024-08-24,2024-08-24,50,72,72.0,4.0,1,0.0,50,72,0,0.0,1,,,single,2,2.9409,False,3.4
+angel pt. 2|fast,"Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,3,True,False,False,2024-11-03,2024-11-04,44,69,72.0,70.0,7,0.0,44,69,0,0.0,2,,,single,2,2.9409,False,38.3
+another level|jin,Another Level,Jin,1,False,False,True,2025-11-17,2025-11-27,23,67,,,28,2.6666666666666665,23,75,0,0.0,11,1.2636363636363648,4.716990566028302,album,8,2.7139,False,78.9
+antifragile|le sserafim,ANTIFRAGILE,LE SSERAFIM,1,False,True,False,2024-05-18,2024-07-04,29,74,,,22,0.3333333333333333,26,79,5,0.6,48,0.35215946843853807,2.498528312866328,album,13,3.0740666666666665,False,72.5
+antifragile|le sserafim,ANTIFRAGILE,LE SSERAFIM,2,True,False,False,2024-07-17,2024-07-18,49,79,79.0,12.0,2,0.0,49,79,0,0.0,2,,,album,13,3.0740666666666665,False,10.4
+apt.|rosé,APT.,ROSÉ & Bruno Mars,1,False,False,True,2025-10-20,2025-11-27,2,76,,,49,4.0,2,98,0,0.0,39,0.05526315789473685,0.5520046569316587,single,1,2.83195,False,96.3
+armageddon|aespa,Armageddon,aespa,1,False,False,True,2025-05-29,2025-11-27,8,64,,,43,2.6666666666666665,4,80,7,0.5714285714285714,180,0.1942071375926501,2.8828223082873383,album,10,3.2744333333333335,False,92.3
+as you wish|wjsn,As You Wish,WJSN,1,False,False,False,2025-01-01,2025-01-02,39,52,,,12,1.0,39,53,0,0.0,2,,,single,7,3.2611166666666667,False,54.1
+asap|newjeans,ASAP,NewJeans,1,False,False,False,2024-07-23,2024-09-04,7,76,,,44,2.3333333333333335,7,86,0,0.0,44,0.9899224806201549,2.023122155435493,single,6,2.2397666666666667,False,91.7
+attention (250 remix)|newjeans,Attention (250 Remix),NewJeans,1,False,False,False,2024-12-22,2024-12-22,47,58,,,4,0.0,47,58,0,0.0,1,,,album,12,3.0233333333333334,False,22.8
+attention|newjeans,Attention,NewJeans,1,False,True,False,2024-05-18,2024-09-04,30,84,,,21,0.0,26,85,55,0.07272727272727272,107,0.276829164176556,2.54690774333186,single,4,3.0011,False,71.1
+attention|newjeans,Attention,NewJeans,2,True,False,False,2024-09-15,2024-09-29,48,83,83.0,10.0,3,-0.3333333333333333,45,83,2,1.5,14,0.10139860139860249,1.8810798862519205,single,4,3.0011,False,24.8
+attention|newjeans,Attention,NewJeans,3,True,False,False,2025-04-28,2025-05-14,38,78,81.0,208.0,13,0.0,34,78,1,4.0,15,1.0747252747252736,2.503059352562176,single,4,3.0011,False,57.9
+attention|newjeans,Attention,NewJeans,4,True,False,False,2025-05-19,2025-05-19,48,78,78.0,4.0,3,0.0,48,78,0,0.0,1,,,single,4,3.0011,False,16.8
+attention|newjeans,Attention,NewJeans,5,True,False,False,2025-06-01,2025-06-08,50,77,78.0,12.0,1,0.0,44,77,7,0.8571428571428571,8,,2.531435020952764,single,4,3.0011,False,19.9
+attention|newjeans,Attention,NewJeans,6,True,False,False,2025-06-14,2025-06-17,48,72,76.0,5.0,3,0.0,48,72,0,0.0,4,0.6000000000000033,0.9428090415820634,single,4,3.0011,False,16.8
+attention|newjeans,Attention,NewJeans,7,True,False,False,2025-06-28,2025-06-29,50,75,72.0,10.0,1,0.0,49,75,1,1.0,2,,,single,4,3.0011,False,6.7
+back to me|kanye west,BACK TO ME,Kanye West & Ty Dolla $ign,1,False,False,False,2025-02-13,2025-02-14,23,80,,,28,4.0,23,84,0,0.0,2,,,album,16,4.924516666666666,True,80.1
+baddie|ive,Baddie,IVE,1,False,False,False,2024-10-14,2024-12-01,24,0,,,27,23.0,10,83,3,4.666666666666667,49,0.9966697502312672,2.6611270586392948,single,6,2.5726666666666667,False,93.4
+baddie|ive,Baddie,IVE,2,True,False,False,2024-12-09,2024-12-18,49,82,82.0,7.0,2,0.0,39,82,2,5.0,10,1.2142857142857124,3.6951753662924203,single,6,2.5726666666666667,False,34.6
+baddie|ive,Baddie,IVE,3,True,False,False,2025-01-05,2025-01-06,50,80,82.0,17.0,1,0.0,48,80,1,2.0,2,,,single,6,2.5726666666666667,False,7.4
+baddie|ive,Baddie,IVE,4,True,False,False,2025-01-22,2025-01-22,49,81,80.0,15.0,2,0.0,49,81,0,0.0,1,,,single,6,2.5726666666666667,False,10.4
+baggy jeans|nct,Baggy Jeans,NCT,1,False,False,False,2024-08-30,2024-09-21,23,47,,,28,3.6666666666666665,23,64,0,0.0,23,0.8873517786561267,8.652258101093256,album,10,3.5231,False,79.8
+baggy jeans|nct,Baggy Jeans,NCT,2,True,False,False,2024-09-28,2024-09-28,50,64,64.0,6.0,1,0.0,50,64,0,0.0,1,,,album,10,3.5231,False,3.4
+bahama|aespa,BAHAMA,aespa,1,False,False,False,2025-05-30,2025-05-30,41,56,,,10,0.0,41,56,0,0.0,1,,,album,10,3.17555,False,47.9
+bam yang gang|bibi,Bam Yang Gang,BIBI,1,False,False,False,2025-02-15,2025-04-30,44,48,,,7,4.333333333333333,4,77,7,5.714285714285714,73,0.5996660056361549,4.574971328251248,single,2,2.4366166666666667,False,75.8
+bam yang gang|bibi,Bam Yang Gang,BIBI,2,True,False,False,2025-05-05,2025-05-07,47,76,76.0,4.0,4,0.0,43,76,1,4.0,3,,4.5,single,2,2.4366166666666667,False,31.4
+be mine|jimin,Be Mine,Jimin,1,False,False,True,2025-07-21,2025-11-27,6,71,,,45,2.6666666666666665,2,83,14,0.2857142857142857,129,0.01732028722480864,0.544638283060418,album,7,3.455783333333333,False,93.9
+beautiful things|benson boone,Beautiful Things,Benson Boone,1,False,False,False,2025-02-01,2025-04-30,48,91,,,3,0.6666666666666666,20,100,31,0.9032258064516129,85,0.43956546598056023,2.8576388458380513,single,1,3.0050666666666666,False,58.3
+better things|aespa,Better Things,aespa,1,False,False,False,2024-08-19,2024-09-16,36,0,,,15,24.666666666666668,30,81,3,2.0,27,0.5521739130434775,3.992596699187994,single,1,3.3869333333333334,False,82.8
+better things|aespa,Better Things,aespa,2,True,False,False,2024-10-02,2024-10-06,50,80,81.0,15.0,1,0.0,49,81,2,0.5,5,0.4999999999999976,0.7071067811865476,single,1,3.3869333333333334,False,6.7
+big dawgs|hanumankind,Big Dawgs,Hanumankind & Kalmi,1,False,False,False,2025-08-25,2025-08-31,48,92,,,3,0.0,48,92,0,0.0,6,0.14285714285714368,0.4,single,1,3.177766666666667,True,16.8
+birds of a feather|billie eilish,BIRDS OF A FEATHER,Billie Eilish,1,False,False,False,2025-05-21,2025-11-24,47,86,,,4,1.3333333333333333,15,100,83,0.3855421686746988,185,0.15030732085201653,3.0883675204545953,album,10,3.5062166666666665,False,62.8
+bite me|enhypen,Bite Me,ENHYPEN,1,False,False,False,2024-05-24,2024-06-10,39,71,,,12,3.3333333333333335,23,88,1,16.0,18,1.1348039215686276,5.49929218471541,single,6,2.6255166666666665,False,68.2
+bite me|enhypen,Bite Me,ENHYPEN,2,True,False,False,2024-06-14,2024-06-18,47,88,88.0,3.0,4,0.3333333333333333,47,89,0,0.0,5,0.29999999999999377,1.479019945774904,single,6,2.6255166666666665,False,25.1
+bling-bang-bang-born|creepy nuts,Bling-Bang-Bang-Born,Creepy Nuts,1,False,False,False,2025-01-24,2025-02-20,49,87,,,2,0.3333333333333333,34,92,4,3.75,27,0.4673913043478258,5.049605995526698,single,2,2.80225,False,43.6
+bling-bang-bang-born|creepy nuts,Bling-Bang-Bang-Born,Creepy Nuts,2,True,False,False,2025-03-13,2025-03-30,48,91,92.0,20.0,3,0.0,40,91,4,2.0,16,1.0209790209790213,2.988868236194653,single,2,2.80225,False,35.8
+blue|v,Blue,V,1,False,False,False,2024-09-10,2024-11-07,11,73,,,40,2.6666666666666665,10,86,5,0.2,59,0.6930817610062893,2.355768087441413,single,6,2.49755,False,88.8
+blue|v,Blue,V,2,True,False,False,2024-12-31,2025-01-11,46,80,85.0,53.0,5,0.3333333333333333,43,82,1,3.0,8,0.8214285714285721,1.979486637221574,single,6,2.49755,False,36.1
+boat|george,Boat,george,1,False,False,False,2024-06-25,2024-06-27,50,58,,,1,0.0,49,58,2,0.5,3,,0.5,single,1,3.1999,False,6.7
+boom boom bass|riize,Boom Boom Bass,RIIZE,1,False,False,False,2025-06-18,2025-09-24,14,0,,,37,18.0,12,69,1,2.0,95,0.256973593902395,3.1376486887155,album,8,2.54815,False,95.2
+boys like girls|leellamarz,"Boys Like Girls (Feat. Gist, Jayci yucca)",Leellamarz,1,False,False,False,2024-10-27,2024-10-31,37,0,,,14,15.0,33,47,2,2.0,5,4.500000000000005,3.960744879438715,album,12,2.43955,False,74.6
+broken melodies|nct dream,Broken Melodies,NCT DREAM,1,False,False,False,2024-06-21,2024-06-30,14,60,,,37,3.0,12,72,1,2.0,10,4.599999999999999,3.9440531887330774,single,1,3.7693333333333334,False,87.7
+broken melodies|nct dream,Broken Melodies,NCT DREAM,2,True,False,False,2024-07-20,2024-07-21,44,56,72.0,19.0,7,0.0,44,56,0,0.0,2,,,single,1,3.7693333333333334,False,38.3
+bubble gum (instrumental)|newjeans,Bubble Gum (Instrumental),NewJeans,1,False,False,False,2025-05-26,2025-05-26,44,52,,,7,0.0,44,52,0,0.0,1,,,single,4,3.3377666666666665,False,38.3
+bubble gum|newjeans,Bubble Gum,NewJeans,1,False,False,False,2025-05-26,2025-10-06,4,67,,,47,3.0,3,81,2,0.5,127,0.3687250384024578,1.9652434734151791,single,4,3.3377666666666665,False,95.0
+bubble gum|newjeans,Bubble Gum,NewJeans,2,True,False,False,2025-10-14,2025-10-14,50,74,75.0,7.0,1,0.0,50,74,0,0.0,1,,,single,4,3.3377666666666665,False,3.4
+bubble|stayc,Bubble,STAYC,1,False,False,False,2024-08-18,2024-08-18,47,58,,,4,0.0,47,58,0,0.0,1,,,single,6,2.9879166666666666,False,22.8
+burn|kanye west,BURN,Kanye West & Ty Dolla $ign,1,False,False,False,2025-02-13,2025-02-13,40,80,,,11,0.0,40,80,0,0.0,1,,,album,16,1.8576333333333332,True,49.9
+but daddy i love him|taylor swift,But Daddy I Love Him,Taylor Swift,1,False,False,False,2025-04-21,2025-04-22,50,80,,,1,2.0,50,82,0,0.0,2,,,album,16,5.6738,True,13.3
+but sometimes|boynextdoor,But Sometimes,BOYNEXTDOOR,1,False,False,False,2024-09-06,2024-09-23,31,53,,,20,3.6666666666666665,31,70,0,0.0,18,0.4654282765737879,6.316343386139349,single,6,2.918433333333333,False,70.8
+but sometimes|boynextdoor,But Sometimes,BOYNEXTDOOR,2,True,False,False,2024-09-27,2024-09-27,49,70,70.0,3.0,2,0.0,49,70,0,0.0,1,,,single,6,2.918433333333333,False,10.4
+"by color, white color|yanghongwon","BY COLOR, WHITE COLOR (Feat. KOVV)",YANGHONGWON,1,False,False,False,2025-05-26,2025-05-28,30,36,,,21,2.5,30,41,0,0.0,3,9.0,6.0,album,8,3.2666666666666666,False,71.2
+bye|ariana grande,bye,Ariana Grande,1,False,False,False,2025-03-10,2025-03-15,41,78,,,10,2.3333333333333335,34,87,3,2.3333333333333335,5,,7.0178344238090995,album,13,2.7487833333333334,False,57.2
+camp|beenzino,Camp,Beenzino,1,False,False,False,2024-07-05,2024-07-06,41,37,,,10,6.0,41,43,0,0.0,2,,,album,18,3.6748833333333333,True,56.2
+candy|jay park,Candy (Feat. Zion.T),Jay Park,1,False,False,False,2024-05-26,2024-06-01,31,55,,,20,2.3333333333333335,31,63,0,0.0,5,3.0999999999999988,6.18465843842649,single,1,3.1003166666666666,False,69.8
+candy|jay park,Candy (Feat. Zion.T),Jay Park,2,True,False,False,2024-06-05,2024-06-05,45,65,63.0,3.0,6,0.0,45,65,0,0.0,1,,,single,1,3.1003166666666666,False,33.2
+candy|jay park,Candy (Feat. Zion.T),Jay Park,3,True,False,False,2024-06-09,2024-06-09,50,66,65.0,3.0,1,0.0,50,66,0,0.0,1,,,single,1,3.1003166666666666,False,3.4
+carnival|kanye west,CARNIVAL,Kanye West & Ty Dolla $ign,1,False,False,False,2025-02-13,2025-02-15,22,82,,,29,3.5,22,89,0,0.0,3,3.000000000000003,3.0,album,16,4.4054,True,80.5
+carnival|¥$,CARNIVAL,¥$ & Kanye West & Ty Dolla $ign,1,False,False,False,2025-02-16,2025-02-21,33,0,,,18,27.0,24,86,1,9.0,6,4.599999999999997,6.29285308902091,album,16,4.4054,True,87.4
+carnival|¥$,CARNIVAL,¥$ & Kanye West & Ty Dolla $ign,2,True,False,False,2025-03-06,2025-03-08,50,96,86.0,12.0,1,0.0,48,96,1,2.0,2,,,album,16,4.4054,True,7.4
+carnival|¥$,CARNIVAL,¥$ & Kanye West & Ty Dolla $ign,3,True,False,False,2025-03-15,2025-03-20,42,97,96.0,5.0,9,0.0,42,97,0,0.0,6,1.6000000000000003,2.0591260281974,album,16,4.4054,True,45.6
+chasing lightning|le sserafim,Chasing Lightning,LE SSERAFIM,1,False,False,False,2025-09-01,2025-09-01,40,60,,,11,0.0,40,60,0,0.0,1,,,single,5,3.4181666666666666,False,49.9
+chasing that feeling|tomorrow x together,Chasing That Feeling,TOMORROW X TOGETHER,1,False,False,False,2024-10-14,2024-10-18,37,0,,,14,24.666666666666668,37,77,0,0.0,5,1.799999999999998,1.5,album,10,3.0445,False,79.7
+cheers to youth|seventeen,Cheers to youth,SEVENTEEN,1,False,False,False,2025-05-01,2025-05-03,44,62,,,7,2.0,31,66,1,13.0,3,,12.5,album,33,3.1924333333333332,False,55.8
+chemical|post malone,Chemical,Post Malone,1,False,False,False,2024-07-29,2024-07-29,49,91,,,2,0.0,49,91,0,0.0,1,,,single,1,3.066883333333333,True,10.4
+cherish (my love)|illit,Cherish (My Love),ILLIT,1,False,False,True,2025-10-23,2025-11-27,25,59,,,26,4.0,8,74,2,8.5,36,0.4339190221543163,3.1441555759399513,single,7,2.9475666666666664,False,84.7
+chihiro|billie eilish,CHIHIRO,Billie Eilish,1,False,False,False,2025-05-19,2025-05-19,47,61,,,4,0.0,47,61,0,0.0,1,,,album,10,5.057333333333333,False,22.8
+chihiro|billie eilish,CHIHIRO,Billie Eilish,2,True,False,False,2025-05-23,2025-05-25,46,90,61.0,3.0,5,1.0,46,92,0,0.0,3,0.5000000000000009,0.5,album,10,5.057333333333333,False,31.5
+chill kill|red velvet,Chill Kill,Red Velvet,1,False,False,False,2024-11-15,2024-12-01,30,62,,,21,3.0,28,75,1,2.0,17,1.0323529411764705,2.1505813167606567,album,10,3.58,False,72.9
+chk chk boom|stray kids,Chk Chk Boom,Stray Kids,1,False,False,False,2025-07-21,2025-08-03,28,73,,,23,-4.666666666666667,28,73,0,0.0,14,1.518681318681318,2.7883952246756705,album,8,2.4675166666666666,False,66.3
+chk chk boom|stray kids,Chk Chk Boom,Stray Kids,2,True,False,False,2025-08-07,2025-08-09,44,68,67.0,3.0,7,0.0,44,68,0,0.0,3,2.5,3.5,album,8,2.4675166666666666,False,38.3
+christmas love|jimin,Christmas Love,Jimin,1,False,False,False,2024-06-18,2024-06-22,50,68,,,1,0.0,48,68,1,2.0,3,,1.0,single,1,3.2988333333333335,False,7.4
+christmas love|jimin,Christmas Love,Jimin,2,True,False,False,2024-11-05,2024-11-11,28,69,68.0,135.0,23,0.0,28,69,0,0.0,5,2.8,12.871965661856,single,1,3.2988333333333335,False,71.9
+christmas love|jimin,Christmas Love,Jimin,3,True,False,False,2024-11-18,2024-11-18,48,69,69.0,6.0,3,0.0,48,69,0,0.0,1,,,single,1,3.2988333333333335,False,16.8
+christmas love|jimin,Christmas Love,Jimin,4,True,False,False,2024-11-22,2024-11-24,49,69,69.0,3.0,2,0.0,46,69,1,3.0,2,,,single,1,3.2988333333333335,False,19.1
+christmas love|jimin,Christmas Love,Jimin,5,True,False,False,2024-11-28,2024-11-28,48,69,69.0,3.0,3,0.0,48,69,0,0.0,1,,,single,1,3.2988333333333335,False,16.8
+christmas love|jimin,Christmas Love,Jimin,6,True,False,False,2024-12-02,2024-12-05,50,69,69.0,3.0,1,0.0,46,69,1,4.0,3,,2.5,single,1,3.2988333333333335,False,14.0
+christmas love|jimin,Christmas Love,Jimin,7,True,False,False,2024-12-09,2024-12-12,40,70,69.0,3.0,11,0.0,40,70,0,0.0,3,0.9999999999999992,0.0,single,1,3.2988333333333335,False,49.9
+christmas love|jimin,Christmas Love,Jimin,8,True,False,False,2024-12-17,2024-12-28,33,71,70.0,4.0,18,0.0,24,71,7,1.2857142857142858,11,8.700000000000003,8.039900496896713,single,1,3.2988333333333335,False,70.2
+christmas tree|v,Christmas Tree,V,1,False,False,False,2024-07-02,2024-09-09,45,82,,,6,0.0,16,84,58,0.5,70,0.9230769230769239,4.000997565168983,single,2,3.4991,False,62.5
+christmas tree|v,Christmas Tree,V,2,True,False,False,2024-09-18,2024-09-19,44,81,82.0,8.0,7,0.0,44,81,0,0.0,2,,,single,2,3.4991,False,38.3
+christmas without you|ava max,Christmas Without You,Ava Max,1,False,False,False,2024-12-25,2024-12-27,48,85,,,3,0.0,48,85,0,0.0,3,0.49999999999999584,0.5,single,1,2.82075,False,16.8
+circles|post malone,Circles,Post Malone,1,False,False,False,2024-11-05,2024-11-06,38,89,,,13,0.0,38,89,0,0.0,2,,,album,17,3.588,False,54.8
+citi+|yanghongwon,Citi+,YANGHONGWON,1,False,False,False,2024-12-20,2024-12-20,33,40,,,18,0.0,33,40,0,0.0,1,,,single,1,2.5277666666666665,False,63.0
+click like (prod. crush)|various artists,Click Like (Prod. Crush) (Feat. Paul Blanco),Various Artists,1,False,False,False,2024-09-07,2024-09-09,43,46,,,8,7.0,41,60,2,1.0,3,,1.0,single,4,2.7664333333333335,False,55.4
+click like (prod. crush)|various artists,Click Like (Prod. Crush) (Feat. Paul Blanco),Various Artists,2,True,False,False,2024-09-13,2024-09-13,48,66,60.0,3.0,3,0.0,48,66,0,0.0,1,,,single,4,2.7664333333333335,False,16.8
+closer than this|jimin,Closer Than This,Jimin,1,False,False,True,2024-12-24,2025-11-27,2,79,,,49,1.0,2,93,0,0.0,335,0.026931744187531116,1.1427128276185397,single,1,3.7217,False,95.1
+closer to you|jung kook,Closer to You (feat. Major Lazer),Jung Kook,1,False,False,False,2024-11-04,2024-12-16,10,0,,,41,27.333333333333332,10,87,0,0.0,41,0.995121951219512,4.4212554778026565,album,11,2.8499166666666667,False,97.9
+closer to you|jung kook,Closer to You (feat. Major Lazer),Jung Kook,2,True,False,False,2024-12-20,2024-12-21,49,85,86.0,3.0,2,0.0,47,85,1,2.0,2,,,album,11,2.8499166666666667,False,14.7
+closer to you|jung kook,Closer to You (feat. Major Lazer),Jung Kook,3,True,False,False,2024-12-29,2024-12-29,43,81,85.0,7.0,8,0.0,43,81,0,0.0,1,,,album,11,2.8499166666666667,False,42.3
+closer to you|jung kook,Closer to You (feat. Major Lazer),Jung Kook,4,True,False,False,2025-01-05,2025-01-05,46,83,81.0,6.0,5,0.0,46,83,0,0.0,1,,,album,11,2.8499166666666667,False,28.6
+closer to you|jung kook,Closer to You (feat. Major Lazer),Jung Kook,5,True,False,False,2025-01-10,2025-01-12,47,84,83.0,4.0,4,0.0,47,84,0,0.0,2,,,album,11,2.8499166666666667,False,22.8
+closer to you|jung kook,Closer to You (feat. Major Lazer),Jung Kook,6,True,False,False,2025-01-16,2025-01-16,49,83,84.0,3.0,2,0.0,49,83,0,0.0,1,,,album,11,2.8499166666666667,False,10.4
+closer to you|jung kook,Closer to You (feat. Major Lazer),Jung Kook,7,True,False,False,2025-02-25,2025-03-07,49,82,83.0,39.0,2,0.0,37,82,6,2.0,9,5.500000000000001,5.732309743899051,album,11,2.8499166666666667,False,37.1
+closer to you|jung kook,Closer to You (feat. Major Lazer),Jung Kook,8,True,False,False,2025-03-16,2025-03-17,50,79,80.0,7.0,1,0.0,50,79,0,0.0,2,,,album,11,2.8499166666666667,False,3.4
+closer to you|jung kook,Closer to You (feat. Major Lazer),Jung Kook,9,True,False,False,2025-06-08,2025-06-08,48,75,79.0,81.0,3,0.0,48,75,0,0.0,1,,,album,11,2.8499166666666667,False,16.8
+coca cola red|beenzino,Coca Cola Red (Feat. oygli),Beenzino,1,False,False,False,2024-07-05,2024-07-09,23,40,,,28,3.0,23,49,0,0.0,5,7.099999999999996,4.031128874149275,album,18,3.33755,True,79.3
+combo|riize,Combo,RIIZE,1,False,False,False,2025-09-05,2025-09-06,41,34,,,10,8.0,41,42,0,0.0,2,,,album,9,3.6591833333333335,False,59.5
+come back to me|rm,Come back to me,RM,1,False,False,False,2025-05-12,2025-05-16,21,68,,,30,2.6666666666666665,21,78,0,0.0,5,6.1999999999999975,6.020797289396148,single,1,6.482666666666667,False,81.0
+come back to me|rm,Come back to me,RM,2,True,False,False,2025-05-26,2025-05-26,42,63,78.0,9.0,9,0.0,42,63,0,0.0,1,,,single,1,6.482666666666667,False,45.6
+cool with you|newjeans,Cool With You,NewJeans,1,False,False,False,2024-07-23,2024-10-15,4,76,,,47,3.0,4,89,0,0.0,85,0.5437561070940005,1.2854938082564846,single,6,2.4646666666666666,False,94.5
+cool with you|newjeans,Cool With You,NewJeans,2,True,False,False,2024-10-19,2024-10-19,48,85,85.0,3.0,3,0.0,48,85,0,0.0,1,,,single,6,2.4646666666666666,False,16.8
+cosmic|red velvet,Cosmic,Red Velvet,1,False,False,False,2025-06-26,2025-07-21,33,55,,,18,3.6666666666666665,18,73,1,15.0,25,0.8552173913043477,4.0600954422279285,single,6,3.7644,False,76.3
+crazier|le sserafim,Crazier,LE SSERAFIM,1,False,False,False,2025-09-01,2025-09-01,47,61,,,4,0.0,47,61,0,0.0,1,,,single,5,2.9789333333333334,False,22.8
+crazy|le sserafim,CRAZY,LE SSERAFIM,1,False,False,False,2025-09-01,2025-11-23,8,70,,,43,-8.0,4,80,1,4.0,83,0.3934219261871335,1.6765964361634846,album,8,2.742566666666667,False,87.3
+cream soda|exo,Cream Soda,EXO,1,False,False,False,2024-07-13,2024-07-14,43,74,,,8,3.0,43,77,0,0.0,2,,,album,9,3.0886666666666667,False,47.4
+crime|beenzino,"Crime (Feat. Bek Hyunjin, 250)",Beenzino,1,False,False,False,2024-07-05,2024-07-06,48,37,,,3,6.0,48,43,0,0.0,2,,,album,18,3.6046666666666667,True,37.2
+crooked|g-dragon,CROOKED,G-DRAGON,1,False,False,False,2025-11-02,2025-11-05,49,60,,,2,0.3333333333333333,37,61,2,6.0,4,,4.898979485566356,album,12,3.7465333333333333,False,39.4
+crooked|g-dragon,CROOKED,G-DRAGON,2,True,False,False,2025-11-09,2025-11-10,47,62,61.0,3.0,4,1.0,47,63,0,0.0,2,,,album,12,3.7465333333333333,False,26.5
+crooked|g-dragon,CROOKED,G-DRAGON,3,True,False,True,2025-11-27,2025-11-27,47,65,63.0,16.0,4,0.0,47,65,0,0.0,1,,,album,12,3.7465333333333333,False,22.8
+cruel summer|taylor swift,Cruel Summer,Taylor Swift,1,False,False,False,2024-07-02,2024-09-29,38,97,,,13,0.3333333333333333,35,100,2,1.5,88,0.006934289353271326,3.334918370671286,album,18,2.9737666666666667,False,57.4
+cruel summer|taylor swift,Cruel Summer,Taylor Swift,2,True,False,False,2024-10-04,2024-10-08,46,98,98.0,4.0,5,0.0,43,99,2,1.5,5,3.4999999999999956,2.9154759474226504,album,18,2.9737666666666667,False,35.4
+cruel summer|taylor swift,Cruel Summer,Taylor Swift,3,True,False,False,2024-10-20,2024-10-25,45,99,99.0,11.0,6,0.3333333333333333,45,100,0,0.0,4,1.8999999999999977,1.699673171197595,album,18,2.9737666666666667,False,35.0
+cruel summer|taylor swift,Cruel Summer,Taylor Swift,4,True,False,False,2024-12-28,2025-04-27,48,95,100.0,63.0,3,0.3333333333333333,22,100,55,0.4727272727272727,118,0.27318548387096825,3.8386251099896085,album,18,2.9737666666666667,False,56.1
+cruel summer|taylor swift,Cruel Summer,Taylor Swift,5,True,False,False,2025-06-12,2025-06-21,50,88,96.0,45.0,1,0.0,45,89,7,0.7142857142857143,9,,0.9921567416492215,album,18,2.9737666666666667,False,18.7
+cruel summer|taylor swift,Cruel Summer,Taylor Swift,6,True,False,False,2025-07-31,2025-08-27,50,92,89.0,38.0,1,0.3333333333333333,39,93,12,0.9166666666666666,24,0.8391608391608395,1.917977826096763,album,18,2.9737666666666667,False,31.9
+cruel summer|taylor swift,Cruel Summer,Taylor Swift,7,True,False,False,2025-08-31,2025-08-31,43,92,92.0,3.0,8,0.0,43,92,0,0.0,1,,,album,18,2.9737666666666667,False,42.3
+cruel summer|taylor swift,Cruel Summer,Taylor Swift,8,True,False,False,2025-09-18,2025-09-18,49,92,92.0,17.0,2,0.0,49,92,0,0.0,1,,,album,18,2.9737666666666667,False,10.4
+cupid - twin ver.|fifty fifty,Cupid - Twin Ver.,FIFTY FIFTY,1,False,True,False,2024-05-18,2024-07-21,10,97,,,41,0.3333333333333333,10,99,0,0.0,63,0.6004224270353303,2.768608406366702,single,3,2.9042166666666667,False,88.1
+cupid - twin ver.|fifty fifty,Cupid - Twin Ver.,FIFTY FIFTY,2,True,False,False,2024-07-26,2024-07-26,49,97,98.0,4.0,2,0.0,49,97,0,0.0,1,,,single,3,2.9042166666666667,False,10.4
+cupid - twin ver.|fifty fifty,Cupid - Twin Ver.,FIFTY FIFTY,3,True,False,False,2024-08-06,2024-08-06,50,96,97.0,10.0,1,0.0,50,96,0,0.0,1,,,single,3,2.9042166666666667,False,3.4
+cupido|engel montaz,Cupido,Engel Montaz & Kuv507 & Latinnites Music,1,False,False,False,2025-01-06,2025-01-10,25,68,,,26,0.6666666666666666,25,70,0,0.0,4,2.1000000000000028,15.195028426721976,single,1,3.5833333333333335,False,76.1
+cupid|fifty fifty,Cupid,FIFTY FIFTY,1,False,True,False,2024-05-18,2024-07-04,16,88,,,35,0.0,15,88,3,0.3333333333333333,48,0.4881422924901189,1.540166899647137,single,3,2.9042166666666667,False,84.6
+cupid|fifty fifty,Cupid,FIFTY FIFTY,2,True,False,False,2024-07-09,2024-07-12,50,87,87.0,4.0,1,0.0,42,87,1,8.0,4,3.999999999999994,6.164414002968976,single,3,2.9042166666666667,False,25.5
+dance the night (from barbie the album)|dua lipa,Dance The Night (From Barbie The Album),Dua Lipa,1,False,False,False,2024-06-03,2024-06-03,42,86,,,9,0.0,42,86,0,0.0,1,,,single,1,2.9429833333333333,False,45.6
+dance the night (from barbie the album)|dua lipa,Dance The Night (From Barbie The Album),Dua Lipa,2,True,False,False,2024-06-09,2024-06-09,46,90,86.0,5.0,5,0.0,46,90,0,0.0,1,,,single,1,2.9429833333333333,False,28.6
+dance the night (from barbie the album)|dua lipa,Dance The Night (From Barbie The Album),Dua Lipa,3,True,False,False,2024-07-26,2024-08-11,45,95,90.0,46.0,6,0.3333333333333333,41,97,1,4.0,16,0.1321428571428579,3.2903900478008175,single,1,2.9429833333333333,False,41.4
+dancing in the flames|the weeknd,Dancing In The Flames,The Weeknd,1,False,False,False,2025-09-15,2025-09-21,15,77,,,36,1.6666666666666667,15,85,0,0.0,7,4.071428571428572,7.3805299418281765,single,1,3.6672666666666665,False,85.8
+dangerously|charlie puth,Dangerously,Charlie Puth,1,False,True,False,2024-05-18,2024-06-08,43,47,,,8,0.0,37,63,11,0.5454545454545454,21,1.054545454545456,2.9030156733989574,album,14,3.3188833333333334,False,48.6
+dangerously|charlie puth,Dangerously,Charlie Puth,2,True,False,False,2024-06-13,2024-06-20,49,64,63.0,4.0,2,0.0,42,64,4,1.75,6,,4.955804677345547,album,14,3.3188833333333334,False,27.3
+dangerously|charlie puth,Dangerously,Charlie Puth,3,True,False,False,2024-07-01,2024-07-01,44,65,64.0,10.0,7,0.0,44,65,0,0.0,1,,,album,14,3.3188833333333334,False,38.3
+dangerous|boynextdoor,Dangerous,BOYNEXTDOOR,1,False,False,False,2025-09-04,2025-09-15,39,53,,,12,3.3333333333333335,25,66,7,2.0,12,3.399999999999999,8.157539736063475,single,1,2.3962166666666667,False,66.1
+dare to love|b.i,Dare to Love (feat. BIG Naughty),B.I,1,False,False,False,2024-06-25,2024-07-04,49,63,,,2,0.3333333333333333,43,64,2,3.0,8,0.8857142857142853,2.799416848895061,album,15,2.9286,False,26.7
+"darling, i|tyler","Darling, I (feat. Teezo Touchdown)","Tyler, The Creator",1,False,False,False,2025-10-30,2025-10-31,47,77,,,4,4.0,27,81,1,20.0,2,,,album,14,4.230566666666666,True,58.2
+dash|nmixx,DASH,NMIXX,1,False,False,False,2025-01-17,2025-03-12,44,61,,,7,3.3333333333333335,20,80,7,3.4285714285714284,55,0.6331958315240988,4.5201879126239985,album,7,2.782983333333333,False,64.3
+deja vu|tomorrow x together,Deja Vu,TOMORROW X TOGETHER,1,False,False,False,2025-04-03,2025-04-30,35,68,,,16,3.3333333333333335,21,85,1,14.0,28,0.6251526251526252,3.572106539608736,album,7,2.8571166666666667,False,73.1
+delresto (echoes)|travis scott,DELRESTO (ECHOES),Travis Scott,1,False,False,False,2024-07-29,2024-07-29,39,0,,,12,0.0,39,0,0,0.0,1,,,album,19,4.56895,True,52.5
+demon|$ecrecy,Demon,$ecrecy,1,False,False,False,2024-09-28,2024-09-28,34,38,,,17,0.0,34,38,0,0.0,1,,,album,15,2.318,True,61.7
+deseydin anlardım|edes,Deseydin Anlardım,EDES,1,False,False,False,2024-09-28,2024-09-29,39,1,,,12,0.0,39,1,0,0.0,2,,,single,1,2.514283333333333,False,52.5
+die 4 you|dean,DIE 4 YOU,DEAN,1,False,False,False,2024-11-19,2024-12-16,7,0,,,44,23.666666666666668,7,76,0,0.0,28,1.477832512315271,2.9228769862146455,single,1,3.2340833333333334,False,98.0
+die with a smile|lady gaga,Die With A Smile,Lady Gaga & Bruno Mars,1,False,False,True,2025-08-17,2025-11-27,39,0,,,12,27.333333333333332,10,100,70,0.4142857142857143,103,0.4906417112299464,2.432103779984869,single,1,4.19445,False,88.5
+discord|qwer,Discord,QWER,1,False,False,False,2024-12-10,2024-12-16,49,58,,,2,0.3333333333333333,44,59,3,1.6666666666666667,5,,3.897114317029974,single,4,2.796666666666667,False,25.3
+ditto (250 remix)|newjeans,Ditto (250 Remix),NewJeans,1,False,False,False,2024-12-21,2024-12-22,35,56,,,16,5.0,35,61,0,0.0,2,,,album,12,3.3644333333333334,False,65.2
+ditto|newjeans,Ditto,NewJeans,1,False,True,False,2024-05-18,2024-11-03,15,90,,,36,-0.3333333333333333,12,90,73,0.0410958904109589,170,0.28954081632653067,2.1054448479532386,single,1,3.0917666666666666,False,85.7
+ditto|newjeans,Ditto,NewJeans,2,True,False,False,2024-11-08,2025-02-12,43,85,85.0,4.0,8,0.0,27,86,31,0.5161290322580645,95,0.3572344322344325,2.998207552646421,single,1,3.0917666666666666,False,57.6
+ditto|newjeans,Ditto,NewJeans,3,True,False,False,2025-02-16,2025-02-17,50,85,85.0,3.0,1,0.0,50,85,0,0.0,2,,,single,1,3.0917666666666666,False,3.4
+ditto|newjeans,Ditto,NewJeans,4,True,False,False,2025-03-11,2025-03-12,49,83,85.0,21.0,2,0.0,49,83,0,0.0,2,,,single,1,3.0917666666666666,False,10.4
+ditto|newjeans,Ditto,NewJeans,5,True,False,False,2025-03-18,2025-03-18,50,82,83.0,4.0,1,0.0,50,82,0,0.0,1,,,single,1,3.0917666666666666,False,3.4
+ditto|newjeans,Ditto,NewJeans,6,True,False,False,2025-03-26,2025-03-26,49,81,82.0,6.0,2,0.0,49,81,0,0.0,1,,,single,1,3.0917666666666666,False,10.4
+ditto|newjeans,Ditto,NewJeans,7,True,False,False,2025-04-01,2025-04-01,47,80,81.0,5.0,4,0.0,47,80,0,0.0,1,,,single,1,3.0917666666666666,False,22.8
+ditto|newjeans,Ditto,NewJeans,8,True,False,False,2025-04-27,2025-05-20,46,81,80.0,25.0,5,-0.3333333333333333,33,81,3,4.333333333333333,22,0.8578947368421037,3.240895148033058,single,1,3.0917666666666666,False,48.3
+ditto|newjeans,Ditto,NewJeans,9,True,False,False,2025-05-31,2025-07-20,42,80,80.0,10.0,9,0.0,38,80,3,1.3333333333333333,48,0.2118577075098822,2.6009713684997657,single,1,3.0917666666666666,False,48.9
+ditto|newjeans,Ditto,NewJeans,10,True,False,False,2025-07-24,2025-07-30,45,79,79.0,3.0,6,0.0,45,79,0,0.0,6,0.7142857142857112,2.0,single,1,3.0917666666666666,False,33.2
+ditto|newjeans,Ditto,NewJeans,11,True,False,False,2025-08-03,2025-08-03,47,79,78.0,3.0,4,0.0,47,79,0,0.0,1,,,single,1,3.0917666666666666,False,22.8
+ditto|newjeans,Ditto,NewJeans,12,True,False,False,2025-08-10,2025-08-16,45,78,79.0,6.0,6,0.3333333333333333,45,79,0,0.0,5,0.5999999999999929,2.48746859276655,single,1,3.0917666666666666,False,35.0
+ditto|newjeans,Ditto,NewJeans,13,True,False,False,2025-09-13,2025-09-20,48,78,79.0,27.0,3,0.0,45,79,5,0.6,7,,2.6718699236469,single,1,3.0917666666666666,False,25.2
+ditto|newjeans,Ditto,NewJeans,14,True,False,False,2025-09-25,2025-09-25,45,78,79.0,4.0,6,0.0,45,78,0,0.0,1,,,single,1,3.0917666666666666,False,33.2
+ditto|newjeans,Ditto,NewJeans,15,True,False,False,2025-10-05,2025-10-08,50,78,78.0,9.0,1,0.0,46,78,2,2.0,4,,2.943920288775949,single,1,3.0917666666666666,False,14.0
+ditto|newjeans,Ditto,NewJeans,16,True,False,False,2025-10-12,2025-10-18,45,77,78.0,3.0,6,0.0,30,77,3,5.0,6,4.499999999999997,10.979981785048643,single,1,3.0917666666666666,False,53.3
+ditto|newjeans,Ditto,NewJeans,17,True,False,False,2025-10-23,2025-10-23,48,77,77.0,4.0,3,0.0,48,77,0,0.0,1,,,single,1,3.0917666666666666,False,16.8
+ditto|newjeans,Ditto,NewJeans,18,True,False,False,2025-11-05,2025-11-05,48,77,77.0,12.0,3,0.0,48,77,0,0.0,1,,,single,1,3.0917666666666666,False,16.8
+do it|kanye west,DO IT,Kanye West & Ty Dolla $ign,1,False,False,False,2025-02-13,2025-02-13,47,78,,,4,0.0,47,78,0,0.0,1,,,album,16,3.75,True,22.8
+do or die|lim young woong,Do or Die,Lim Young Woong,1,False,False,False,2024-10-10,2025-10-23,30,0,,,21,16.0,6,73,43,0.5581395348837209,374,0.07124846543548544,1.714183202723105,single,1,3.424,False,88.2
+do or die|lim young woong,Do or Die,Lim Young Woong,2,True,False,False,2025-11-03,2025-11-19,45,59,60.0,10.0,6,0.0,41,59,6,0.6666666666666666,15,0.3499999999999984,3.17274747350183,single,1,3.424,False,40.7
+don't look back in anger - remastered|oasis,Don't Look Back in Anger - Remastered,Oasis,1,False,False,False,2025-08-29,2025-09-04,32,72,,,19,1.6666666666666667,31,78,2,0.5,7,2.7999999999999985,7.158910531638177,album,40,4.826,False,67.4
+don't wanna break up again|ariana grande,don't wanna break up again,Ariana Grande,1,False,False,False,2025-03-13,2025-03-13,49,84,,,2,0.0,49,84,0,0.0,1,,,album,13,2.9001,True,10.4
+dopamine - giselle solo|aespa,Dopamine - GISELLE Solo,aespa,1,False,False,False,2025-10-12,2025-10-12,49,63,,,2,0.0,49,63,0,0.0,1,,,single,4,3.2348833333333333,False,10.4
+dope as (interlude)|beenzino,Dope As (Interlude),Beenzino,1,False,False,False,2024-07-05,2024-07-06,37,39,,,14,5.0,37,44,0,0.0,2,,,album,18,1.1184333333333334,True,62.2
+double take|dhruv,double take,Dhruv,1,False,False,False,2025-09-22,2025-09-26,49,83,,,2,0.0,39,83,1,10.0,3,,7.5,album,8,2.8623833333333333,False,34.6
+double take|dhruv,double take,Dhruv,2,True,False,False,2025-09-30,2025-10-09,47,82,83.0,3.0,4,0.0,45,82,7,0.2857142857142857,9,,2.496873044429772,album,8,2.8623833333333333,False,27.0
+double take|dhruv,double take,Dhruv,3,True,False,False,2025-10-19,2025-11-08,41,82,82.0,9.0,10,0.0,30,82,2,5.5,19,0.5098039215686281,7.025526648683217,album,8,2.8623833333333333,False,57.5
+down bad|taylor swift,Down Bad,Taylor Swift,1,False,False,False,2025-04-21,2025-04-25,33,81,,,18,1.3333333333333333,33,85,0,0.0,5,4.099999999999999,3.082207001484488,album,16,4.3538,True,63.9
+drama|aespa,Drama,aespa,1,False,False,False,2024-11-11,2025-04-20,23,0,,,28,26.333333333333332,14,88,7,1.2857142857142858,156,0.204200979502993,2.595649926932402,album,7,3.582883333333333,False,94.7
+drama|aespa,Drama,aespa,2,True,False,False,2025-05-03,2025-07-03,47,82,83.0,12.0,4,0.3333333333333333,25,84,20,1.1,61,0.5181184668989547,3.518640836080508,album,7,3.582883333333333,False,55.1
+drama|aespa,Drama,aespa,3,True,False,False,2025-07-12,2025-07-16,50,82,82.0,7.0,1,0.0,48,82,3,0.6666666666666666,5,,0.5,album,7,3.582883333333333,False,7.4
+drama|aespa,Drama,aespa,4,True,False,False,2025-10-12,2025-10-12,47,79,82.0,86.0,4,0.0,47,79,0,0.0,1,,,album,7,3.582883333333333,False,22.8
+dreamers [music from the fifa world cup qatar 2022 official soundtrack]|jung kook,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,1,False,True,False,2024-05-18,2024-10-22,31,86,,,20,0.0,10,88,57,0.3684210526315789,155,0.1017666673042226,3.859831150281851,single,1,3.356516666666667,False,78.2
+dreamers [music from the fifa world cup qatar 2022 official soundtrack]|jung kook,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,2,True,False,False,2024-10-26,2024-10-30,33,82,82.0,3.0,18,0.0,21,82,1,12.0,5,4.3,10.568230693924125,single,1,3.356516666666667,False,71.5
+dreamers [music from the fifa world cup qatar 2022 official soundtrack]|jung kook,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,3,True,False,False,2024-11-20,2024-11-20,28,80,82.0,20.0,23,0.0,28,80,0,0.0,1,,,single,1,3.356516666666667,False,71.9
+drip|babymonster,DRIP,BABYMONSTER,1,False,False,True,2025-11-04,2025-11-27,50,68,,,1,2.0,12,82,9,4.222222222222222,24,0.5714285714285716,4.508341355414164,album,9,3.0140833333333332,False,62.4
+drowning|woodz,Drowning,WOODZ,1,False,False,False,2025-11-13,2025-11-22,50,60,,,1,0.0,49,61,2,0.5,7,-2.2586948642120206e-15,0.372677996249965,single,7,4.0831,False,6.7
+"earth, wind & fire|boynextdoor","Earth, Wind & Fire",BOYNEXTDOOR,1,False,False,False,2025-04-17,2025-05-11,37,54,,,14,3.6666666666666665,21,75,1,16.0,25,1.0208695652173911,4.636622034292733,album,7,2.984,False,71.6
+easy|le sserafim,EASY,LE SSERAFIM,1,False,False,False,2025-02-21,2025-06-23,9,71,,,42,2.3333333333333335,3,89,1,6.0,121,0.4019306896312246,2.7963145388171196,single,5,2.7424166666666667,False,91.9
+easy|le sserafim,EASY,LE SSERAFIM,2,True,False,False,2025-06-29,2025-06-29,48,80,78.0,5.0,3,0.0,48,80,0,0.0,1,,,single,5,2.7424166666666667,False,16.8
+easy|le sserafim,EASY,LE SSERAFIM,3,True,False,False,2025-08-03,2025-08-03,50,80,80.0,33.0,1,0.0,50,80,0,0.0,1,,,single,5,2.7424166666666667,False,3.4
+easy|le sserafim,EASY,LE SSERAFIM,4,True,False,False,2025-08-08,2025-08-31,49,79,80.0,4.0,2,0.3333333333333333,34,80,4,3.75,18,1.019780219780219,5.46077551307067,single,5,2.7424166666666667,False,43.6
+either way|ive,Either Way,IVE,1,False,False,False,2024-09-27,2024-11-03,11,62,,,40,3.0,10,79,19,0.05263157894736842,38,1.9210526315789476,2.6150656393344622,single,1,2.7824333333333335,False,88.9
+elevator|lim young woong,Elevator,Lim Young Woong,1,False,False,False,2024-11-16,2024-11-22,50,55,,,1,0.0,48,56,2,1.0,5,1.0000000000000002,1.0,single,2,3.4572333333333334,False,7.4
+elevator|lim young woong,Elevator,Lim Young Woong,2,True,False,False,2024-12-08,2024-12-08,50,56,56.0,15.0,1,0.0,50,56,0,0.0,1,,,single,2,3.4572333333333334,False,3.4
+england|yanghongwon,ENGLAND,YANGHONGWON,1,False,False,False,2025-05-26,2025-05-29,22,38,,,29,2.6666666666666665,22,46,0,0.0,4,6.3999999999999995,4.9216076867444665,album,8,2.57355,False,80.2
+espresso|sabrina carpenter,Espresso,Sabrina Carpenter,1,False,False,False,2025-04-17,2025-10-11,44,84,,,7,1.6666666666666667,11,100,16,2.0625,176,0.19457693659908598,2.846345311562366,single,1,2.9243166666666665,True,70.0
+eta|newjeans,ETA,NewJeans,1,False,False,False,2024-07-23,2024-11-14,3,76,,,48,2.6666666666666665,3,89,0,0.0,115,0.2959835871537914,1.6422027261524998,single,6,2.522883333333333,False,95.6
+eta|newjeans,ETA,NewJeans,2,True,False,False,2024-11-23,2025-04-18,48,85,86.0,8.0,3,0.0,31,85,17,1.0,139,0.09191695222737346,3.623565197799139,single,6,2.522883333333333,False,47.2
+eta|newjeans,ETA,NewJeans,3,True,False,False,2025-04-27,2025-07-08,41,81,81.0,8.0,10,-0.3333333333333333,25,81,5,3.2,70,0.1861451048951051,3.2219578508035367,single,6,2.522883333333333,False,61.0
+eta|newjeans,ETA,NewJeans,4,True,False,False,2025-07-14,2025-07-16,48,78,78.0,4.0,3,0.0,48,78,0,0.0,3,0.500000000000004,0.5,single,6,2.522883333333333,False,16.8
+eta|newjeans,ETA,NewJeans,5,True,False,False,2025-07-24,2025-07-24,50,78,78.0,7.0,1,0.0,50,78,0,0.0,1,,,single,6,2.522883333333333,False,3.4
+eta|newjeans,ETA,NewJeans,6,True,False,False,2025-10-09,2025-10-21,49,78,78.0,75.0,2,0.0,42,79,9,0.7777777777777778,10,,3.1894889098682944,single,6,2.522883333333333,False,27.3
+eta|newjeans,ETA,NewJeans,7,True,False,False,2025-10-26,2025-10-26,43,79,79.0,4.0,8,0.0,43,79,0,0.0,1,,,single,6,2.522883333333333,False,42.3
+eta|newjeans,ETA,NewJeans,8,True,False,False,2025-11-05,2025-11-05,47,79,79.0,9.0,4,0.0,47,79,0,0.0,1,,,single,6,2.522883333333333,False,22.8
+eternal sunshine|ariana grande,eternal sunshine,Ariana Grande,1,False,False,False,2025-03-10,2025-03-13,49,60,,,2,8.333333333333334,40,85,3,3.0,4,,2.943920288775949,album,13,3.5033333333333334,False,50.4
+euphoria|kendrick lamar,euphoria,Kendrick Lamar,1,False,False,False,2025-05-03,2025-05-06,48,69,,,3,10.0,42,89,1,6.0,3,,7.0,single,1,6.393983333333333,True,53.1
+"eve, psyche & the bluebeard’s wife|le sserafim","Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,1,False,False,False,2024-05-26,2024-10-03,33,80,,,18,0.3333333333333333,9,87,11,2.1818181818181817,131,0.3418397110910481,2.7,album,13,3.0923,False,77.7
+even for a moment|sung si kyung,Even for a moment,Sung Si Kyung & Naul,1,False,False,False,2024-10-21,2024-10-21,36,0,,,15,0.0,36,0,0,0.0,1,,,single,1,4.886,False,58.9
+event horizon|younha,Event Horizon,Younha,1,False,False,False,2024-05-29,2024-05-29,50,64,,,1,0.0,50,64,0,0.0,1,,,album,14,5.0131,False,3.4
+every moment with you|jaessbee,Every Moment With You,JAESSBEE,1,False,False,False,2025-11-14,2025-11-21,25,39,,,26,2.6666666666666665,20,50,2,2.5,8,3.8857142857142852,6.8660656232559525,single,1,2.8713333333333333,False,79.0
+face-off|jimin,Face-off,Jimin,1,False,True,False,2024-05-18,2025-07-06,28,81,,,23,0.0,5,83,27,0.8518518518518519,403,0.06748067046673065,4.289520963843745,single,6,3.8271166666666665,True,81.5
+face-off|jimin,Face-off,Jimin,2,True,False,False,2025-07-19,2025-07-20,37,72,72.0,11.0,14,0.0,37,72,0,0.0,2,,,single,6,3.8271166666666665,True,56.4
+fact check|nct 127,Fact Check,NCT 127,1,False,False,False,2024-10-07,2024-10-13,23,0,,,28,22.666666666666668,23,70,0,0.0,7,2.750000000000001,3.774917217635375,album,9,3.07755,False,89.4
+fact check|nct 127,Fact Check,NCT 127,2,True,False,False,2024-10-19,2024-10-20,50,74,70.0,5.0,1,1.0,46,75,1,4.0,2,,,album,9,3.07755,False,19.4
+falling|jin,Falling,Jin,1,False,False,True,2025-11-17,2025-11-27,24,67,,,27,2.3333333333333335,24,74,0,0.0,11,1.3181818181818197,5.714017850864661,album,6,2.9806333333333335,False,78.1
+fast forward|jeon somi,Fast Forward,JEON SOMI,1,False,False,False,2024-08-09,2024-10-23,43,46,,,8,6.333333333333333,10,75,19,1.736842105263158,76,0.5627430645579464,3.5661121064200376,single,5,2.6763,False,74.7
+fate|(g)i-dle,Fate,(G)I-DLE,1,False,False,False,2025-02-21,2025-05-27,49,67,,,2,0.0,9,76,31,1.2903225806451613,93,0.5882501070232429,3.0975591036743984,album,8,2.6924333333333332,False,63.3
+fate|(g)i-dle,Fate,(G)I-DLE,2,True,False,False,2025-06-01,2025-06-04,49,74,74.0,4.0,2,0.0,46,74,3,1.0,4,,0.816496580927726,album,8,2.6924333333333332,False,19.1
+father|lim young woong,Father,Lim Young Woong,1,False,False,False,2024-10-26,2024-10-26,47,57,,,4,0.0,47,57,0,0.0,1,,,album,12,3.9684333333333335,False,22.8
+father|lim young woong,Father,Lim Young Woong,2,True,False,False,2024-10-30,2025-02-09,47,57,57.0,3.0,4,0.0,28,60,32,0.59375,101,0.15750822067957646,3.3361504762225573,album,12,3.9684333333333335,False,51.8
+father|lim young woong,Father,Lim Young Woong,3,True,False,False,2025-02-19,2025-02-20,46,58,58.0,9.0,5,0.0,46,58,0,0.0,2,,,album,12,3.9684333333333335,False,28.6
+father|lim young woong,Father,Lim Young Woong,4,True,False,False,2025-02-26,2025-02-27,50,58,58.0,5.0,1,0.0,50,58,0,0.0,2,,,album,12,3.9684333333333335,False,3.4
+fe!n|travis scott,FE!N,Travis Scott,1,False,False,False,2024-07-29,2024-08-03,26,0,,,25,29.666666666666668,26,91,0,0.0,6,4.3999999999999995,3.32264954516723,album,19,3.195,True,90.9
+field trip|¥$,FIELD TRIP,¥$ & Kanye West & Ty Dolla $ign,1,False,False,False,2025-08-04,2025-08-10,24,0,,,27,26.0,19,81,1,5.0,7,4.171428571428569,4.349329450233296,album,16,2.7871333333333332,True,92.1
+field trip|¥$,FIELD TRIP,¥$ & Kanye West & Ty Dolla $ign,2,True,False,False,2025-08-24,2025-08-25,31,78,81.0,12.0,20,0.0,31,78,0,0.0,2,,,album,16,2.71925,True,66.7
+fighting|bss,Fighting (Feat. Lee Young Ji),BSS,1,False,True,False,2024-05-18,2024-06-02,44,78,,,7,0.0,43,78,5,0.2,16,0.12727272727272745,3.213858878185053,single,3,3.407766666666667,False,40.3
+fighting|bss,Fighting (Feat. Lee Young Ji),BSS,2,True,False,False,2024-06-06,2024-06-07,49,78,78.0,3.0,2,0.0,49,78,0,0.0,2,,,single,3,3.407766666666667,False,10.4
+filter|bts,Filter,BTS,1,False,False,False,2024-06-12,2024-06-15,46,75,,,5,0.0,43,75,1,3.0,3,,2.5,album,20,3.0036666666666667,False,35.4
+filter|bts,Filter,BTS,2,True,False,False,2024-06-21,2024-06-22,47,76,75.0,5.0,4,0.0,47,76,0,0.0,2,,,album,20,3.0036666666666667,False,22.8
+filter|bts,Filter,BTS,3,True,False,False,2025-04-06,2025-04-07,31,72,76.0,285.0,20,0.0,31,72,0,0.0,2,,,album,20,3.0036666666666667,False,66.7
+"flights, not feelings|aespa","Flights, Not Feelings",aespa,1,False,False,False,2025-10-23,2025-10-24,41,55,,,10,-4.0,35,55,1,6.0,2,,,single,6,3.0277666666666665,False,47.1
+flooded the face|lil uzi vert,Flooded The Face,Lil Uzi Vert,1,False,False,False,2024-07-02,2024-07-02,48,79,,,3,0.0,48,79,0,0.0,1,,,album,26,3.2121166666666667,True,16.8
+flowers|aespa,Flowers,aespa,1,False,False,False,2025-10-24,2025-10-24,38,51,,,13,0.0,38,51,0,0.0,1,,,single,6,3.1788833333333333,False,54.8
+flower|jisoo,FLOWER,JISOO,1,False,True,False,2024-05-18,2024-06-30,20,86,,,31,0.0,17,86,3,1.0,42,0.7526315789473684,3.0441916685602415,single,2,2.8855666666666666,False,81.4
+flower|jisoo,FLOWER,JISOO,2,True,False,False,2024-07-23,2024-07-24,45,84,85.0,22.0,6,0.0,45,84,0,0.0,2,,,single,2,2.8855666666666666,False,33.2
+for us|v,For Us,V,1,False,False,False,2024-09-10,2024-11-09,10,73,,,41,2.6666666666666665,10,86,0,0.0,61,0.6206240084611319,2.316366887078892,single,6,2.8526666666666665,False,89.2
+for us|v,For Us,V,2,True,False,False,2024-12-31,2025-01-09,44,80,85.0,51.0,7,0.3333333333333333,41,82,3,1.0,10,0.9285714285714282,3.010270485365348,single,6,2.8526666666666665,False,43.8
+forever|babymonster,FOREVER,BABYMONSTER,1,False,False,False,2025-07-12,2025-07-18,43,56,,,8,1.0,43,60,0,0.0,7,1.0357142857142856,4.099457958749615,single,1,3.5455666666666668,False,44.4
+fortnight|taylor swift,Fortnight (feat. Post Malone),Taylor Swift,1,False,False,False,2025-04-21,2025-05-29,9,85,,,42,1.3333333333333333,9,96,0,0.0,38,0.9783346099135574,3.7443895210458207,album,16,3.8160833333333333,False,89.3
+fortnight|taylor swift,Fortnight (feat. Post Malone),Taylor Swift,2,True,False,False,2025-06-02,2025-06-06,50,95,95.0,3.0,1,-0.3333333333333333,50,95,0,0.0,5,-2.74935230151049e-15,0.0,album,16,3.8160833333333333,False,0.3
+fri(end)s (instrumental)|v,FRI(END)S (Instrumental),V,1,False,False,False,2025-03-17,2025-03-24,26,66,,,25,2.0,24,75,1,2.0,8,2.3928571428571432,4.189393799604337,single,4,2.4739166666666668,False,77.3
+fri(end)s (slowed down)|v,FRI(END)S (Slowed Down),V,1,False,False,False,2025-03-17,2025-03-24,29,65,,,22,2.0,28,75,1,1.0,8,0.964285714285714,1.0301575072754257,single,4,2.7,False,72.8
+fri(end)s (sped up)|v,FRI(END)S (Sped Up),V,1,False,False,False,2025-03-17,2025-03-24,27,65,,,24,2.0,26,75,1,1.0,8,1.142857142857143,2.2314999074019015,single,4,2.05,False,75.0
+fri(end)s|v,FRI(END)S,V,1,False,False,False,2025-03-17,2025-07-22,9,79,,,42,2.0,9,93,0,0.0,120,0.3557469268699216,3.101307154403735,single,4,2.4680333333333335,False,89.6
+fried|¥$,FRIED,¥$ & Kanye West & Ty Dolla $ign,1,False,False,False,2025-08-04,2025-08-06,40,0,,,11,36.5,38,73,1,2.0,3,,1.0,album,16,2.9876,True,85.0
+fry’s dream|akmu,Fry’s Dream,AKMU,1,False,False,False,2024-08-23,2024-08-25,28,44,,,23,4.0,28,52,0,0.0,3,8.999999999999996,6.0,single,2,3.4096,False,74.9
+fry’s dream|akmu,Fry’s Dream,AKMU,2,True,False,False,2024-09-05,2024-10-26,41,59,52.0,10.0,10,0.0,18,66,22,1.0454545454545454,50,0.9384236453201971,2.743057572851873,single,2,3.4096,False,65.4
+fuk sumn|kanye west,FUK SUMN,Kanye West & Ty Dolla $ign,1,False,False,False,2025-02-13,2025-02-13,31,80,,,20,0.0,31,80,0,0.0,1,,,album,16,3.49295,True,66.7
+g.o.a.t|taemin,G.O.A.T,TAEMIN,1,False,False,False,2025-08-22,2025-08-22,44,52,,,7,0.0,44,52,0,0.0,1,,,single,7,2.97555,False,38.3
+get a guitar|riize,Get A Guitar,RIIZE,1,False,False,False,2024-09-06,2024-11-16,25,57,,,26,3.0,13,79,30,0.4,72,0.6730410825702943,4.705953971005957,single,2,2.67285,False,81.8
+get a guitar|riize,Get A Guitar,RIIZE,2,True,False,False,2024-12-06,2024-12-24,49,54,46.0,19.0,2,0.6666666666666666,39,66,9,1.1111111111111112,17,1.2738095238095226,2.7492896809903464,single,2,2.67285,False,36.4
+get a guitar|riize,Get A Guitar,RIIZE,3,True,False,False,2024-12-28,2025-03-29,38,64,66.0,3.0,13,0.6666666666666666,23,72,44,0.3409090909090909,90,0.37119950662966383,3.0701103528356373,single,2,2.67285,False,65.8
+get a guitar|riize,Get A Guitar,RIIZE,4,True,False,False,2025-04-06,2025-04-15,49,67,67.0,7.0,2,0.0,41,67,2,4.0,9,1.1785714285714275,3.370367190678191,single,2,2.67285,False,30.6
+get a guitar|riize,Get A Guitar,RIIZE,5,True,False,False,2025-04-24,2025-04-24,50,67,67.0,8.0,1,0.0,50,67,0,0.0,1,,,single,2,2.67285,False,3.4
+get the hell out|day6,Get The Hell Out,DAY6,1,False,False,False,2025-03-21,2025-03-21,46,52,,,5,0.0,46,52,0,0.0,1,,,album,7,2.77045,False,28.6
+get up|newjeans,Get Up,NewJeans,1,False,False,False,2024-07-23,2024-08-29,8,76,,,43,2.3333333333333335,8,87,0,0.0,38,1.0988073093336252,1.8736572986418394,single,6,0.6037666666666667,False,90.8
+girls never die|triples,Girls Never Die,tripleS,1,False,False,False,2025-05-11,2025-06-27,43,59,,,8,1.3333333333333333,14,71,11,2.6363636363636362,46,0.9422969187675069,3.1042782107724403,album,10,3.132,False,68.1
+god of music|seventeen,God of Music,SEVENTEEN,1,False,False,False,2024-10-24,2024-11-03,18,0,,,33,25.333333333333332,18,81,0,0.0,11,3.136363636363637,7.054076835419359,album,8,3.4188833333333335,False,95.3
+god's country|travis scott,GOD'S COUNTRY,Travis Scott,1,False,False,False,2024-07-29,2024-07-29,43,0,,,8,0.0,43,0,0,0.0,1,,,album,19,2.133183333333333,True,42.3
+gods|league of legends,GODS,League of Legends & NewJeans,1,False,False,False,2024-10-06,2025-01-25,4,73,,,47,3.0,4,88,0,0.0,110,0.239708766314271,3.8839100369758746,single,1,3.6813,False,94.5
+gods|league of legends,GODS,League of Legends & NewJeans,2,True,False,False,2025-01-31,2025-01-31,49,85,85.0,5.0,2,0.0,49,85,0,0.0,1,,,single,1,3.6813,False,10.4
+gonna be a rock|boynextdoor,Gonna Be A Rock,BOYNEXTDOOR,1,False,False,False,2025-09-12,2025-09-12,48,55,,,3,0.0,48,55,0,0.0,1,,,album,7,3.28755,False,16.8
+good bones|le sserafim,Good Bones,LE SSERAFIM,1,False,False,False,2025-02-21,2025-02-22,39,64,,,12,5.0,39,69,0,0.0,2,,,single,5,2.6666833333333333,False,59.6
+goslow|yanghongwon,GOSLOW,YANGHONGWON,1,False,False,False,2025-05-26,2025-05-28,32,36,,,19,4.0,29,44,1,3.0,3,,2.5,album,8,2.8508833333333334,False,71.4
+grain of sand|lim young woong,Grain of Sand,Lim Young Woong,1,False,False,False,2024-06-08,2025-10-22,22,36,,,29,6.333333333333333,7,72,167,0.08982035928143713,497,0.07682281079465633,1.8082137412881094,single,1,3.6718166666666665,False,87.1
+grain of sand|lim young woong,Grain of Sand,Lim Young Woong,2,True,False,False,2025-11-03,2025-11-22,49,58,58.0,11.0,2,0.0,40,59,5,1.8,19,0.5956043956043943,3.2054159415003682,single,1,3.6718166666666665,False,31.8
+greedy|tate mcrae,greedy,Tate McRae,1,False,False,False,2024-10-04,2024-10-13,48,93,,,3,0.3333333333333333,45,96,3,1.0,9,-0.11428571428571309,2.331844763272204,single,1,2.1978666666666666,True,26.2
+guess featuring billie eilish|charli xcx,Guess featuring Billie Eilish,Charli xcx & Billie Eilish,1,False,False,False,2025-08-07,2025-08-16,50,85,,,1,1.0,35,91,2,7.5,8,-0.771428571428575,7.30389887495098,single,1,2.3888333333333334,False,41.1
+gym|beenzino,Gym,Beenzino,1,False,False,False,2024-07-05,2024-07-06,46,36,,,5,6.0,46,42,0,0.0,2,,,album,18,3.4206666666666665,True,45.0
+haegeum|agust d,Haegeum,Agust D,1,False,True,False,2024-05-18,2024-06-12,25,91,,,26,0.0,25,91,0,0.0,26,0.6263247863247865,3.104577265909161,album,10,2.8154333333333335,False,75.5
+haegeum|agust d,Haegeum,Agust D,2,True,False,False,2024-06-16,2024-10-12,48,90,90.0,3.0,3,0.0,29,90,55,0.34545454545454546,117,0.08712951071491526,3.6198274835551962,album,10,2.8154333333333335,False,49.3
+haegeum|agust d,Haegeum,Agust D,3,True,False,False,2024-10-16,2024-10-16,47,84,83.0,3.0,4,0.0,47,84,0,0.0,1,,,album,10,2.8154333333333335,False,22.8
+haegeum|agust d,Haegeum,Agust D,4,True,False,False,2024-10-20,2024-10-25,49,84,84.0,3.0,2,0.0,45,84,2,2.0,5,1.5000000000000007,2.947456530637899,album,10,2.8154333333333335,False,20.2
+happy|day6,HAPPY,DAY6,1,False,False,False,2025-03-21,2025-03-21,39,53,,,12,0.0,39,53,0,0.0,1,,,album,7,3.165566666666667,False,52.5
+happy|day6,HAPPY,DAY6,2,True,False,True,2025-08-29,2025-11-27,42,57,53.0,157.0,9,0.3333333333333333,4,64,38,1.0,91,0.10199967747137559,2.0626304672539972,album,7,3.165566666666667,False,73.9
+hard|shinee,HARD,SHINee,1,False,False,False,2024-06-29,2024-07-02,39,63,,,12,2.0,39,69,0,0.0,4,4.299999999999999,4.4969125210773475,album,10,2.945333333333333,False,55.3
+hate you|jung kook,Hate You,Jung Kook,1,False,False,False,2024-11-04,2025-03-30,8,0,,,43,27.666666666666668,8,88,0,0.0,138,0.2085235017317787,5.097514644318704,album,11,2.5706,False,98.4
+heart on the window|jin,Heart on the Window (with WENDY),Jin,1,False,False,True,2025-11-17,2025-11-27,21,67,,,30,2.6666666666666665,21,75,0,0.0,11,0.8000000000000012,3.716180835212409,album,6,2.95155,False,81.0
+heavy is the crown|linkin park,Heavy Is the Crown,Linkin Park,1,False,False,False,2025-09-27,2025-09-27,46,78,,,5,0.0,46,78,0,0.0,1,,,single,2,2.783533333333333,False,28.6
+heliot emil|changmo,HELIOT EMIL,CHANGMO,1,False,False,False,2025-02-02,2025-02-02,50,45,,,1,0.0,50,45,0,0.0,1,,,single,5,2.3017666666666665,False,3.4
+hell yea|leellamarz,Hell yea,Leellamarz & YANGHONGWON,1,False,False,False,2025-02-21,2025-02-21,47,38,,,4,0.0,47,38,0,0.0,1,,,single,5,3.2295,False,22.8
+here with me|d4vd,Here With Me,d4vd,1,False,False,False,2025-10-08,2025-11-26,44,45,,,7,12.666666666666666,30,84,39,0.358974358974359,50,1.7272727272727286,5.708014051007346,single,9,4.0414,False,69.0
+hero|lim young woong,HERO,Lim Young Woong,1,False,False,False,2024-10-23,2024-10-23,50,56,,,1,0.0,50,56,0,0.0,1,,,single,2,3.609766666666667,False,3.4
+hero|lim young woong,HERO,Lim Young Woong,2,True,False,False,2024-10-27,2025-02-12,49,56,56.0,3.0,2,0.3333333333333333,26,60,33,0.696969696969697,107,0.13763791188448707,3.931008800381811,single,2,3.609766666666667,False,51.6
+hero|lim young woong,HERO,Lim Young Woong,3,True,False,False,2025-02-18,2025-02-20,50,58,58.0,5.0,1,0.0,47,58,1,3.0,3,,1.5,single,2,3.609766666666667,False,13.0
+heya|ive,HEYA,IVE,1,False,False,False,2025-05-01,2025-06-30,21,42,,,30,4.333333333333333,9,66,8,1.5,61,0.7172230285437831,2.9519767388424096,single,6,3.1613333333333333,False,86.1
+high note|kinglee,High Note,KingLee & Code G,1,False,False,False,2025-01-16,2025-01-17,9,64,,,42,2.0,9,66,0,0.0,2,,,single,1,4.0184,True,89.6
+holssi|iu,Holssi,IU,1,False,False,False,2025-02-22,2025-03-26,21,57,,,30,0.0,11,71,1,10.0,30,0.9009852216748767,3.6287267120210465,single,5,3.1797666666666666,False,83.0
+home sweet home|g-dragon,HOME SWEET HOME (feat. TAEYANG & DAESUNG),G-DRAGON & TAEYANG & DAESUNG,1,False,False,True,2025-11-24,2025-11-27,6,58,,,45,3.6666666666666665,2,69,3,1.3333333333333333,4,,1.247219128924647,single,1,3.5221666666666667,False,94.9
+home|lim young woong,Home,Lim Young Woong,1,False,False,False,2025-05-08,2025-10-25,36,35,,,15,5.666666666666667,12,66,3,8.0,169,0.07707039371421458,2.6837185995446595,single,2,3.9222166666666665,False,78.0
+home|lim young woong,Home,Lim Young Woong,2,True,False,False,2025-11-01,2025-11-22,50,62,62.0,6.0,1,0.0,38,62,2,6.0,22,0.32481203007518716,3.9024383330567387,single,2,3.9222166666666665,False,32.1
+honestly|riize,Honestly,RIIZE,1,False,False,False,2025-05-01,2025-05-01,50,51,,,1,0.0,50,51,0,0.0,1,,,single,5,3.2348333333333334,False,3.4
+horizon|taemin,Horizon,TAEMIN,1,False,False,False,2025-08-22,2025-08-23,32,52,,,19,3.0,32,55,0,0.0,2,,,single,7,2.9464333333333332,False,68.6
+"how can i love the heartbreak, you're the one i love|akmu","How can I love the heartbreak, you're the one I love",AKMU,1,False,False,False,2025-10-15,2025-11-18,40,60,,,11,0.0,34,62,19,0.3157894736842105,33,0.9406593406593398,4.887703800098774,album,10,4.8349166666666665,False,55.5
+how sweet (instrumental)|newjeans,How Sweet (Instrumental),NewJeans,1,False,False,False,2025-05-26,2025-05-30,13,56,,,38,2.3333333333333335,13,63,0,0.0,5,7.499999999999998,4.763139720814412,single,4,3.6502166666666667,False,87.5
+how sweet|newjeans,How Sweet,NewJeans,1,False,False,True,2025-05-26,2025-11-27,1,69,,,50,3.0,1,85,0,0.0,184,0.19095760050856272,2.4083424735893892,single,4,3.6504333333333334,False,96.5
+hyaena|travis scott,HYAENA,Travis Scott,1,False,False,False,2024-07-29,2024-07-30,12,0,,,39,85.0,12,85,0,0.0,2,,,album,19,3.701416666666667,True,100.0
+hype boy|newjeans,Hype Boy,NewJeans,1,False,True,False,2024-05-18,2024-10-22,18,87,,,33,0.0,15,88,7,0.42857142857142855,157,0.14903951286723854,2.330725508038185,single,4,2.9837666666666665,False,83.2
+hype boy|newjeans,Hype Boy,NewJeans,2,True,False,False,2024-12-11,2024-12-11,50,84,85.0,49.0,1,0.0,50,84,0,0.0,1,,,single,4,2.9837666666666665,False,3.4
+hype boy|newjeans,Hype Boy,NewJeans,3,True,False,False,2024-12-30,2024-12-30,46,81,84.0,18.0,5,0.0,46,81,0,0.0,1,,,single,4,2.9837666666666665,False,28.6
+hype boy|newjeans,Hype Boy,NewJeans,4,True,False,False,2025-01-04,2025-01-15,48,83,81.0,4.0,3,0.3333333333333333,42,84,2,3.0,12,0.363636363636365,2.2489667048823603,single,4,2.9837666666666665,False,31.7
+hype boy|newjeans,Hype Boy,NewJeans,5,True,False,False,2025-02-10,2025-02-10,49,84,84.0,25.0,2,0.0,49,84,0,0.0,1,,,single,4,2.9837666666666665,False,10.4
+hype boy|newjeans,Hype Boy,NewJeans,6,True,False,False,2025-03-26,2025-03-26,47,80,84.0,41.0,4,0.0,47,80,0,0.0,1,,,single,4,2.9837666666666665,False,22.8
+hype boy|newjeans,Hype Boy,NewJeans,7,True,False,False,2025-03-30,2025-04-04,50,80,80.0,3.0,1,0.0,46,80,1,4.0,4,1.0000000000000029,2.8674417556808756,single,4,2.9837666666666665,False,14.0
+hype boy|newjeans,Hype Boy,NewJeans,8,True,False,False,2025-04-11,2025-04-16,46,80,80.0,6.0,5,0.0,43,80,3,1.0,6,2.499999999999997,3.261901286060018,single,4,2.9837666666666665,False,35.4
+hype boy|newjeans,Hype Boy,NewJeans,9,True,False,False,2025-04-27,2025-08-27,45,80,80.0,10.0,6,0.0,29,80,36,0.4444444444444444,120,0.06588032803482854,3.12080521369685,single,4,2.9837666666666665,False,53.9
+hype boy|newjeans,Hype Boy,NewJeans,10,True,False,False,2025-08-31,2025-08-31,47,79,79.0,3.0,4,0.0,47,79,0,0.0,1,,,single,4,2.9837666666666665,False,22.8
+hype boy|newjeans,Hype Boy,NewJeans,11,True,False,False,2025-09-07,2025-09-24,46,79,79.0,6.0,5,0.0,44,79,7,0.2857142857142857,14,0.6428571428571448,3.092269421883351,single,4,2.9837666666666665,False,32.0
+hype boy|newjeans,Hype Boy,NewJeans,12,True,False,False,2025-09-29,2025-09-30,49,78,79.0,4.0,2,0.0,49,78,0,0.0,2,,,single,4,2.9837666666666665,False,10.4
+hype boy|newjeans,Hype Boy,NewJeans,13,True,False,False,2025-10-13,2025-10-13,50,77,78.0,12.0,1,0.0,50,77,0,0.0,1,,,single,4,2.9837666666666665,False,3.4
+i am|ive,I AM,IVE,1,False,True,False,2024-05-18,2024-10-23,4,89,,,47,0.0,2,89,1,2.0,159,0.2749836847141364,1.8249042706014684,album,11,3.064216666666667,False,93.3
+i don't know|j-hope,i don't know (with HUH YUNJIN of LE SSERAFIM),j-hope,1,False,False,False,2025-03-31,2025-03-31,46,65,,,5,0.0,46,65,0,0.0,1,,,single,6,3.0524833333333334,False,28.6
+i don’t think that i like her|charlie puth,I Don’t Think That I Like Her,Charlie Puth,1,False,False,False,2024-05-29,2024-05-29,47,72,,,4,0.0,47,72,0,0.0,1,,,album,12,3.141783333333333,False,22.8
+i don’t think that i like her|charlie puth,I Don’t Think That I Like Her,Charlie Puth,2,True,False,False,2024-06-16,2024-06-20,49,73,72.0,17.0,2,0.0,46,73,2,1.5,4,,2.449489742783178,album,12,3.141783333333333,False,19.1
+i don’t think that i like her|charlie puth,I Don’t Think That I Like Her,Charlie Puth,3,True,False,False,2024-06-25,2024-06-26,48,73,73.0,4.0,3,0.0,48,73,0,0.0,2,,,album,12,3.141783333333333,False,16.8
+i don’t think that i like her|charlie puth,I Don’t Think That I Like Her,Charlie Puth,4,True,False,False,2024-07-01,2024-07-01,50,74,73.0,4.0,1,0.0,50,74,0,0.0,1,,,album,12,3.141783333333333,False,3.4
+i had some help|post malone,I Had Some Help (Feat. Morgan Wallen),Post Malone & Morgan Wallen,1,False,False,False,2025-05-12,2025-05-19,31,83,,,20,1.6666666666666667,31,93,0,0.0,8,0.11904761904761936,8.864052604279182,single,1,2.970083333333333,True,69.1
+i had some help|post malone,I Had Some Help (Feat. Morgan Wallen),Post Malone & Morgan Wallen,2,True,False,False,2025-05-23,2025-05-23,50,95,93.0,3.0,1,0.0,50,95,0,0.0,1,,,single,1,2.970083333333333,True,3.4
+i like me better|lauv,I Like Me Better,Lauv,1,False,False,False,2025-03-03,2025-03-03,36,84,,,15,0.0,36,84,0,0.0,1,,,album,17,3.2906,False,58.9
+i like the way you kiss me|artemas,i like the way you kiss me,Artemas,1,False,False,False,2025-04-17,2025-04-18,50,98,,,1,0.0,42,98,1,8.0,2,,,single,1,2.3752333333333335,False,25.5
+i love you|lim young woong,I Love You,Lim Young Woong,1,False,False,False,2024-05-19,2024-06-06,50,56,,,1,0.0,43,56,13,0.5384615384615384,15,,2.9459415181858972,album,12,3.9837666666666665,False,20.9
+i love you|lim young woong,I Love You,Lim Young Woong,2,True,False,False,2024-06-10,2024-06-14,46,56,56.0,3.0,5,0.0,46,56,0,0.0,4,0.8000000000000004,3.7712361663282534,album,12,3.9837666666666665,False,28.6
+i love you|lim young woong,I Love You,Lim Young Woong,3,True,False,False,2024-09-25,2024-09-26,48,55,56.0,102.0,3,0.0,48,55,0,0.0,2,,,album,12,3.9837666666666665,False,16.8
+i love you|lim young woong,I Love You,Lim Young Woong,4,True,False,False,2024-10-17,2024-10-18,49,56,55.0,20.0,2,0.0,49,56,0,0.0,2,,,album,12,3.9837666666666665,False,10.4
+i love you|lim young woong,I Love You,Lim Young Woong,5,True,False,False,2024-10-22,2025-02-28,45,57,56.0,3.0,6,0.0,24,61,41,0.5121951219512195,124,0.22230384954451957,3.084013221502121,album,12,3.9837666666666665,False,57.7
+i love you|lim young woong,I Love You,Lim Young Woong,6,True,False,False,2025-03-04,2025-03-05,50,57,58.0,3.0,1,0.0,50,57,0,0.0,2,,,album,12,3.9837666666666665,False,3.4
+i love you|lim young woong,I Love You,Lim Young Woong,7,True,False,False,2025-03-09,2025-03-09,46,57,57.0,3.0,5,0.0,46,57,0,0.0,1,,,album,12,3.9837666666666665,False,28.6
+i stan u|iu,I stan U,IU,1,False,False,False,2025-02-22,2025-02-25,34,55,,,17,0.0,25,55,1,9.0,4,4.000000000000001,6.944222218666553,single,5,3.20955,False,67.8
+i will come to you|jin,I will come to you,Jin,1,False,False,True,2025-11-17,2025-11-27,25,66,,,26,2.6666666666666665,25,74,0,0.0,10,1.8242424242424253,6.1483712587808546,album,8,2.6160666666666668,False,77.5
+i wonder...|j-hope,i wonder... (with Jung Kook of BTS),j-hope,1,False,False,False,2025-03-31,2025-04-13,21,69,,,30,2.3333333333333335,21,81,0,0.0,14,1.8637362637362629,4.04559808993991,single,6,2.7266333333333335,False,80.8
+i'll be there|jin,I'll Be There,Jin,1,False,False,False,2025-10-27,2025-11-20,8,76,,,43,2.3333333333333335,6,89,21,0.09523809523809523,25,-2.843162271514977e-16,2.343726851737539,single,1,3.02795,False,91.6
+if i have you only (my love x nerd connection)|nerd connection,If I have you only (My love X Nerd Connection),Nerd Connection,1,False,False,False,2025-04-02,2025-04-02,50,53,,,1,0.0,50,53,0,0.0,1,,,single,2,4.176216666666667,False,3.4
+if i have you only (my love x nerd connection)|nerd connection,If I have you only (My love X Nerd Connection),Nerd Connection,2,True,False,False,2025-04-09,2025-04-26,47,53,53.0,6.0,4,0.3333333333333333,39,55,11,0.7272727272727273,15,1.6000000000000014,3.0042486921161555,single,2,4.176216666666667,False,40.4
+if i have you only (my love x nerd connection)|nerd connection,If I have you only (My love X Nerd Connection),Nerd Connection,3,True,False,False,2025-09-02,2025-09-03,46,53,55.0,126.0,5,0.0,46,53,0,0.0,2,,,single,2,4.176216666666667,False,28.6
+if i have you only (my love x nerd connection)|nerd connection,If I have you only (My love X Nerd Connection),Nerd Connection,4,True,False,False,2025-09-07,2025-09-10,48,53,53.0,3.0,3,0.0,43,53,1,5.0,3,,2.5,single,2,4.176216666666667,False,30.1
+if i have you only (my love x nerd connection)|nerd connection,If I have you only (My love X Nerd Connection),Nerd Connection,5,True,False,False,2025-09-15,2025-10-22,50,53,53.0,4.0,1,0.0,31,54,28,0.6785714285714286,35,3.4285714285714284,5.05266382858645,single,2,4.176216666666667,False,44.5
+"if i’m s, can you be my n?|tws","If I’m S, Can You Be My N?",TWS,1,False,False,False,2025-07-02,2025-07-23,45,62,,,6,1.0,32,70,14,0.9285714285714286,21,2.2857142857142856,2.7202941017470885,single,6,2.8004333333333333,False,52.0
+if we ever meet again|lim young woong,If We Ever Meet Again,Lim Young Woong,1,False,True,False,2024-05-18,2025-10-11,27,61,,,24,-0.3333333333333333,12,65,182,0.08241758241758242,503,0.1077139083996053,2.731403323939889,album,12,4.5731,False,79.1
+igloo|kiss of life,Igloo,KISS OF LIFE,1,False,False,True,2025-10-26,2025-11-27,42,69,,,9,0.6666666666666666,14,81,12,2.3333333333333335,33,0.38961038961038985,2.2619042723996965,single,7,2.1964333333333332,False,68.5
+impossible|riize,Impossible,RIIZE,1,False,False,False,2025-04-20,2025-05-25,21,53,,,30,3.3333333333333335,11,70,4,2.5,36,1.241202346041056,3.212221559441187,single,2,3.038866666666667,False,85.1
+impossible|riize,Impossible,RIIZE,2,True,False,False,2025-06-18,2025-06-21,49,63,69.0,23.0,2,-7.666666666666667,44,63,3,1.6666666666666667,4,,2.6246692913372702,single,2,3.038866666666667,False,0.2
+in bed/makgulli|beenzino,In Bed/Makgulli,Beenzino,1,False,False,False,2024-07-05,2024-07-08,20,41,,,31,3.0,20,50,0,0.0,4,7.299999999999998,5.312459150169743,album,18,4.618666666666667,True,82.0
+in bloom|zerobaseone,In Bloom,ZEROBASEONE,1,False,False,False,2024-07-13,2024-07-22,39,71,,,12,2.0,39,79,0,0.0,6,1.9999999999999978,1.9390719429665317,single,6,3.0164666666666666,False,55.3
+interlude : dive|jimin,Interlude : Dive,Jimin,1,False,True,False,2024-05-18,2024-05-20,42,78,,,9,0.0,33,78,1,9.0,3,,7.0,single,6,2.1832666666666665,False,54.2
+interlude : dive|jimin,Interlude : Dive,Jimin,2,True,False,False,2024-05-24,2024-09-29,48,77,78.0,3.0,3,0.0,7,78,32,1.28125,126,0.2317306650290793,5.324395176919158,single,6,2.1832666666666665,False,65.9
+interlude : dive|jimin,Interlude : Dive,Jimin,3,True,False,False,2024-10-06,2025-03-02,37,77,76.0,6.0,14,0.0,17,79,47,0.425531914893617,134,0.19825763650944075,5.962875328788091,single,6,2.1832666666666665,False,70.6
+interlude : dive|jimin,Interlude : Dive,Jimin,4,True,False,False,2025-03-06,2025-05-29,43,75,76.0,3.0,8,0.0,15,86,44,0.6363636363636364,83,0.36133603238866385,5.141889184943984,single,6,2.1832666666666665,False,65.5
+interlude : dive|jimin,Interlude : Dive,Jimin,5,True,False,False,2025-06-05,2025-06-08,41,82,85.0,6.0,10,0.0,41,82,0,0.0,4,2.8000000000000003,1.632993161855452,single,6,2.1832666666666665,False,47.9
+interlude : dive|jimin,Interlude : Dive,Jimin,6,True,False,False,2025-06-12,2025-06-23,46,75,82.0,3.0,5,-0.3333333333333333,37,75,7,1.2857142857142858,12,3.899999999999996,4.416348291451316,single,6,2.1832666666666665,False,43.9
+interlude : dive|jimin,Interlude : Dive,Jimin,7,True,False,False,2025-06-28,2025-06-29,47,77,74.0,4.0,4,0.0,42,77,1,5.0,2,,,single,6,2.1832666666666665,False,34.2
+interlude : showtime|jimin,Interlude : Showtime,Jimin,1,False,False,True,2025-07-21,2025-11-27,10,68,,,41,2.3333333333333335,8,78,38,0.05263157894736842,129,0.18283166109253074,2.977618333080988,album,7,1.3082,False,89.8
+intro: singularity|bts,Intro: Singularity,BTS,1,False,False,False,2024-08-18,2024-08-23,45,70,,,6,0.3333333333333333,45,71,0,0.0,4,1.1999999999999982,3.299831645537222,album,11,3.2833,False,35.0
+intro: singularity|bts,Intro: Singularity,BTS,2,True,False,False,2024-08-27,2024-08-28,49,71,71.0,3.0,2,1.0,45,72,1,4.0,2,,,album,11,3.2833,False,25.8
+istj|nct dream,ISTJ,NCT DREAM,1,False,False,False,2024-07-19,2024-07-25,38,59,,,13,3.0,24,70,1,14.0,7,5.599999999999999,9.72967967955095,album,10,3.088,False,68.0
+it's beginning to look a lot like christmas|michael bublé,It's Beginning to Look a Lot like Christmas,Michael Bublé,1,False,False,False,2024-12-24,2024-12-27,48,87,,,3,0.0,27,87,1,21.0,4,2.0,10.96458946893235,album,21,3.453316666666667,False,51.5
+it's the most wonderful time of the year|andy williams,It's the Most Wonderful Time of the Year,Andy Williams,1,False,False,False,2024-12-25,2024-12-26,49,79,,,2,0.0,49,79,0,0.0,2,,,album,12,2.5166666666666666,False,10.4
+item|stray kids,ITEM,Stray Kids,1,False,False,False,2024-06-04,2024-06-04,40,69,,,11,0.0,40,69,0,0.0,1,,,album,12,3.1922166666666665,False,49.9
+i’ll be there|jin,I’ll Be There,Jin,1,False,False,True,2025-11-21,2025-11-27,7,49,,,44,4.333333333333333,7,66,0,0.0,7,0.21428571428571405,0.8975274678557507,album,10,3.02795,False,92.7
+i’ll see you there tomorrow|tomorrow x together,I’ll See You There Tomorrow,TOMORROW X TOGETHER,1,False,False,False,2025-04-18,2025-04-26,40,77,,,11,0.3333333333333333,40,78,0,0.0,7,1.428571428571429,1.8929694486000912,album,7,3.2782333333333336,False,50.8
+jealousyvalhalla|yanghongwon,Jealousyvalhalla,YANGHONGWON,1,False,False,False,2025-05-19,2025-05-22,24,0,,,27,15.333333333333334,23,46,1,1.0,4,10.499999999999996,6.548960901462833,album,8,2.4697666666666667,False,85.9
+jealousyvalhalla|yanghongwon,Jealousyvalhalla,YANGHONGWON,2,True,False,False,2025-05-26,2025-06-01,16,48,46.0,3.0,35,-1.0,14,48,1,2.0,7,7.314285714285711,5.066228051190222,album,8,2.4697666666666667,False,84.1
+jeogeumtong|e sens,Jeogeumtong,E SENS,1,False,False,False,2024-07-15,2024-07-15,39,38,,,12,0.0,39,38,0,0.0,1,,,album,13,2.306233333333333,False,52.5
+jingle bell rock|bobby helms,Jingle Bell Rock,Bobby Helms,1,False,False,False,2024-12-25,2024-12-27,32,94,,,19,0.0,32,94,0,0.0,3,1.4999999999999947,1.5,single,2,2.1828833333333333,False,64.5
+k-pop|travis scott,K-POP,Travis Scott & Bad Bunny & The Weeknd,1,False,False,False,2024-07-23,2024-07-30,39,82,,,12,-26.0,39,92,0,0.0,6,1.828571428571431,4.308131845707603,single,1,3.087,True,0.1
+keys to my life|kanye west,KEYS TO MY LIFE,Kanye West & Ty Dolla $ign,1,False,False,False,2025-02-13,2025-02-13,24,79,,,27,0.0,24,79,0,0.0,1,,,album,16,2.9013833333333334,True,77.1
+kidding|isegye idol,KIDDING,ISEGYE IDOL,1,False,False,False,2024-08-20,2024-08-22,46,25,,,5,8.5,45,42,1,1.0,3,,1.5,single,2,3.50135,False,50.2
+kill bill|sza,Kill Bill,SZA,1,False,True,False,2024-05-18,2024-06-19,45,94,,,6,0.0,40,94,10,0.5,31,0.3246753246753252,2.337139752394414,album,23,2.5657666666666668,False,43.1
+kill bill|sza,Kill Bill,SZA,2,True,False,False,2024-06-23,2024-07-04,47,94,94.0,3.0,4,0.0,42,94,9,0.5555555555555556,12,0.9999999999999909,2.004127971368055,album,23,2.5657666666666668,False,34.2
+kill it|aespa,Kill It,aespa,1,False,False,False,2025-10-23,2025-10-26,30,57,,,21,2.3333333333333335,21,64,1,9.0,4,13.499999999999998,10.801234497346433,single,6,3.3271,False,75.9
+kitsch|ive,Kitsch,IVE,1,False,True,False,2024-05-18,2024-08-19,9,80,,,42,0.0,9,80,0,0.0,92,0.48100426922306305,2.7063772316663686,album,11,3.2573333333333334,False,88.6
+klaxon|(g)i-dle,Klaxon,(G)I-DLE,1,False,False,False,2025-07-22,2025-08-16,50,72,,,1,0.6666666666666666,36,75,11,1.2727272727272727,22,0.7727272727272737,2.6886846120939243,single,4,2.918433333333333,False,39.5
+lalalala|stray kids,LALALALA,Stray Kids,1,False,False,False,2024-11-11,2024-11-15,38,0,,,13,27.0,38,82,0,0.0,5,2.299999999999995,1.8027756377319946,album,8,3.0370666666666666,False,80.3
+lalali|seventeen,LALALI,SEVENTEEN,1,False,False,False,2025-05-02,2025-05-02,44,61,,,7,0.0,44,61,0,0.0,1,,,album,33,2.8613333333333335,False,38.3
+last christmas - single version|wham!,Last Christmas - Single Version,Wham!,1,False,False,False,2024-12-17,2024-12-19,38,89,,,13,0.0,38,89,0,0.0,3,4.499999999999997,4.5,album,16,4.432666666666667,False,54.8
+last christmas - single version|wham!,Last Christmas - Single Version,Wham!,2,True,False,False,2024-12-23,2024-12-27,42,89,89.0,3.0,9,0.0,13,89,2,14.5,5,2.1273949026069186e-16,7.917543811056558,album,16,4.432666666666667,False,68.3
+left and right|charlie puth,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,1,False,True,False,2024-05-18,2024-10-30,23,82,,,28,0.3333333333333333,6,88,134,0.12686567164179105,164,0.3848720800889877,4.744969464362754,album,12,2.5747666666666666,False,84.0
+left and right|charlie puth,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,2,True,False,False,2024-11-28,2024-12-01,29,82,83.0,28.0,22,0.0,19,82,1,10.0,4,1.4999999999999982,5.557777333511022,album,12,2.5747666666666666,False,75.7
+left and right|charlie puth,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,3,True,False,False,2024-12-28,2025-01-24,42,79,82.0,26.0,9,0.3333333333333333,39,83,12,0.25,27,0.5607142857142863,3.171619712013585,album,12,2.5747666666666666,False,48.5
+left and right|charlie puth,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,4,True,False,False,2025-01-28,2025-01-29,50,83,83.0,3.0,1,0.0,50,83,0,0.0,2,,,album,12,2.5747666666666666,False,3.4
+left and right|charlie puth,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,5,True,False,False,2025-02-10,2025-02-10,46,83,83.0,11.0,5,0.0,46,83,0,0.0,1,,,album,12,2.5747666666666666,False,28.6
+left and right|charlie puth,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,6,True,False,False,2025-08-18,2025-09-15,47,78,83.0,184.0,4,0.0,33,80,14,1.0,28,0.04175824175823953,5.517897056729983,album,12,2.5747666666666666,False,46.8
+lemon|beenzino,Lemon,Beenzino,1,False,False,False,2024-07-05,2024-07-07,27,39,,,24,3.0,27,45,0,0.0,3,6.999999999999992,7.0,album,18,3.033333333333333,True,75.3
+let it snow! let it snow! let it snow!|dean martin,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,1,False,False,False,2024-12-25,2024-12-27,30,95,,,21,0.0,30,95,0,0.0,3,1.499999999999998,1.5,album,12,1.9524333333333332,False,68.8
+let me in|exo,Let Me In,EXO,1,False,False,False,2024-06-15,2024-06-15,50,72,,,1,0.0,50,72,0,0.0,1,,,single,1,3.2922166666666666,False,3.4
+let off steam|leellamarz,Let off steam,Leellamarz & YANGHONGWON,1,False,False,False,2025-02-21,2025-02-22,50,38,,,1,6.0,47,44,1,3.0,2,,,single,5,3.6571333333333333,False,34.8
+let's say goodbye|parc jae jung,Let's Say Goodbye,Parc Jae Jung,1,False,False,False,2024-07-14,2024-10-01,50,50,,,1,0.3333333333333333,30,55,43,0.46511627906976744,78,0.2960784313725491,3.4358443129292806,album,10,4.064216666666667,False,46.5
+letter to myself|taeyeon,Letter To Myself,TAEYEON,1,False,False,False,2025-11-20,2025-11-23,42,53,,,9,3.3333333333333335,22,63,1,20.0,4,11.000000000000004,14.636332266733433,single,6,3.0676666666666668,False,65.3
+licorice|aespa,Licorice,aespa,1,False,False,False,2025-05-30,2025-06-01,30,55,,,21,3.5,30,62,0,0.0,3,6.000000000000004,3.0,album,10,2.6488833333333335,False,72.4
+lie|bts,Lie,BTS,1,False,False,False,2025-01-23,2025-01-23,33,70,,,18,0.0,33,70,0,0.0,1,,,album,15,3.5958666666666668,False,63.0
+like a fool|beenzino,Like A Fool (Feat. Y2K92),Beenzino,1,False,False,False,2024-07-05,2024-07-08,28,39,,,23,3.0,28,48,0,0.0,4,7.7,5.715476066494082,album,18,3.3668833333333335,True,74.2
+like crazy (deep house remix)|jimin,Like Crazy (Deep House Remix),Jimin,1,False,False,False,2024-05-19,2024-05-20,47,74,,,4,0.0,46,74,1,1.0,2,,,single,5,3.0119833333333332,False,26.1
+like crazy (deep house remix)|jimin,Like Crazy (Deep House Remix),Jimin,2,True,False,False,2024-05-28,2024-06-03,43,73,74.0,7.0,8,-0.3333333333333333,43,73,0,0.0,5,0.5999999999999982,2.680951323690902,single,5,3.0119833333333332,False,41.2
+like crazy (deep house remix)|jimin,Like Crazy (Deep House Remix),Jimin,3,True,False,False,2024-06-08,2024-07-03,45,72,72.0,4.0,6,-0.3333333333333333,33,72,11,1.0909090909090908,20,1.0499999999999987,5.699297716371184,single,5,3.0119833333333332,False,49.2
+like crazy (deep house remix)|jimin,Like Crazy (Deep House Remix),Jimin,4,True,False,False,2024-07-09,2024-07-09,46,71,71.0,5.0,5,0.0,46,71,0,0.0,1,,,single,5,3.0119833333333332,False,28.6
+like crazy (english version)|jimin,Like Crazy (English Version),Jimin,1,False,True,False,2024-05-18,2025-07-23,6,90,,,45,0.0,2,90,2,2.0,429,0.005749989441783216,1.6076396352915765,single,6,3.53755,False,92.6
+like crazy (instrumental)|jimin,Like Crazy (Instrumental),Jimin,1,False,False,False,2024-06-11,2024-06-15,48,68,,,3,0.0,47,68,1,1.0,4,0.5000000000000036,1.4142135623730951,single,5,3.5369333333333333,False,19.6
+like crazy (instrumental)|jimin,Like Crazy (Instrumental),Jimin,2,True,False,False,2024-06-21,2024-06-22,41,68,68.0,5.0,10,0.0,41,68,0,0.0,2,,,single,5,3.5369333333333333,False,47.9
+like crazy (uk garage remix)|jimin,Like Crazy (UK Garage Remix),Jimin,1,False,False,False,2024-05-19,2024-05-20,49,73,,,2,0.0,47,73,1,2.0,2,,,single,5,3.5065833333333334,False,14.7
+like crazy (uk garage remix)|jimin,Like Crazy (UK Garage Remix),Jimin,2,True,False,False,2024-05-28,2024-05-28,44,72,73.0,7.0,7,0.0,44,72,0,0.0,1,,,single,5,3.5065833333333334,False,38.3
+like crazy (uk garage remix)|jimin,Like Crazy (UK Garage Remix),Jimin,3,True,False,False,2024-06-01,2024-06-03,50,72,72.0,3.0,1,0.0,49,72,1,1.0,2,,,single,5,3.5065833333333334,False,6.7
+like crazy (uk garage remix)|jimin,Like Crazy (UK Garage Remix),Jimin,4,True,False,False,2024-06-08,2024-07-03,49,71,72.0,4.0,2,0.0,35,71,11,1.2727272727272727,20,1.2499999999999987,5.661259709273624,single,5,3.5065833333333334,False,41.0
+like crazy|jimin,Like Crazy,Jimin,1,False,True,True,2024-05-18,2025-11-27,1,93,,,50,0.0,1,96,0,0.0,554,0.041413187755096996,3.0560707062871595,single,6,3.53735,False,95.8
+like that|future,Like That,Future & Metro Boomin,1,False,False,False,2025-03-27,2025-03-31,48,87,,,3,1.6666666666666667,45,92,2,1.5,4,,0.816496580927726,album,17,4.461766666666667,True,30.8
+lilith (diablo iv anthem)|halsey,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),Halsey & SUGA,1,False,False,False,2024-06-07,2024-08-26,28,69,,,23,3.6666666666666665,17,87,4,2.75,75,0.41009389671361485,4.02121837559853,single,1,3.01555,True,79.2
+lilith (diablo iv anthem)|halsey,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),Halsey & SUGA,2,True,False,False,2024-08-30,2024-09-02,47,79,80.0,3.0,4,0.0,47,79,0,0.0,4,0.40000000000000313,0.4714045207910317,single,1,3.01555,True,22.8
+lilith (diablo iv anthem)|halsey,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),Halsey & SUGA,3,True,False,False,2024-09-13,2024-09-13,49,78,79.0,10.0,2,0.0,49,78,0,0.0,1,,,single,1,3.01555,True,10.4
+little light|doyoung,Little Light,DOYOUNG,1,False,False,False,2025-04-25,2025-05-04,32,57,,,19,3.3333333333333335,29,71,1,3.0,8,3.571428571428573,2.969229955832361,album,10,3.7477666666666667,False,70.9
+live my life|aespa,Live My Life,aespa,1,False,False,False,2025-05-30,2025-05-31,35,54,,,16,7.0,35,61,0,0.0,2,,,album,10,2.6522166666666664,False,67.7
+lock / unlock|j-hope,lock / unlock (with benny blanco & Nile Rodgers),j-hope,1,False,False,False,2025-03-31,2025-03-31,49,65,,,2,0.0,49,65,0,0.0,1,,,single,6,3.0328333333333335,False,10.4
+lockdown|isegye idol,LOCKDOWN,ISEGYE IDOL,1,False,False,False,2024-06-25,2024-06-28,40,40,,,11,2.3333333333333335,40,47,0,0.0,4,3.199999999999995,3.39934634239519,single,2,3.3651,False,54.0
+london boy|lim young woong,London Boy,Lim Young Woong,1,False,True,False,2024-05-18,2025-10-18,21,64,,,30,0.0,5,71,158,0.10126582278481013,514,0.07420065668299286,1.942084044181316,single,2,4.075,False,85.2
+london boy|lim young woong,London Boy,Lim Young Woong,2,True,False,False,2025-11-05,2025-11-09,49,57,58.0,17.0,2,0.0,49,57,0,0.0,3,0.5000000000000036,0.5,single,2,4.075,False,10.4
+london boy|lim young woong,London Boy,Lim Young Woong,3,True,False,False,2025-11-13,2025-11-19,49,57,57.0,3.0,2,0.0,49,57,0,0.0,4,0.4000000000000021,0.4714045207910317,single,2,4.075,False,10.4
+lose my breath|stray kids,Lose My Breath (Feat. Charlie Puth),Stray Kids & Charlie Puth,1,False,False,False,2025-05-12,2025-05-13,29,71,,,22,-17.0,29,71,0,0.0,2,,,single,2,2.7818833333333335,False,49.5
+lost and found|kinglee,Lost and Found,KingLee & Lil' Flip,1,False,False,False,2024-12-28,2024-12-28,27,48,,,24,0.0,27,48,0,0.0,1,,,single,1,3.650533333333333,True,73.3
+lost and found|kinglee,Lost and Found,KingLee & Lil' Flip,2,True,False,False,2025-01-16,2025-01-17,8,64,48.0,18.0,43,2.0,8,66,0,0.0,2,,,single,1,3.650533333333333,True,90.5
+lost!|rm,LOST!,RM,1,False,False,False,2025-05-26,2025-06-01,40,74,,,11,2.3333333333333335,35,83,2,2.5,7,2.7999999999999994,5.489889697333535,album,11,3.88355,True,57.8
+love 119|riize,Love 119,RIIZE,1,False,False,False,2025-01-07,2025-04-27,8,56,,,43,3.3333333333333335,8,73,0,0.0,107,0.3175023021610924,2.7836423989693753,single,1,2.8914833333333334,False,91.3
+love always run away|lim young woong,Love Always Run Away,Lim Young Woong,1,False,True,False,2024-05-18,2024-05-18,50,58,,,1,0.0,50,58,0,0.0,1,,,single,2,4.046,False,3.4
+love always run away|lim young woong,Love Always Run Away,Lim Young Woong,2,True,False,False,2024-05-23,2024-05-25,47,58,58.0,4.0,4,0.0,47,58,0,0.0,2,,,single,2,4.046,False,22.8
+love always run away|lim young woong,Love Always Run Away,Lim Young Woong,3,True,False,False,2024-05-30,2024-06-13,49,58,58.0,4.0,2,0.0,46,58,5,0.6,10,0.09999999999999845,1.4740554623801778,single,2,4.046,False,19.1
+love always run away|lim young woong,Love Always Run Away,Lim Young Woong,4,True,False,False,2024-08-09,2024-08-11,50,57,58.0,56.0,1,0.0,50,57,0,0.0,2,,,single,2,4.046,False,3.4
+love always run away|lim young woong,Love Always Run Away,Lim Young Woong,5,True,False,False,2024-10-02,2024-10-03,48,57,57.0,51.0,3,0.0,48,57,0,0.0,2,,,single,2,4.046,False,16.8
+love always run away|lim young woong,Love Always Run Away,Lim Young Woong,6,True,False,False,2024-10-14,2024-10-15,49,57,57.0,10.0,2,1.0,49,58,0,0.0,2,,,single,2,4.046,False,14.5
+love always run away|lim young woong,Love Always Run Away,Lim Young Woong,7,True,False,False,2024-10-21,2025-02-12,47,58,58.0,5.0,4,0.3333333333333333,28,61,48,0.3958333333333333,113,0.14991258741258742,2.839440135063996,single,2,4.046,False,52.1
+love always run away|lim young woong,Love Always Run Away,Lim Young Woong,8,True,False,False,2025-02-19,2025-02-20,43,59,59.0,6.0,8,0.0,43,59,0,0.0,2,,,single,2,4.046,False,42.3
+love dive|ive,LOVE DIVE,IVE,1,False,True,False,2024-05-18,2024-05-22,49,83,,,2,0.0,48,83,1,1.0,4,1.0000000000000002,0.9428090415820634,single,2,2.9531,False,13.4
+love dive|ive,LOVE DIVE,IVE,2,True,False,False,2024-05-29,2024-05-29,49,83,83.0,6.0,2,0.0,49,83,0,0.0,1,,,single,2,2.9531,False,10.4
+love dive|ive,LOVE DIVE,IVE,3,True,False,False,2024-06-19,2024-06-19,48,83,83.0,20.0,3,0.0,48,83,0,0.0,1,,,single,2,2.9531,False,16.8
+love lee|akmu,Love Lee,AKMU,1,False,False,False,2024-08-22,2024-11-12,49,0,,,2,20.333333333333332,8,81,27,1.5185185185185186,82,0.6963203463203466,4.4402586599122555,single,2,2.9947166666666667,False,81.3
+love letter|lim young woong,Love Letter,Lim Young Woong,1,False,False,False,2024-11-01,2024-11-02,50,57,,,1,0.0,50,57,0,0.0,2,,,album,12,3.584,False,3.4
+love letter|lim young woong,Love Letter,Lim Young Woong,2,True,False,False,2024-11-09,2024-12-24,49,57,57.0,6.0,2,0.3333333333333333,32,60,26,0.6538461538461539,44,0.7234262125902994,2.391394342434468,album,12,3.584,False,46.0
+love letter|lim young woong,Love Letter,Lim Young Woong,3,True,False,False,2024-12-28,2025-01-22,43,56,58.0,3.0,8,0.0,41,59,1,2.0,23,0.24223602484472015,2.07553637396925,album,12,3.584,False,44.7
+love letter|lim young woong,Love Letter,Lim Young Woong,4,True,False,False,2025-01-27,2025-02-01,48,58,58.0,4.0,3,0.0,48,58,0,0.0,5,0.2999999999999965,0.4330127018922193,album,12,3.584,False,16.8
+love letter|lim young woong,Love Letter,Lim Young Woong,5,True,False,False,2025-02-07,2025-02-07,50,57,57.0,5.0,1,0.0,50,57,0,0.0,1,,,album,12,3.584,False,3.4
+love me again|v,Love Me Again,V,1,False,False,True,2024-08-13,2025-11-27,8,79,,,43,2.3333333333333335,3,95,31,0.16129032258064516,468,0.06346915011435898,2.364621080721793,single,2,3.0382166666666666,False,92.4
+love me like this|nmixx,Love Me Like This,NMIXX,1,False,True,False,2024-05-18,2024-06-07,37,80,,,14,0.0,37,80,0,0.0,18,0.7100103199174406,3.6385099045157916,single,6,3.1453,False,56.4
+love station|lim young woong,Love Station,Lim Young Woong,1,False,False,False,2024-11-17,2024-11-23,50,55,,,1,0.3333333333333333,49,56,3,0.3333333333333333,4,,0.4714045207910317,album,12,3.1882166666666665,False,7.0
+love station|lim young woong,Love Station,Lim Young Woong,2,True,False,False,2024-12-05,2024-12-05,50,57,56.0,11.0,1,0.0,50,57,0,0.0,1,,,album,12,3.1882166666666665,False,3.4
+love wins all|iu,Love wins all,IU,1,False,False,False,2025-01-26,2025-04-22,8,67,,,43,3.0,6,84,1,2.0,84,0.525964485118173,2.350910850308786,single,1,4.518,False,91.8
+love you with all my heart|crush,Love You With All My Heart,Crush,1,False,False,False,2025-04-17,2025-04-17,48,70,,,3,0.0,48,70,0,0.0,1,,,single,2,4.069766666666666,False,16.8
+love you with all my heart|crush,Love You With All My Heart,Crush,2,True,False,False,2025-04-23,2025-05-25,48,73,70.0,5.0,3,0.3333333333333333,19,80,15,1.9333333333333333,33,1.2487100103199176,4.926708935739963,single,2,4.069766666666666,False,59.3
+"love, money, fame|seventeen","LOVE, MONEY, FAME (feat. DJ Khaled)",SEVENTEEN,1,False,False,False,2025-10-16,2025-10-30,17,63,,,34,3.0,13,79,1,4.0,15,1.927472527472527,6.052912943537253,single,6,3.1064333333333334,False,86.0
+lovely touch|lim young woong,Lovely Touch,Lim Young Woong,1,False,False,False,2024-05-23,2024-05-24,49,55,,,2,1.0,45,56,1,4.0,2,,,album,12,3.252883333333333,False,25.8
+lovely touch|lim young woong,Lovely Touch,Lim Young Woong,2,True,False,False,2024-06-03,2024-06-06,48,56,56.0,9.0,3,0.0,48,56,0,0.0,3,-2.1708135360510523e-15,1.0,album,12,3.252883333333333,False,16.8
+lovely touch|lim young woong,Lovely Touch,Lim Young Woong,3,True,False,False,2024-10-22,2025-02-11,49,56,56.0,137.0,2,0.3333333333333333,25,61,47,0.5106382978723404,112,0.17132867132867122,3.434051780411802,album,12,3.252883333333333,False,52.9
+lovely touch|lim young woong,Lovely Touch,Lim Young Woong,4,True,False,False,2025-02-19,2025-02-20,44,58,58.0,7.0,7,0.0,44,58,0,0.0,2,,,album,12,3.252883333333333,False,38.3
+lovin on me|jack harlow,Lovin On Me,Jack Harlow,1,False,False,False,2025-01-14,2025-01-31,50,99,,,1,0.0,39,99,5,2.2,15,0.6545454545454554,3.589241293257461,single,1,2.30685,True,31.2
+loving you|lim young woong,Loving You,Lim Young Woong,1,False,False,False,2024-11-17,2024-11-22,47,56,,,4,0.0,47,56,0,0.0,5,0.39999999999999347,0.82915619758885,album,12,3.5382166666666666,False,22.8
+loving you|lim young woong,Loving You,Lim Young Woong,2,True,False,False,2024-12-04,2024-12-07,46,57,56.0,11.0,5,0.0,46,57,0,0.0,3,2.000000000000001,2.0,album,12,3.5382166666666666,False,28.6
+lucky girl syndrome|illit,Lucky Girl Syndrome,ILLIT,1,False,False,False,2025-03-28,2025-04-06,29,65,,,22,1.6666666666666667,28,73,6,0.16666666666666666,10,6.000000000000001,3.189488909868294,single,4,2.3336833333333336,False,72.6
+lucky girl syndrome|illit,Lucky Girl Syndrome,ILLIT,2,True,False,False,2025-04-23,2025-06-13,44,76,73.0,16.0,7,0.0,21,78,4,5.75,47,0.640138930836605,3.717327739095488,single,4,2.3336833333333336,False,61.1
+lunch|billie eilish,LUNCH,Billie Eilish,1,False,False,False,2025-05-19,2025-06-16,30,62,,,21,9.333333333333334,12,96,6,3.0,29,1.3063241106719368,3.260774917289522,album,10,2.9931,False,83.5
+luther|kendrick lamar,luther (with sza),Kendrick Lamar,1,False,False,True,2025-11-25,2025-11-27,23,52,,,28,6.0,20,64,1,3.0,3,,1.5,album,12,2.959966666666667,False,82.1
+maestro|seventeen,MAESTRO,SEVENTEEN,1,False,False,False,2025-05-01,2025-05-11,20,66,,,31,3.3333333333333335,14,81,1,6.0,11,3.3878787878787877,4.060788100849391,album,33,3.3151,False,84.8
+maestro|seventeen,MAESTRO,SEVENTEEN,2,True,False,False,2025-05-15,2025-05-16,49,81,81.0,3.0,2,1.0,48,82,1,1.0,2,,,album,33,3.3151,False,18.8
+magnetic|illit,Magnetic,ILLIT,1,False,False,True,2025-03-27,2025-11-27,10,68,,,41,4.333333333333333,1,94,4,2.25,244,0.11390518932620354,1.970596230750653,single,4,2.6781333333333333,False,92.8
+maniac|viviz,MANIAC,VIVIZ,1,False,False,False,2025-01-31,2025-02-04,50,80,,,1,0.3333333333333333,46,81,1,4.0,4,1.4999999999999978,2.6246692913372702,single,5,3.2586666666666666,False,14.9
+maniac|viviz,MANIAC,VIVIZ,2,True,False,False,2025-02-09,2025-02-17,48,81,81.0,4.0,3,0.3333333333333333,40,82,2,4.0,8,1.2285714285714266,3.979539507766891,single,5,3.2586666666666666,False,36.3
+maniac|viviz,MANIAC,VIVIZ,3,True,False,False,2025-02-28,2025-02-28,50,83,82.0,10.0,1,0.0,50,83,0,0.0,1,,,single,5,3.2586666666666666,False,3.4
+mantra|jennie,Mantra,JENNIE,1,False,False,True,2025-10-13,2025-11-27,3,75,,,48,2.0,2,89,3,0.3333333333333333,46,0.6766837813349442,1.4649821976755122,single,1,2.2771166666666667,True,95.4
+mars|d.o.,Mars,D.O.,1,False,False,False,2025-05-12,2025-05-12,48,65,,,3,0.0,48,65,0,0.0,1,,,single,6,3.1211,False,16.8
+mars|d.o.,Mars,D.O.,2,True,False,False,2025-05-18,2025-05-18,47,70,65.0,5.0,4,0.0,47,70,0,0.0,1,,,single,6,3.1211,False,22.8
+melt away|taeyeon,Melt Away,TAEYEON,1,False,False,False,2024-11-29,2024-11-29,50,55,,,1,0.0,50,55,0,0.0,1,,,single,6,3.2666666666666666,False,3.4
+melt down|day6,Melt Down,DAY6,1,False,False,False,2025-09-04,2025-11-13,16,49,,,35,3.3333333333333335,11,65,3,1.6666666666666667,66,0.5257776497695855,4.742954912475465,album,8,2.7597833333333335,False,87.0
+meltdown|travis scott,MELTDOWN,Travis Scott,1,False,False,False,2024-07-29,2024-07-30,34,0,,,17,84.0,34,84,0,0.0,2,,,album,19,4.102216666666667,True,99.6
+memories|riize,Memories,RIIZE,1,False,False,False,2024-08-31,2024-09-28,50,69,,,1,0.6666666666666666,24,73,3,8.666666666666666,25,1.068887634105025,7.252872993970504,single,1,2.9668833333333335,False,53.0
+memories|riize,Memories,RIIZE,2,True,False,False,2024-10-02,2024-10-19,47,74,73.0,3.0,4,0.0,39,76,4,2.0,18,0.30989010989010807,2.8381971957211336,single,1,2.9668833333333335,False,40.0
+meow|meovv,MEOW,MEOVV,1,False,False,False,2025-09-08,2025-10-26,43,33,,,8,11.333333333333334,8,76,3,11.666666666666666,48,0.758102766798419,6.404644082354517,single,1,2.8678833333333333,False,78.8
+midas touch|kiss of life,Midas Touch,KISS OF LIFE,1,False,False,False,2025-04-05,2025-06-21,32,64,,,19,2.6666666666666665,9,82,6,3.8333333333333335,77,0.5877934272300469,3.2306048163191323,single,2,2.7146666666666666,False,79.5
+midas touch|kiss of life,Midas Touch,KISS OF LIFE,2,True,False,False,2025-06-29,2025-06-29,50,77,75.0,7.0,1,0.0,50,77,0,0.0,1,,,single,2,2.7146666666666666,False,3.4
+midnight fiction|illit,Midnight Fiction,ILLIT,1,False,False,False,2025-03-28,2025-04-13,28,66,,,23,1.6666666666666667,24,76,6,0.6666666666666666,17,1.9090909090909096,3.6228441865473595,single,4,2.8017333333333334,False,75.1
+million dollar baby|tommy richman,MILLION DOLLAR BABY,Tommy Richman,1,False,False,False,2025-05-09,2025-09-07,43,90,,,8,1.0,12,99,9,3.4444444444444446,118,0.2754610323417663,2.900900533007533,single,2,2.58585,False,69.3
+mine|aespa,Mine,aespa,1,False,False,False,2025-05-30,2025-05-31,29,56,,,22,7.0,29,63,0,0.0,2,,,album,10,3.2208833333333335,False,76.5
+mistletoe|justin bieber,Mistletoe,Justin Bieber,1,False,False,False,2024-12-25,2024-12-27,35,92,,,16,0.0,35,92,0,0.0,3,1.000000000000006,1.0,album,15,3.0491,False,60.6
+modern jam|travis scott,MODERN JAM,Travis Scott,1,False,False,False,2024-07-29,2024-07-30,23,0,,,28,83.0,23,83,0,0.0,2,,,album,19,4.256866666666666,True,99.8
+monet|beenzino,Monet,Beenzino,1,False,False,False,2024-07-05,2024-07-12,17,42,,,34,2.6666666666666665,17,53,0,0.0,8,5.261904761904762,4.593695768803864,album,18,2.642,True,84.9
+monster|day6,Monster,DAY6,1,False,False,False,2025-09-04,2025-09-06,30,47,,,21,4.0,30,55,0,0.0,3,6.499999999999998,6.5,album,8,3.6081666666666665,False,72.7
+moonlit floor (kiss me)|lisa,Moonlit Floor (Kiss Me),LISA,1,False,False,False,2025-10-26,2025-11-03,24,89,,,27,0.0,24,90,0,0.0,9,2.166666666666665,5.170529469986609,single,1,2.59595,False,77.1
+moonlit floor|lisa,Moonlit Floor,LISA,1,False,False,False,2025-10-18,2025-10-25,48,86,,,3,0.3333333333333333,21,89,5,5.4,8,2.5000000000000018,5.986379097073418,single,1,2.59595,False,56.7
+mourning|post malone,Mourning,Post Malone,1,False,False,False,2024-05-21,2024-05-23,23,73,,,28,2.5,23,78,0,0.0,3,12.499999999999998,5.5,single,1,2.46365,True,78.6
+my boy only breaks his favorite toys|taylor swift,My Boy Only Breaks His Favorite Toys,Taylor Swift,1,False,False,False,2025-04-21,2025-04-22,37,81,,,14,1.0,37,82,0,0.0,2,,,album,16,3.3966833333333333,False,58.1
+my eyes|travis scott,MY EYES,Travis Scott,1,False,False,False,2024-07-29,2024-07-30,33,0,,,18,83.0,33,83,0,0.0,2,,,album,19,4.187483333333334,True,99.7
+my love mine all mine|mitski,My Love Mine All Mine,Mitski,1,False,False,False,2024-12-17,2024-12-23,48,98,,,3,0.0,46,98,2,1.0,5,0.9999999999999948,1.4142135623730951,album,11,2.2962166666666666,False,20.6
+my love mine all mine|mitski,My Love Mine All Mine,Mitski,2,True,False,False,2024-12-28,2025-02-25,44,95,97.0,4.0,7,0.3333333333333333,31,99,42,0.30952380952380953,57,0.871428571428572,3.0040364002251287,album,11,2.2962166666666666,False,53.8
+my love mine all mine|mitski,My Love Mine All Mine,Mitski,3,True,False,False,2025-03-02,2025-03-15,46,98,99.0,4.0,5,0.0,42,98,4,1.0,13,0.7166666666666655,3.1710495984067415,album,11,2.2962166666666666,False,36.6
+my love mine all mine|mitski,My Love Mine All Mine,Mitski,4,True,False,False,2025-03-19,2025-03-22,47,96,96.0,3.0,4,0.0,47,96,0,0.0,3,1.5000000000000002,0.5,album,11,2.2962166666666666,False,22.8
+my love mine all mine|mitski,My Love Mine All Mine,Mitski,5,True,False,False,2025-03-27,2025-03-30,41,95,96.0,3.0,10,0.0,41,95,0,0.0,3,4.0,1.0,album,11,2.2962166666666666,False,47.9
+my name is malguem|qwer,My Name is Malguem,QWER,1,False,False,True,2025-09-25,2025-11-27,46,38,,,5,4.0,8,61,12,3.1666666666666665,64,0.6381371126099203,4.393357178922208,single,8,3.1386666666666665,False,72.1
+my starry love|lim young woong,My Starry Love,Lim Young Woong,1,False,False,False,2024-11-12,2024-12-08,48,55,,,3,0.3333333333333333,38,58,20,0.5,27,0.8928571428571404,3.5006339239946933,single,2,3.8468833333333334,False,40.1
+my starry love|lim young woong,My Starry Love,Lim Young Woong,2,True,False,False,2024-12-13,2024-12-13,48,58,58.0,4.0,3,0.0,48,58,0,0.0,1,,,single,2,3.8468833333333334,False,16.8
+my starry love|lim young woong,My Starry Love,Lim Young Woong,3,True,False,False,2025-01-03,2025-01-03,50,55,58.0,20.0,1,0.0,50,55,0,0.0,1,,,single,2,3.8468833333333334,False,3.4
+my starry love|lim young woong,My Starry Love,Lim Young Woong,4,True,False,False,2025-01-11,2025-01-11,49,57,55.0,7.0,2,0.0,49,57,0,0.0,1,,,single,2,3.8468833333333334,False,10.4
+my world|illit,My World,ILLIT,1,False,False,False,2025-03-28,2025-04-11,32,65,,,19,2.0,29,75,6,0.5,15,2.5166666666666653,2.6687916703242007,single,4,1.79105,False,69.9
+my you|jung kook,My You,Jung Kook,1,False,False,False,2024-07-05,2024-07-22,21,75,,,30,2.6666666666666665,16,88,11,0.45454545454545453,18,3.571428571428572,3.364788152017669,single,1,2.7511666666666668,False,82.9
+my you|jung kook,My You,Jung Kook,2,True,False,False,2024-07-27,2024-08-11,49,87,88.0,4.0,2,-0.3333333333333333,47,87,4,0.5,10,0.17142857142856915,1.617802197617893,single,1,2.7511666666666668,False,13.6
+my you|jung kook,My You,Jung Kook,3,True,False,False,2024-09-30,2024-10-01,47,79,84.0,49.0,4,0.0,47,79,0,0.0,2,,,single,1,2.7511666666666668,False,22.8
+nemonemo|yena,NEMONEMO,YENA,1,False,False,False,2025-10-09,2025-10-28,44,61,,,7,1.0,31,69,9,1.4444444444444444,18,1.7333333333333312,7.6538431443878405,single,3,2.9671,False,54.5
+nemonemo|yena,NEMONEMO,YENA,2,True,False,False,2025-11-01,2025-11-06,48,69,69.0,3.0,3,0.0,44,69,3,1.3333333333333333,5,,3.2691742076555053,single,3,2.9671,False,26.3
+nemonemo|yena,NEMONEMO,YENA,3,True,False,False,2025-11-12,2025-11-12,49,69,69.0,5.0,2,0.0,49,69,0,0.0,1,,,single,3,2.9671,False,10.4
+nest|lim young woong,Nest,Lim Young Woong,1,False,False,False,2024-11-12,2024-12-15,47,56,,,4,0.3333333333333333,37,59,20,0.5,32,1.3846153846153852,3.2222561107534955,album,12,2.8713333333333333,False,43.5
+nest|lim young woong,Nest,Lim Young Woong,2,True,False,False,2024-12-19,2024-12-19,49,58,59.0,3.0,2,0.0,49,58,0,0.0,1,,,album,12,2.8713333333333333,False,10.4
+nest|lim young woong,Nest,Lim Young Woong,3,True,False,False,2024-12-30,2024-12-30,50,55,58.0,10.0,1,0.0,50,55,0,0.0,1,,,album,12,2.8713333333333333,False,3.4
+nest|lim young woong,Nest,Lim Young Woong,4,True,False,False,2025-01-03,2025-01-03,49,56,55.0,3.0,2,0.0,49,56,0,0.0,1,,,album,12,2.8713333333333333,False,10.4
+nest|lim young woong,Nest,Lim Young Woong,5,True,False,False,2025-01-11,2025-01-11,50,57,56.0,7.0,1,0.0,50,57,0,0.0,1,,,album,12,2.8713333333333333,False,3.4
+neuron|j-hope,NEURON (with Gaeko & YOON MIRAE),j-hope,1,False,False,False,2025-03-31,2025-04-05,34,73,,,17,2.3333333333333335,34,82,0,0.0,6,2.771428571428569,4.1952353926806065,single,6,4.554833333333334,False,63.5
+neva play|megan thee stallion,Neva Play (feat. RM of BTS),Megan Thee Stallion & RM,1,False,False,False,2025-09-08,2025-09-22,19,74,,,32,2.3333333333333335,19,87,0,0.0,15,1.6107142857142864,3.130658142973018,single,1,2.61955,True,82.5
+never let go|jung kook,Never Let Go,Jung Kook,1,False,False,False,2025-06-09,2025-09-06,11,75,,,40,2.0,9,90,3,0.6666666666666666,88,0.3149110807113543,2.569678987556303,single,1,2.7802,False,88.7
+new jeans|newjeans,New Jeans,NewJeans,1,False,False,False,2024-07-09,2024-10-29,6,0,,,45,27.666666666666668,3,89,5,0.6,113,0.36990196919031704,1.4030931118825454,single,2,1.8164333333333333,False,98.8
+new jeans|newjeans,New Jeans,NewJeans,2,True,False,False,2024-11-03,2024-11-03,48,84,85.0,4.0,3,0.0,48,84,0,0.0,1,,,single,2,1.8164333333333333,False,16.8
+new jeans|newjeans,New Jeans,NewJeans,3,True,False,False,2024-12-28,2025-01-09,47,79,84.0,54.0,4,0.3333333333333333,41,83,6,1.0,8,,4.923910839889739,single,2,1.8164333333333333,False,36.7
+new jeans|newjeans,New Jeans,NewJeans,4,True,False,False,2025-01-13,2025-01-15,49,83,83.0,3.0,2,0.0,49,83,0,0.0,3,1.407552960782558e-15,0.0,single,2,1.8164333333333333,False,10.4
+new jeans|newjeans,New Jeans,NewJeans,5,True,False,False,2025-02-10,2025-02-18,45,83,83.0,25.0,6,0.0,43,83,1,2.0,7,0.5428571428571425,2.4324199198877374,single,2,1.8164333333333333,False,37.0
+new jeans|newjeans,New Jeans,NewJeans,6,True,False,False,2025-02-28,2025-03-10,48,83,83.0,9.0,3,-0.3333333333333333,45,83,1,3.0,10,-0.11666666666666915,2.23330569358242,single,2,1.8164333333333333,False,24.8
+new jeans|newjeans,New Jeans,NewJeans,7,True,False,False,2025-03-16,2025-04-20,49,81,81.0,4.0,2,-0.3333333333333333,35,81,24,0.5833333333333334,32,1.4047619047619027,2.999826564532302,single,2,1.8164333333333333,False,40.5
+new jeans|newjeans,New Jeans,NewJeans,8,True,False,False,2025-04-27,2025-08-03,40,80,81.0,6.0,11,0.0,26,80,37,0.3783783783783784,98,0.3163405605499737,3.6336659913244094,single,2,1.8164333333333333,False,61.4
+new jeans|newjeans,New Jeans,NewJeans,9,True,False,False,2025-08-11,2025-08-19,50,78,78.0,7.0,1,0.0,44,78,2,3.0,7,1.2999999999999972,3.2145502536643185,single,2,1.8164333333333333,False,19.9
+new jeans|newjeans,New Jeans,NewJeans,10,True,False,False,2025-10-21,2025-10-21,44,76,78.0,62.0,7,0.0,44,76,0,0.0,1,,,single,2,1.8164333333333333,False,38.3
+new woman|lisa,New Woman (feat. ROSALÍA),LISA & ROSALÍA,1,False,False,False,2025-08-17,2025-09-14,22,0,,,29,28.0,16,92,3,2.0,29,1.3141880341880343,3.405427840302919,single,1,2.9964833333333334,False,95.7
+nice guy|boynextdoor,Nice Guy,BOYNEXTDOOR,1,False,False,False,2025-09-11,2025-09-29,31,53,,,20,3.3333333333333335,19,70,1,12.0,19,0.9649122807017542,5.833333333333333,album,7,2.748666666666667,False,77.2
+nice guy|boynextdoor,Nice Guy,BOYNEXTDOOR,2,True,False,False,2025-10-04,2025-10-04,49,70,70.0,4.0,2,0.0,49,70,0,0.0,1,,,album,7,2.748666666666667,False,10.4
+night dancer - big naughty remix|imase,NIGHT DANCER - BIG Naughty Remix,imase & BIG Naughty,1,False,False,False,2024-05-21,2024-05-23,50,49,,,1,2.0,41,53,2,4.5,3,,2.5,single,2,3.5075166666666666,False,32.4
+night dancer - big naughty remix|imase,NIGHT DANCER - BIG Naughty Remix,imase & BIG Naughty,2,True,False,False,2024-06-03,2024-06-09,50,59,53.0,10.0,1,0.3333333333333333,37,61,2,6.5,7,2.399999999999993,4.536885862938733,single,2,3.5075166666666666,False,36.5
+night dancer|imase,NIGHT DANCER,imase,1,False,True,False,2024-05-18,2024-07-04,12,75,,,39,0.0,12,79,0,0.0,48,0.37630264871906155,3.0374156893179443,album,7,3.51,False,86.6
+no boss|e sens,No Boss (Feat. Dok2),E SENS,1,False,False,False,2024-07-15,2024-07-15,32,38,,,19,0.0,32,38,0,0.0,1,,,album,13,3.1333333333333333,False,64.5
+no tomorrow - spotify singles|various artists,No Tomorrow - Spotify Singles,Various Artists,1,False,False,False,2025-04-08,2025-04-11,50,30,,,1,9.0,46,48,1,4.0,3,,3.0,single,1,5.133333333333334,False,44.0
+noid|tyler,Noid,"Tyler, The Creator",1,False,False,False,2025-10-30,2025-10-31,36,82,,,15,-2.0,36,82,0,0.0,2,,,album,1,4.7393833333333335,True,56.0
+not like us|kendrick lamar,Not Like Us,Kendrick Lamar,1,False,False,False,2025-05-09,2025-05-25,37,89,,,14,1.3333333333333333,24,98,9,1.4444444444444444,17,0.5952380952380939,5.303300858899107,single,1,4.569866666666667,True,67.1
+not like us|kendrick lamar,Not Like Us,Kendrick Lamar,2,True,False,False,2025-05-30,2025-06-01,48,98,98.0,4.0,3,0.0,43,98,1,5.0,3,,3.0,single,1,4.569866666666667,True,30.1
+not like us|kendrick lamar,Not Like Us,Kendrick Lamar,3,True,False,False,2025-06-22,2025-06-29,47,93,98.0,20.0,4,0.3333333333333333,44,95,6,0.5,8,,2.498979383505129,single,1,4.569866666666667,True,30.9
+not like us|kendrick lamar,Not Like Us,Kendrick Lamar,4,True,False,False,2025-07-07,2025-08-03,40,96,95.0,7.0,11,0.0,37,97,6,0.5,25,0.5333333333333322,2.8550029188543165,single,1,4.569866666666667,True,53.6
+number one girl|rosé,number one girl,ROSÉ,1,False,False,True,2025-11-24,2025-11-27,8,72,,,43,2.6666666666666665,8,80,0,0.0,4,0.29999999999999993,0.4714045207910317,single,2,3.6073666666666666,False,91.1
+off the record|ive,Off The Record,IVE,1,False,False,False,2024-10-07,2024-11-03,40,0,,,11,23.333333333333332,19,79,7,3.0,28,1.4961038961038962,4.012326685615064,single,1,3.14555,False,83.7
+omg (frnk remix)|newjeans,OMG (FRNK Remix),NewJeans,1,False,False,False,2024-12-21,2024-12-22,50,54,,,1,5.0,43,59,1,7.0,2,,,album,12,3.506666666666667,False,39.6
+omg|newjeans,OMG,NewJeans,1,False,True,False,2024-05-18,2024-10-28,11,93,,,40,-0.3333333333333333,10,93,12,0.08333333333333333,164,0.19158482493729456,1.7384169284553912,single,2,3.53755,False,87.8
+omg|newjeans,OMG,NewJeans,2,True,False,False,2024-12-02,2024-12-24,42,86,87.0,34.0,9,0.0,38,87,9,0.4444444444444444,23,0.7054945054945034,2.673716576336862,single,2,3.53755,False,48.9
+omg|newjeans,OMG,NewJeans,3,True,False,False,2024-12-28,2025-02-04,40,83,85.0,3.0,11,0.3333333333333333,34,87,9,0.6666666666666666,34,0.5938461538461535,1.9615214948705766,single,2,3.53755,False,55.9
+omg|newjeans,OMG,NewJeans,4,True,False,False,2025-02-10,2025-02-18,43,87,87.0,5.0,8,0.0,41,87,2,1.0,8,0.5428571428571396,2.813959371941744,single,2,3.53755,False,44.7
+omg|newjeans,OMG,NewJeans,5,True,False,False,2025-04-01,2025-04-01,48,82,87.0,39.0,3,0.0,48,82,0,0.0,1,,,single,2,3.53755,False,16.8
+omg|newjeans,OMG,NewJeans,6,True,False,False,2025-04-28,2025-05-22,41,82,82.0,26.0,10,0.0,15,82,3,8.666666666666666,24,1.4766233766233772,5.799093860511707,single,2,3.53755,False,67.6
+omg|newjeans,OMG,NewJeans,7,True,False,False,2025-06-01,2025-07-31,45,81,81.0,9.0,6,-0.3333333333333333,38,81,19,0.3684210526315789,58,0.1736842105263155,3.0517240030156265,single,2,3.53755,False,44.2
+omg|newjeans,OMG,NewJeans,8,True,False,False,2025-08-17,2025-08-19,50,80,80.0,15.0,1,0.0,44,80,1,6.0,3,,3.0,single,2,3.53755,False,19.9
+omg|newjeans,OMG,NewJeans,9,True,False,False,2025-10-13,2025-10-14,41,78,80.0,54.0,10,0.0,41,78,0,0.0,2,,,single,2,3.53755,False,47.9
+on the street|leellamarz,On the street (Feat. ASH ISLAND),Leellamarz,1,False,False,False,2024-08-16,2024-08-16,49,36,,,2,0.0,49,36,0,0.0,1,,,single,1,3.4859,False,10.4
+one kiss|riize,One Kiss,RIIZE,1,False,False,False,2025-05-01,2025-05-01,47,50,,,4,0.0,47,50,0,0.0,1,,,single,5,3.5343666666666667,False,22.8
+"our blues, our life|lim young woong","Our Blues, Our Life",Lim Young Woong,1,False,True,False,2024-05-18,2024-07-04,39,59,,,12,0.0,32,60,5,1.4,48,0.15977046209604318,2.949860160422521,album,12,3.4564333333333335,False,58.4
+"our blues, our life|lim young woong","Our Blues, Our Life",Lim Young Woong,2,True,False,False,2024-07-10,2024-07-26,45,60,60.0,5.0,6,0.0,43,60,1,2.0,17,0.10441176470588252,3.1168644099479206,album,12,3.4564333333333335,False,37.0
+"our blues, our life|lim young woong","Our Blues, Our Life",Lim Young Woong,3,True,False,False,2024-07-31,2024-08-20,47,59,60.0,4.0,4,0.0,42,59,7,0.7142857142857143,19,0.734265734265734,2.884612219054927,album,12,3.4564333333333335,False,34.2
+"our blues, our life|lim young woong","Our Blues, Our Life",Lim Young Woong,4,True,False,False,2024-08-24,2024-08-29,47,58,58.0,3.0,4,0.0,44,58,4,0.75,6,,3.4409301068170506,album,12,3.4564333333333335,False,30.4
+"our blues, our life|lim young woong","Our Blues, Our Life",Lim Young Woong,5,True,False,False,2024-09-03,2024-09-06,44,58,58.0,4.0,7,0.0,41,58,1,3.0,4,4.000000000000003,5.2493385826745405,album,12,3.4564333333333335,False,43.4
+"our blues, our life|lim young woong","Our Blues, Our Life",Lim Young Woong,6,True,False,False,2024-09-10,2024-10-09,37,59,58.0,3.0,14,0.0,37,59,0,0.0,28,0.20087575259989046,3.344425987398314,album,12,3.4564333333333335,False,56.4
+"our blues, our life|lim young woong","Our Blues, Our Life",Lim Young Woong,7,True,False,False,2024-10-13,2025-05-21,39,58,58.0,3.0,12,0.3333333333333333,16,63,48,0.4791666666666667,211,0.1887736157525175,2.8263419143444137,album,12,3.4564333333333335,False,70.1
+"our blues, our life|lim young woong","Our Blues, Our Life",Lim Young Woong,8,True,False,False,2025-06-10,2025-06-11,49,51,57.0,19.0,2,0.0,49,51,0,0.0,2,,,album,12,3.4564333333333335,False,10.4
+"our blues, our life|lim young woong","Our Blues, Our Life",Lim Young Woong,9,True,False,False,2025-06-21,2025-07-10,50,51,51.0,9.0,1,0.6666666666666666,39,56,1,11.0,12,0.890909090909092,4.177863742936748,album,12,3.4564333333333335,False,32.3
+"our blues, our life|lim young woong","Our Blues, Our Life",Lim Young Woong,10,True,False,False,2025-07-15,2025-07-24,46,56,55.0,3.0,5,0.0,43,56,3,1.0,9,0.9714285714285725,1.713913650100261,album,12,3.4564333333333335,False,35.4
+"our blues, our life|lim young woong","Our Blues, Our Life",Lim Young Woong,11,True,False,False,2025-08-05,2025-08-14,49,56,56.0,11.0,2,-0.3333333333333333,46,56,3,1.0,6,1.999999999999995,1.9390719429665317,album,12,3.4564333333333335,False,18.6
+overdrive|post malone,Overdrive,Post Malone,1,False,False,False,2024-07-16,2024-07-16,47,76,,,4,0.0,47,76,0,0.0,1,,,single,1,2.461316666666667,False,22.8
+paid|kanye west,PAID,Kanye West & Ty Dolla $ign,1,False,False,False,2025-02-13,2025-02-13,27,79,,,24,0.0,27,79,0,0.0,1,,,album,16,3.25195,True,73.3
+paint the town red|doja cat,Paint The Town Red,Doja Cat,1,False,False,False,2024-08-31,2024-11-03,46,96,,,5,0.3333333333333333,13,100,28,1.1785714285714286,65,1.146040777619725,3.0815732589052627,album,15,3.8625,True,63.7
+palisade|yanghongwon,PALISADE,YANGHONGWON,1,False,False,False,2025-05-26,2025-05-27,49,35,,,2,4.0,42,39,1,7.0,2,,,album,8,1.4706666666666666,False,40.6
+paranoia|heartsteel,PARANOIA,HEARTSTEEL & League of Legends & BAEKHYUN,1,False,False,False,2024-10-26,2024-10-28,37,78,,,14,2.5,37,83,0,0.0,3,2.4999999999999933,2.5,single,1,3.313616666666667,False,59.9
+people pt.2|agust d,People Pt.2 (feat. IU),Agust D,1,False,True,False,2024-05-18,2024-06-03,38,82,,,13,-0.3333333333333333,34,82,2,2.0,17,0.44285714285714306,2.2836032383056386,album,10,3.5665833333333334,False,57.3
+people pt.2|agust d,People Pt.2 (feat. IU),Agust D,2,True,False,False,2024-06-07,2024-06-07,45,80,80.0,3.0,6,0.0,45,80,0,0.0,1,,,album,10,3.5665833333333334,False,33.2
+people pt.2|agust d,People Pt.2 (feat. IU),Agust D,3,True,False,False,2024-07-02,2024-11-04,35,78,80.0,24.0,16,0.0,14,78,40,0.525,126,0.08806075758290483,3.37516577370653,album,10,3.5665833333333334,False,73.8
+perfect night|le sserafim,Perfect Night,LE SSERAFIM,1,False,False,False,2024-10-29,2025-05-14,14,0,,,37,26.0,9,91,2,2.5,194,0.1184538019151995,1.65503291099649,single,1,2.6513333333333335,False,97.4
+perfect night|le sserafim,Perfect Night,LE SSERAFIM,2,True,False,False,2025-05-20,2025-05-25,46,84,85.0,5.0,5,0.0,46,84,0,0.0,4,1.2999999999999985,1.247219128924647,single,1,2.6513333333333335,False,28.6
+perfect night|le sserafim,Perfect Night,LE SSERAFIM,3,True,False,False,2025-06-01,2025-06-20,48,84,84.0,6.0,3,-0.6666666666666666,45,84,2,1.5,17,0.20714285714285746,1.7633419974582356,single,1,2.6513333333333335,False,20.5
+perfect night|le sserafim,Perfect Night,LE SSERAFIM,4,True,False,False,2025-08-10,2025-08-19,42,81,78.0,49.0,9,0.0,36,81,4,1.5,9,1.199999999999996,4.380353866983808,single,1,2.6513333333333335,False,51.3
+perfect night|le sserafim,Perfect Night,LE SSERAFIM,5,True,False,False,2025-08-25,2025-08-28,50,81,81.0,5.0,1,0.0,48,81,1,2.0,2,,,single,1,2.6513333333333335,False,7.4
+perfect night|le sserafim,Perfect Night,LE SSERAFIM,6,True,False,False,2025-09-01,2025-10-21,45,81,81.0,3.0,6,0.0,30,81,1,15.0,51,0.0962785114045619,5.370139662988292,single,1,2.6513333333333335,False,53.3
+pierrot|le sserafim,Pierrot,LE SSERAFIM,1,False,False,False,2025-09-01,2025-09-04,21,64,,,30,2.3333333333333335,21,71,0,0.0,4,4.500000000000003,3.559026084010437,single,5,2.8385833333333332,False,80.8
+pink hoodie|aespa,Pink Hoodie,aespa,1,False,False,False,2025-10-24,2025-10-24,50,50,,,1,0.0,50,50,0,0.0,1,,,single,6,2.4424333333333332,False,3.4
+please don't change|jung kook,Please Don't Change (feat. DJ Snake),Jung Kook,1,False,False,False,2024-11-04,2024-12-23,9,0,,,42,27.333333333333332,9,87,0,0.0,49,0.9083673469387756,4.7047829534303585,album,11,2.444733333333333,False,98.1
+please don't change|jung kook,Please Don't Change (feat. DJ Snake),Jung Kook,2,True,False,False,2024-12-28,2025-01-16,50,82,85.0,4.0,1,0.3333333333333333,31,85,1,19.0,19,0.2982456140350881,5.933010811042789,album,11,2.444733333333333,False,45.1
+please don't change|jung kook,Please Don't Change (feat. DJ Snake),Jung Kook,3,True,False,False,2025-01-21,2025-01-26,36,84,84.0,4.0,15,0.0,36,84,0,0.0,4,3.8000000000000043,6.18241233033047,album,11,2.444733333333333,False,58.9
+please don't change|jung kook,Please Don't Change (feat. DJ Snake),Jung Kook,4,True,False,False,2025-02-03,2025-02-07,46,84,84.0,7.0,5,0.0,46,84,0,0.0,4,0.6000000000000014,2.494438257849294,album,11,2.444733333333333,False,28.6
+please don't change|jung kook,Please Don't Change (feat. DJ Snake),Jung Kook,5,True,False,False,2025-02-13,2025-03-09,45,83,84.0,5.0,6,0.0,30,83,1,15.0,25,0.24739130434782522,6.02540916084174,album,11,2.444733333333333,False,53.3
+please don't change|jung kook,Please Don't Change (feat. DJ Snake),Jung Kook,6,True,False,False,2025-03-15,2025-03-15,49,81,82.0,4.0,2,0.0,49,81,0,0.0,1,,,album,11,2.444733333333333,False,10.4
+please please please|sabrina carpenter,Please Please Please,Sabrina Carpenter,1,False,False,False,2025-06-10,2025-07-24,45,78,,,6,1.6666666666666667,16,99,8,3.625,43,0.657703081232493,4.269546222177558,single,2,3.1060833333333333,True,64.1
+please please please|sabrina carpenter,Please Please Please,Sabrina Carpenter,2,True,False,False,2025-08-01,2025-08-02,50,98,98.0,7.0,1,0.0,50,98,0,0.0,2,,,single,2,3.1060833333333333,True,3.4
+please please please|sabrina carpenter,Please Please Please,Sabrina Carpenter,3,True,False,False,2025-08-15,2025-08-16,47,98,98.0,11.0,4,0.0,47,98,0,0.0,2,,,single,2,3.1060833333333333,True,22.8
+please please please|sabrina carpenter,Please Please Please,Sabrina Carpenter,4,True,False,False,2025-08-24,2025-09-01,33,97,98.0,7.0,18,0.0,33,97,0,0.0,9,1.1333333333333315,4.428247395979588,single,2,3.1060833333333333,True,63.0
+pleasure shop|key,Pleasure Shop,KEY,1,False,False,False,2025-09-25,2025-09-29,43,46,,,8,3.6666666666666665,40,57,1,3.0,4,3.999999999999999,5.90668171555645,single,6,3.038,False,51.7
+plot twist|tws,plot twist,TWS,1,False,False,False,2025-01-28,2025-05-25,45,64,,,6,1.3333333333333333,8,78,19,1.9473684210526316,116,0.40411319166841997,2.7361059907172023,single,5,2.54,False,70.3
+plot twist|tws,plot twist,TWS,2,True,False,False,2025-06-02,2025-06-17,46,74,75.0,7.0,5,-0.3333333333333333,43,74,4,0.75,15,0.40000000000000074,2.1771072363040243,single,5,2.54,False,34.0
+polaroid|lim young woong,Polaroid,Lim Young Woong,1,False,True,False,2024-05-18,2025-10-11,22,64,,,29,-0.3333333333333333,10,68,182,0.06593406593406594,508,0.09922544388689486,2.3416125057765664,single,2,3.44,False,82.7
+popcorn|d.o.,Popcorn,D.O.,1,False,False,False,2025-05-05,2025-05-05,36,65,,,15,0.0,36,65,0,0.0,1,,,single,1,3.022,False,58.9
+popular|the weeknd,Popular (with Playboi Carti & Madonna),The Weeknd & Playboi Carti & Madonna,1,False,False,False,2024-06-04,2024-06-04,42,75,,,9,0.0,42,75,0,0.0,1,,,single,1,3.5911,True,45.6
+power|g-dragon,POWER,G-DRAGON,1,False,False,True,2025-11-02,2025-11-27,3,60,,,48,2.6666666666666665,3,74,0,0.0,26,0.5531623931623932,1.7554486605993354,single,1,2.387366666666667,False,95.6
+promise|jimin,Promise,Jimin,1,False,True,False,2024-05-18,2024-05-20,48,78,,,3,0.0,43,78,2,2.5,3,,0.5,single,1,2.51685,False,30.1
+promise|jimin,Promise,Jimin,2,True,False,False,2024-05-28,2024-06-02,45,77,78.0,7.0,6,0.0,42,77,1,3.0,3,,1.5,single,1,2.51685,False,39.9
+promise|jimin,Promise,Jimin,3,True,False,False,2024-06-08,2024-07-12,50,77,77.0,5.0,1,0.0,31,77,13,1.4615384615384615,29,0.474999999999999,5.784722137154181,single,1,2.51685,False,44.5
+promotion|¥$,PROMOTION,¥$ & Kanye West & Ty Dolla $ign,1,False,False,False,2025-08-04,2025-08-06,39,0,,,12,36.0,33,72,1,6.0,3,,3.0,album,16,2.6479333333333335,True,86.3
+pump up the volume!|plave,Pump Up The Volume!,PLAVE,1,False,False,False,2025-08-22,2025-09-21,28,49,,,23,3.6666666666666665,13,67,1,15.0,30,0.9192118226600984,3.8620689655172415,single,1,2.9897666666666667,False,80.6
+pump up the volume!|plave,Pump Up The Volume!,PLAVE,2,True,False,False,2025-10-24,2025-11-02,47,63,67.0,32.0,4,0.0,33,63,1,14.0,10,1.73333333333333,6.200358412579424,single,1,2.9897666666666667,False,46.8
+push ups|drake,Push Ups,Drake,1,False,False,False,2025-04-23,2025-04-23,36,84,,,15,0.0,36,84,0,0.0,1,,,single,1,3.879566666666667,True,58.9
+queencard|(g)i-dle,Queencard,(G)I-DLE,1,False,True,False,2024-05-18,2024-09-11,5,71,,,46,2.6666666666666665,4,90,6,0.16666666666666666,117,0.3658037908037908,2.208041190227389,single,6,2.687333333333333,False,93.6
+queencard|(g)i-dle,Queencard,(G)I-DLE,2,True,False,False,2024-09-24,2024-09-24,50,85,87.0,12.0,1,0.0,50,85,0,0.0,1,,,single,6,2.687333333333333,False,3.4
+queencard|(g)i-dle,Queencard,(G)I-DLE,3,True,False,False,2024-09-29,2024-09-29,49,85,85.0,4.0,2,0.0,49,85,0,0.0,1,,,single,6,2.687333333333333,False,10.4
+radio|beenzino,Radio,Beenzino,1,False,False,False,2024-07-05,2024-07-06,45,36,,,6,6.0,45,42,0,0.0,2,,,album,18,3.5168833333333334,True,47.3
+rah tah tah|tyler,Rah Tah Tah,"Tyler, The Creator",1,False,False,False,2025-10-31,2025-10-31,50,81,,,1,0.0,50,81,0,0.0,1,,,album,14,2.756866666666667,True,3.4
+rainbow|lim young woong,Rainbow,Lim Young Woong,1,False,True,False,2024-05-18,2024-07-04,33,59,,,18,0.0,28,60,12,0.4166666666666667,48,0.2024453024453029,2.8271464241486117,album,12,3.2733333333333334,False,66.9
+rainbow|lim young woong,Rainbow,Lim Young Woong,2,True,False,False,2024-07-08,2024-07-26,50,60,60.0,3.0,1,0.0,37,60,2,6.5,18,0.25294117647058795,4.337013786156885,album,12,3.2733333333333334,False,35.9
+rainbow|lim young woong,Rainbow,Lim Young Woong,3,True,False,False,2024-07-31,2025-05-22,46,59,60.0,4.0,5,0.0,14,63,123,0.2601626016260163,292,0.18195017652031223,3.0846973330143213,album,12,3.2733333333333334,False,63.2
+rainbow|lim young woong,Rainbow,Lim Young Woong,4,True,False,False,2025-06-04,2025-06-11,49,55,57.0,12.0,2,-1.3333333333333333,47,55,2,1.0,6,0.40000000000000313,1.4696938456699067,album,12,3.2733333333333334,False,7.9
+rainbow|lim young woong,Rainbow,Lim Young Woong,5,True,False,False,2025-06-16,2025-07-24,49,50,51.0,4.0,2,0.6666666666666666,40,56,5,1.8,31,-0.0868376068376073,3.287180487219336,album,12,3.2733333333333334,False,34.7
+rainbow|lim young woong,Rainbow,Lim Young Woong,6,True,False,False,2025-07-29,2025-07-30,47,56,56.0,4.0,4,0.0,47,56,0,0.0,2,,,album,12,3.2733333333333334,False,22.8
+rainbow|lim young woong,Rainbow,Lim Young Woong,7,True,False,False,2025-08-04,2025-08-12,48,56,56.0,4.0,3,-0.3333333333333333,43,56,5,1.0,7,,3.0230595245361753,album,12,3.2733333333333334,False,27.2
+rainy days|v,Rainy Days,V,1,False,False,False,2024-08-13,2025-02-20,11,79,,,40,2.0,4,93,36,0.19444444444444445,192,0.16403091463703745,2.835328700656491,single,2,2.9926666666666666,False,90.4
+rainy days|v,Rainy Days,V,2,True,False,False,2025-03-02,2025-03-16,50,81,82.0,9.0,1,0.0,39,81,12,0.9166666666666666,13,,3.751851394830143,single,2,2.9926666666666666,False,31.2
+rainy days|v,Rainy Days,V,3,True,False,False,2025-03-24,2025-03-24,44,79,79.0,7.0,7,0.0,44,79,0,0.0,1,,,single,2,2.9926666666666666,False,38.3
+rebirth (intro)|jimin,Rebirth (Intro),Jimin,1,False,False,True,2025-07-21,2025-11-27,9,70,,,42,2.3333333333333335,7,79,8,0.25,129,0.1035632028180463,1.7513771088328607,album,7,2.4104,False,90.6
+right now (instrumental)|newjeans,Right Now (Instrumental),NewJeans,1,False,False,False,2025-06-22,2025-06-23,46,0,,,5,46.0,46,46,0,0.0,2,,,single,4,2.67355,False,84.4
+right now|newjeans,Right Now,NewJeans,1,False,False,False,2025-06-22,2025-08-19,4,0,,,47,22.333333333333332,4,78,0,0.0,57,0.7593336790251489,2.286760363305188,single,4,2.67355,False,98.5
+rockin' around the christmas tree|brenda lee,Rockin' Around The Christmas Tree,Brenda Lee,1,False,False,False,2024-12-24,2024-12-27,38,98,,,13,0.0,21,98,1,17.0,4,1.5000000000000007,8.806563209081936,album,12,2.104433333333333,False,66.4
+rockstar|lisa,Rockstar,LISA,1,False,False,False,2025-06-30,2025-07-19,38,77,,,13,2.0,31,92,4,1.75,19,1.0250000000000006,2.8722813232690143,single,5,2.30355,True,62.0
+rolex|yanghongwon,ROLEX,YANGHONGWON,1,False,False,False,2025-01-20,2025-01-21,27,40,,,24,4.0,27,44,0,0.0,2,,,single,1,2.9722666666666666,False,76.6
+roller coaster|nmixx,Roller Coaster,NMIXX,1,False,False,False,2024-07-08,2024-07-22,48,69,,,3,1.3333333333333333,35,77,6,2.1666666666666665,15,1.3499999999999976,2.8535691936340255,single,1,2.98955,False,46.1
+rumble|kinglee,Rumble,KingLee,1,False,False,False,2024-12-22,2024-12-22,29,51,,,22,0.0,29,51,0,0.0,1,,,single,1,2.9067166666666666,True,70.5
+runaway|kanye west,Runaway,Kanye West,1,False,False,False,2025-08-25,2025-09-04,46,81,,,5,0.0,27,81,6,3.1666666666666665,11,4.599999999999999,5.883026432033091,album,13,9.128883333333333,True,54.3
+running wild|jin,Running Wild,Jin,1,False,False,True,2025-11-17,2025-11-27,7,76,,,44,2.6666666666666665,2,84,5,1.0,11,0.14285714285714274,1.2806248474865698,album,8,2.527433333333333,False,93.2
+s-class|stray kids,S-Class,Stray Kids,1,False,False,False,2024-06-04,2024-07-04,16,73,,,35,3.0,16,89,0,0.0,31,0.6076612903225804,3.2298950791352694,album,12,3.2614666666666667,False,85.5
+sahara|yanghongwon,SAHARA,YANGHONGWON,1,False,False,False,2025-05-26,2025-05-27,33,36,,,18,5.0,33,41,0,0.0,2,,,album,8,3.06,False,69.4
+salty & sweet|aespa,Salty & Sweet,aespa,1,False,True,False,2024-05-18,2024-05-18,46,74,,,5,0.0,46,74,0,0.0,1,,,single,6,3.3626666666666667,False,28.6
+sandman|beenzino,Sandman,Beenzino,1,False,False,False,2024-07-05,2024-07-07,38,38,,,13,3.0,38,44,0,0.0,3,4.9999999999999964,5.0,album,18,2.9311,True,58.6
+santa tell me|ariana grande,Santa Tell Me,Ariana Grande,1,False,False,False,2024-12-17,2024-12-27,29,95,,,22,0.3333333333333333,11,96,8,2.25,11,0.5000000000000007,7.294518489934754,single,1,3.40155,False,78.4
+saturn|sza,Saturn,SZA,1,False,False,False,2025-03-01,2025-03-01,43,86,,,8,0.0,43,86,0,0.0,1,,,single,5,3.1031833333333334,False,42.3
+saturn|sza,Saturn,SZA,2,True,False,False,2025-03-08,2025-03-16,49,90,86.0,6.0,2,0.3333333333333333,43,91,2,3.0,8,0.48571428571428593,2.7479120088101925,single,5,3.1031833333333334,False,26.7
+say less|taemin,Say Less,TAEMIN,1,False,False,False,2025-08-22,2025-08-22,48,51,,,3,0.0,48,51,0,0.0,1,,,single,7,2.594883333333333,False,16.8
+scenery|v,Scenery,V,1,False,False,False,2024-08-29,2024-09-09,23,0,,,28,24.0,23,77,0,0.0,12,0.8881118881118887,2.259964162664737,single,1,4.9042,False,90.0
+see that?|nmixx,See that?,NMIXX,1,False,False,False,2025-08-20,2025-09-12,30,0,,,21,20.666666666666668,21,70,9,1.0,24,2.278571428571429,3.7913442359289804,single,6,3.0465833333333334,False,86.4
+serendipity - full length edition|bts,Serendipity - Full Length Edition,BTS,1,False,False,False,2025-01-23,2025-01-23,35,72,,,16,0.0,35,72,0,0.0,1,,,album,26,4.611783333333333,False,60.6
+set me free pt.2|jimin,Set Me Free Pt.2,Jimin,1,False,True,False,2024-05-18,2025-07-23,7,87,,,44,0.0,4,87,15,0.2,429,0.006332435754175772,1.8053885120032471,single,1,3.3488166666666666,True,91.5
+set the tone|aespa,Set The Tone,aespa,1,False,False,False,2025-05-29,2025-06-02,27,57,,,24,2.0,15,64,1,12.0,5,8.3,10.108783309577865,album,10,3.37555,False,79.6
+seven (alesso remix)|jung kook,Seven (feat. Latto) (Alesso Remix),Jung Kook & Latto,1,False,False,False,2024-08-26,2024-08-30,25,0,,,26,22.333333333333332,17,68,4,2.0,5,,4.743416490252569,single,4,2.708,True,90.3
+seven (alesso remix)|jung kook,Seven (feat. Latto) (Alesso Remix),Jung Kook & Latto,2,True,False,False,2024-09-05,2024-09-08,46,71,68.0,5.0,5,0.5,24,72,1,22.0,3,,11.0,single,4,2.708,True,57.0
+seven (band ver.)|jung kook,Seven (feat. Latto) (Band Ver.),Jung Kook & Latto,1,False,False,False,2024-07-19,2024-07-22,25,65,,,26,3.3333333333333335,16,75,2,4.5,4,,4.96655480858378,single,5,3.160433333333333,False,81.2
+seven (band ver.)|jung kook,Seven (feat. Latto) (Band Ver.),Jung Kook & Latto,2,True,False,False,2024-07-27,2024-08-05,34,77,75.0,4.0,17,0.0,34,77,0,0.0,6,3.571428571428569,2.756809750418044,single,5,3.160433333333333,False,61.7
+seven (david guetta remix)|jung kook,Seven (David Guetta Remix),Jung Kook & Latto & David Guetta,1,False,False,False,2024-10-31,2024-11-03,23,0,,,28,20.666666666666668,23,62,0,0.0,4,2.0000000000000018,0.816496580927726,single,2,2.624,True,88.3
+seven (explicit ver.)|jung kook,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,1,False,False,True,2024-07-16,2025-11-27,1,86,,,50,3.0,1,100,0,0.0,496,0.006363793710454322,0.4019339027214833,album,11,3.0733333333333333,True,96.5
+seven (instrumental)|jung kook,Seven (feat. Latto) (Instrumental),Jung Kook & Latto,1,False,False,False,2024-07-16,2024-08-06,10,74,,,41,2.0,9,81,5,0.2,22,1.8186274509803926,7.365113574085853,single,3,3.070666666666667,False,89.0
+seven (lofi mix)|jung kook,Seven (feat. Latto) (Lofi Mix),Jung Kook & Latto,1,False,False,False,2024-07-27,2024-07-28,47,66,,,4,2.0,47,68,0,0.0,2,,,single,7,3.354216666666667,False,30.7
+seven (summer mix)|jung kook,Seven (feat. Latto) (Summer Mix),Jung Kook & Latto,1,False,False,False,2024-07-19,2024-07-22,27,65,,,24,3.6666666666666665,12,76,3,5.0,4,,4.898979485566356,single,5,3.3617666666666666,False,81.6
+seven (summer mix)|jung kook,Seven (feat. Latto) (Summer Mix),Jung Kook & Latto,2,True,False,False,2024-07-27,2024-07-28,35,77,76.0,4.0,16,1.0,35,78,0,0.0,2,,,single,5,3.3617666666666666,False,61.3
+sexy in the air|taemin,Sexy In The Air,TAEMIN,1,False,False,False,2025-08-20,2025-08-30,43,0,,,8,19.666666666666668,27,65,2,8.0,11,3.1833333333333322,5.916924876994806,single,7,3.2466666666666666,False,77.4
+she smiled|day6,She Smiled,DAY6,1,False,False,False,2025-09-04,2025-09-08,27,47,,,24,3.0,27,56,0,0.0,5,4.699999999999997,5.931905258852336,album,8,3.3832,False,75.3
+sheesh|babymonster,SHEESH,BABYMONSTER,1,False,False,False,2025-04-03,2025-06-30,33,72,,,18,2.0,9,88,13,1.8461538461538463,89,0.4391660970608338,3.0033555613844944,single,7,2.8392666666666666,False,78.3
+sheesh|babymonster,SHEESH,BABYMONSTER,2,True,False,False,2025-07-04,2025-07-05,50,85,84.0,3.0,1,0.0,50,85,0,0.0,2,,,single,7,2.8392666666666666,False,3.4
+shh..|iu,"Shh.. (Feat. HYEIN, WONSUN JOE & Special Narr. Patti Kim)",IU,1,False,False,False,2025-02-22,2025-02-25,23,58,,,28,0.0,19,58,1,4.0,4,3.000000000000001,5.90668171555645,single,5,3.779333333333333,False,78.5
+shoong!|taeyang,Shoong! (feat. LISA of BLACKPINK),TAEYANG,1,False,True,False,2024-05-18,2024-05-27,40,78,,,11,0.3333333333333333,40,79,0,0.0,10,1.0545454545454533,2.960647243216495,album,6,3.41835,False,50.8
+shopper|iu,Shopper,IU,1,False,False,False,2025-02-22,2025-03-10,18,59,,,33,0.0,15,74,1,3.0,17,2.060294117647058,4.895390050853966,single,5,3.5953333333333335,False,83.2
+shot glass of tears|jung kook,Shot Glass of Tears,Jung Kook,1,False,False,False,2024-11-04,2024-12-19,13,0,,,38,27.333333333333332,13,86,0,0.0,42,0.9718823434081518,3.7728483000330746,album,11,2.7874333333333334,False,97.3
+shot glass of tears|jung kook,Shot Glass of Tears,Jung Kook,2,True,False,False,2024-12-29,2024-12-29,50,81,85.0,9.0,1,0.0,50,81,0,0.0,1,,,album,11,2.7874333333333334,False,3.4
+shot glass of tears|jung kook,Shot Glass of Tears,Jung Kook,3,True,False,False,2025-03-01,2025-03-01,44,80,81.0,61.0,7,0.0,44,80,0,0.0,1,,,album,11,2.7874333333333334,False,38.3
+shxtty game|day6,Shxtty Game,DAY6,1,False,False,False,2025-09-04,2025-09-06,42,46,,,9,3.5,42,53,0,0.0,3,3.4999999999999973,3.5,album,8,3.1568,False,51.0
+sirens|travis scott,SIRENS,Travis Scott,1,False,False,False,2024-07-29,2024-07-29,42,0,,,9,0.0,42,0,0,0.0,1,,,album,19,3.40745,True,45.6
+siren|riize,Siren,RIIZE,1,False,False,False,2025-04-05,2025-05-06,8,54,,,43,1.3333333333333333,8,68,0,0.0,32,1.0058651026392964,3.762457628857634,single,1,2.4660166666666665,False,90.1
+skrr|haon,Skrr (feat. GISELLE),HAON,1,False,False,True,2025-11-23,2025-11-27,35,52,,,16,1.6666666666666667,30,58,2,2.5,5,0.999999999999994,3.112474899497183,single,1,3.6533333333333333,False,64.8
+slide|¥$,SLIDE,¥$ & Kanye West & Ty Dolla $ign,1,False,False,False,2025-08-04,2025-08-06,22,0,,,29,36.0,22,72,0,0.0,3,7.4999999999999964,7.5,album,16,3.301,True,96.8
+slime you out|drake,Slime You Out (feat. SZA),Drake & SZA,1,False,False,False,2024-09-17,2024-09-18,41,0,,,10,75.0,37,75,1,4.0,2,,,single,1,5.174833333333333,True,98.2
+slow dance|jimin,Slow Dance (feat. Sofia Carson),Jimin,1,False,False,True,2025-07-21,2025-11-27,7,70,,,44,2.6666666666666665,6,80,8,0.125,129,0.1170302127083051,1.5273986962622923,album,7,3.1399833333333333,False,92.0
+slow dancing (frnk remix)|v,Slow Dancing (FRNK Remix),V,1,False,False,False,2024-10-24,2024-10-25,44,0,,,7,0.0,44,0,0,0.0,2,,,single,2,2.8306666666666667,False,38.3
+slow dancing (piano ver.)|v,Slow Dancing (Piano Ver.),V,1,False,False,False,2024-09-10,2024-11-07,14,74,,,37,2.6666666666666665,13,87,5,0.2,59,0.6729940918620163,3.211157717744225,single,6,3.1348833333333332,False,86.9
+slow dancing (piano ver.)|v,Slow Dancing (Piano Ver.),V,2,True,False,False,2024-12-31,2024-12-31,49,79,86.0,53.0,2,0.0,49,79,0,0.0,1,,,single,6,3.1348833333333332,False,10.4
+slow dancing|v,Slow Dancing,V,1,False,False,False,2024-09-10,2025-05-08,5,80,,,46,2.6666666666666665,4,96,3,0.3333333333333333,234,0.14105414825055002,2.6327944794778633,single,6,3.1171,False,93.6
+small girl|lee young ji,Small girl (feat. D.O.),Lee Young Ji,1,False,False,False,2025-06-22,2025-09-03,23,0,,,28,19.666666666666668,4,77,6,3.1666666666666665,71,0.6309877622377625,3.1220087724909105,single,6,3.161766666666667,False,94.2
+small girl|lee young ji,Small girl (feat. D.O.),Lee Young Ji,2,True,False,False,2025-09-09,2025-10-01,44,74,75.0,5.0,7,0.0,31,74,7,1.8571428571428572,22,0.9642857142857147,4.4451813448057,single,6,3.161766666666667,False,53.7
+smart|le sserafim,Smart,LE SSERAFIM,1,False,False,False,2025-02-21,2025-06-20,24,67,,,27,2.0,9,87,21,0.7142857142857143,117,0.46039744981009223,2.496608877227304,single,9,2.773066666666667,False,83.4
+smeraldo garden marching band|jimin,Smeraldo Garden Marching Band (feat. Loco),Jimin & Loco,1,False,False,True,2025-06-30,2025-11-27,2,78,,,49,2.3333333333333335,2,93,0,0.0,149,0.06191910030836206,0.7187296540138037,album,7,3.0473333333333334,False,96.1
+"smoke (prod. dynamicduo, padi)|various artists","Smoke (Prod. Dynamicduo, Padi)",Various Artists,1,False,False,False,2024-09-07,2024-10-22,36,45,,,15,5.0,18,78,16,1.125,46,0.8436040044493879,3.5987652203375413,single,4,3.4924333333333335,False,74.8
+smoothie|nct dream,Smoothie,NCT DREAM,1,False,False,False,2025-03-27,2025-04-06,30,57,,,21,3.3333333333333335,22,71,1,8.0,11,1.3212121212121213,5.963220606350229,single,6,3.1346666666666665,False,76.2
+snooze (acoustic)|sza,Snooze (Acoustic) (feat. Justin Bieber),SZA & Justin Bieber,1,False,False,False,2024-09-17,2024-09-17,43,0,,,8,0.0,43,0,0,0.0,1,,,single,1,3.1744,True,42.3
+snow flower|v,Snow Flower (feat. Peakboy),V,1,False,False,False,2024-08-29,2024-09-09,25,0,,,26,24.0,25,77,0,0.0,12,0.9685314685314684,1.9198829165402616,single,1,3.816883333333333,False,88.4
+snowman|sia,Snowman,Sia,1,False,False,False,2024-12-17,2024-12-27,36,94,,,15,0.0,14,94,7,3.142857142857143,10,1.0000000000000002,7.799968344348553,album,13,2.765,False,73.2
+"so long, london|taylor swift","So Long, London",Taylor Swift,1,False,False,False,2025-04-21,2025-04-22,44,81,,,7,1.0,44,82,0,0.0,2,,,album,16,4.3829,False,40.9
+somebody|d.o.,Somebody,D.O.,1,False,False,False,2024-10-04,2024-10-06,50,76,,,1,0.0,47,76,2,1.5,3,,1.5,single,7,2.64555,False,13.0
+somebody|jung kook,Somebody,Jung Kook,1,False,False,False,2024-11-04,2024-12-16,12,0,,,39,27.333333333333332,11,87,1,1.0,39,1.1201444359339094,4.756101198982045,album,11,2.8099833333333333,False,97.5
+somebody|jung kook,Somebody,Jung Kook,2,True,False,False,2024-12-21,2024-12-21,49,84,85.0,4.0,2,0.0,49,84,0,0.0,1,,,album,11,2.8099833333333333,False,10.4
+somebody|jung kook,Somebody,Jung Kook,3,True,False,False,2025-01-25,2025-02-02,50,82,84.0,34.0,1,0.0,46,82,1,4.0,6,0.5999999999999954,1.9595917942265426,album,11,2.8099833333333333,False,14.0
+somebody|jung kook,Somebody,Jung Kook,4,True,False,False,2025-02-08,2025-02-17,47,82,82.0,5.0,4,-0.3333333333333333,41,82,3,2.0,5,,4.5,album,11,2.8099833333333333,False,35.7
+somebody|jung kook,Somebody,Jung Kook,5,True,False,False,2025-02-26,2025-03-10,45,81,81.0,8.0,6,0.0,38,81,3,2.3333333333333335,11,1.2857142857142858,3.3241540277189325,album,11,2.8099833333333333,False,44.9
+sos (prod. marshmello)|seventeen,SOS (Prod. Marshmello),SEVENTEEN,1,False,False,False,2024-10-24,2024-10-25,49,0,,,2,0.0,49,0,0,0.0,2,,,album,8,3.2002166666666665,False,10.4
+sos|kangdaniel,SOS,KANGDANIEL,1,False,False,False,2024-07-07,2024-08-23,38,71,,,13,0.3333333333333333,24,76,7,2.0,46,0.38178137651821875,3.9381640141656287,single,5,3.1971,False,64.2
+sos|kangdaniel,SOS,KANGDANIEL,2,True,False,False,2024-08-31,2024-09-02,49,70,72.0,7.0,2,0.0,45,70,1,4.0,3,,2.0,single,5,3.1971,False,20.2
+soñar (breaker)|nmixx,Soñar (Breaker),NMIXX,1,False,False,False,2025-01-18,2025-01-18,46,58,,,5,0.0,46,58,0,0.0,1,,,album,7,2.8842166666666667,False,28.6
+spark - winter solo|aespa,Spark - WINTER Solo,aespa,1,False,False,False,2025-10-12,2025-10-12,44,64,,,7,0.0,44,64,0,0.0,1,,,single,4,3.3446666666666665,False,38.3
+spicy|aespa,Spicy,aespa,1,False,True,False,2024-05-18,2024-09-17,3,81,,,48,0.3333333333333333,3,85,0,0.0,121,0.35529061102831583,2.2304552350485665,single,6,3.284,False,93.8
+spot!|zico,SPOT!,ZICO,1,False,False,False,2025-04-28,2025-07-25,4,69,,,47,3.3333333333333335,2,87,1,2.0,88,0.48221185390391497,1.687503517022411,single,1,2.7951,False,95.9
+spot!|zico,SPOT!,ZICO & JENNIE,2,True,False,False,2025-10-21,2025-10-22,45,78,83.0,86.0,6,0.0,40,78,1,5.0,2,,,single,1,2.7951,False,43.1
+spring snow|10cm,Spring Snow,10CM,1,False,False,False,2025-05-17,2025-05-25,50,60,,,1,4.333333333333333,32,74,4,4.5,6,,5.71314274283428,single,2,3.359916666666667,False,50.6
+spring snow|10cm,Spring Snow,10CM,2,True,False,False,2025-05-29,2025-06-13,50,76,74.0,3.0,1,0.3333333333333333,30,77,2,10.0,16,0.7296703296703292,6.005182946607224,single,2,3.359916666666667,False,46.5
+squabble up|kendrick lamar,squabble up,Kendrick Lamar,1,False,False,True,2025-11-25,2025-11-27,26,81,,,25,2.5,26,86,0,0.0,3,11.0,8.0,album,12,2.6332,True,76.7
+st. chroma|tyler,St. Chroma (feat. Daniel Caesar),"Tyler, The Creator",1,False,False,False,2025-10-30,2025-10-31,35,79,,,16,4.0,30,83,1,5.0,2,,,album,14,3.28365,True,67.9
+standing next to you (usher remix)|jung kook,Standing Next to You (Usher Remix),Jung Kook & USHER,1,False,False,False,2024-12-02,2025-01-27,15,0,,,36,24.666666666666668,15,83,0,0.0,57,0.2021648949961108,2.260745316871209,single,1,3.5793333333333335,False,96.7
+standing next to you (usher remix)|jung kook,Standing Next to You (USHER Remix),Jung Kook & USHER,2,True,False,False,2025-02-11,2025-02-25,34,82,83.0,14.0,17,0.3333333333333333,21,83,3,4.333333333333333,15,1.4160839160839163,8.227628914275387,single,1,3.5793333333333335,False,71.0
+standing next to you - sped up - remix|beat record,Standing Next to You - Sped Up - Remix,Beat Record,1,False,False,False,2025-03-02,2025-03-02,8,0,,,43,0.0,8,0,0,0.0,1,,,album,10,3.5184,True,89.5
+standing next to you|jung kook,Standing Next to You,Jung Kook,1,False,False,True,2024-11-04,2025-11-27,5,0,,,46,30.0,3,98,99,0.020202020202020204,384,0.009923952992892946,1.0034197673316367,album,11,3.43365,False,99.1
+stars|kanye west,STARS,Kanye West & Ty Dolla $ign,1,False,False,False,2025-02-13,2025-02-14,18,81,,,33,3.0,18,84,0,0.0,2,,,album,16,1.9206333333333334,True,83.8
+stay alive (prod. suga of bts)|jung kook,Stay Alive (Prod. SUGA of BTS),Jung Kook,1,False,False,False,2024-07-07,2024-07-18,45,82,,,6,0.0,34,83,4,2.75,12,0.13095238095238035,3.7372372347444482,single,1,3.5154666666666667,False,48.7
+stay alive (prod. suga of bts)|jung kook,Stay Alive (Prod. SUGA of BTS),Jung Kook,2,True,False,False,2024-08-12,2024-08-12,49,80,83.0,24.0,2,0.0,49,80,0,0.0,1,,,single,1,3.5154666666666667,False,10.4
+stay with me|ash island,Stay With Me (Feat. Skinny Brown),ASH ISLAND,1,False,False,False,2024-12-20,2024-12-22,35,45,,,16,3.5,26,52,1,9.0,3,,16.0,single,1,2.8691,False,70.4
+steady|nct wish,Steady,NCT WISH,1,False,False,False,2025-09-26,2025-10-02,39,46,,,12,3.3333333333333335,25,59,1,14.0,5,7.5000000000000036,9.60143218483576,album,7,2.994666666666667,False,66.1
+"steal the show - from ""elemental""|lauv","Steal The Show - From ""Elemental""",Lauv,1,False,False,False,2024-06-19,2024-10-03,49,70,,,2,0.6666666666666666,8,79,25,1.64,105,0.5498241912798876,3.3883283829595428,single,1,3.1963166666666667,False,65.0
+sticky|kiss of life,Sticky,KISS OF LIFE,1,False,False,False,2025-07-02,2025-10-21,13,51,,,38,5.333333333333333,6,82,9,0.7777777777777778,109,0.3496609660966097,2.984528004125176,single,2,2.6186666666666665,False,90.7
+still with you|jung kook,Still With You,Jung Kook,1,False,False,False,2024-07-05,2024-10-23,8,78,,,43,2.6666666666666665,8,91,0,0.0,109,0.3384765082012788,4.172218523448574,single,1,3.9984166666666665,False,91.1
+stinky kiss (intro)|beenzino,Stinky Kiss (Intro),Beenzino,1,False,False,False,2024-07-05,2024-07-06,31,41,,,20,5.0,31,46,0,0.0,2,,,album,18,2.79,True,72.3
+stupid in love|max,STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM),MAX,1,False,False,False,2025-02-18,2025-02-18,46,42,,,5,0.0,46,42,0,0.0,1,,,album,12,2.888933333333333,False,28.6
+stupid in love|max,STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM),MAX,2,True,False,False,2025-03-06,2025-03-07,49,72,42.0,15.0,2,1.0,45,73,1,4.0,2,,,album,12,2.888933333333333,False,25.8
+stupid in love|max,STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM),MAX,3,True,False,False,2025-03-23,2025-04-20,48,74,73.0,14.0,3,0.0,28,76,11,1.8181818181818181,28,0.43872549019607787,5.390893098092535,album,12,2.888933333333333,False,50.3
+sudden shower|eclipse,Sudden Shower,ECLIPSE,1,False,False,False,2025-05-09,2025-05-10,48,72,,,3,0.0,48,72,0,0.0,2,,,single,8,3.88385,False,16.8
+sudden shower|eclipse,Sudden Shower,ECLIPSE,2,True,False,False,2025-05-15,2025-08-02,50,74,72.0,4.0,1,0.6666666666666666,26,79,14,1.7142857142857142,75,0.38106821787414075,3.134348689804127,single,8,3.88385,False,50.9
+sugarcoat (natty solo)|kiss of life,Sugarcoat (NATTY Solo),KISS OF LIFE,1,False,False,False,2024-08-22,2024-09-09,50,73,,,1,0.0,26,74,8,3.0,16,3.4166666666666656,5.446303537466694,single,6,2.9977666666666667,False,49.6
+sugarcoat (natty solo)|kiss of life,Sugarcoat (NATTY Solo),KISS OF LIFE,2,True,False,False,2024-09-13,2024-09-13,46,74,74.0,3.0,5,0.0,46,74,0,0.0,1,,,single,6,2.9977666666666667,False,28.6
+summer|paul blanco,Summer (Feat. BE’O),Paul Blanco,1,False,False,False,2024-08-05,2024-08-27,50,66,,,1,0.0,44,68,17,0.35294117647058826,23,0.6857142857142831,2.412090756622109,single,1,3.3311,True,19.9
+sunflower - spider-man: into the spider-verse|post malone,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,1,False,False,False,2024-06-23,2024-07-16,49,87,,,2,0.3333333333333333,31,89,9,2.0,20,1.8818181818181832,4.871762722276267,album,17,2.626,False,46.7
+sunflower - spider-man: into the spider-verse|post malone,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,2,True,False,False,2024-07-21,2024-07-22,48,88,89.0,4.0,3,0.0,47,88,1,1.0,2,,,album,17,2.626,False,19.6
+sunflower - spider-man: into the spider-verse|post malone,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,3,True,False,False,2024-09-24,2024-09-24,47,85,88.0,63.0,4,0.0,47,85,0,0.0,1,,,album,17,2.626,False,22.8
+super bowl|stray kids,Super Bowl,Stray Kids,1,False,False,False,2024-06-04,2024-06-04,50,69,,,1,0.0,50,69,0,0.0,1,,,album,12,3.0526666666666666,False,3.4
+super lady|(g)i-dle,Super Lady,(G)I-DLE,1,False,False,False,2025-02-01,2025-02-16,32,71,,,19,1.6666666666666667,32,82,0,0.0,14,0.8351648351648334,2.997039959812024,album,8,2.5364333333333335,False,67.0
+super shy|newjeans,Super Shy,NewJeans,1,False,False,False,2024-07-09,2025-08-25,4,0,,,47,28.666666666666668,1,95,5,0.6,408,0.08542844581113793,2.5775560153652104,single,2,2.5777666666666668,False,99.2
+super shy|newjeans,Super Shy,NewJeans,2,True,False,False,2025-09-19,2025-09-19,49,81,81.0,24.0,2,0.0,49,81,0,0.0,1,,,single,2,2.5777666666666668,False,10.4
+super tuna|jin,Super Tuna,Jin,1,False,False,False,2025-10-27,2025-11-03,26,83,,,25,0.3333333333333333,24,84,2,1.0,8,3.457142857142855,3.5456210417116734,single,1,1.91155,False,75.6
+supernatural (instrumental)|newjeans,Supernatural (Instrumental),NewJeans,1,False,False,False,2025-06-22,2025-06-27,17,0,,,34,18.666666666666668,17,59,0,0.0,6,5.7714285714285705,7.166589146867566,single,4,3.183333333333333,False,92.2
+supernatural|newjeans,Supernatural,NewJeans,1,False,False,True,2025-06-22,2025-11-27,1,0,,,50,23.333333333333332,1,83,0,0.0,157,0.18621735436215808,1.8417303665119606,single,4,3.183333333333333,False,99.0
+supernova - japanese version|kangdaniel,Supernova - Japanese Version,KANGDANIEL,1,False,False,False,2024-08-12,2024-08-21,45,54,,,6,1.3333333333333333,38,61,8,0.875,10,,3.715167443844553,single,1,3.4688833333333333,False,47.0
+supernova|aespa,Supernova,aespa,1,False,False,True,2025-05-15,2025-11-27,7,0,,,44,24.666666666666668,1,81,3,2.0,195,0.11574275018311043,2.056752705859369,album,10,2.981333333333333,False,98.7
+supersonic|fromis_9,Supersonic,fromis_9,1,False,False,True,2025-08-15,2025-11-27,40,60,,,11,1.6666666666666667,10,73,40,0.75,105,0.29829545454545464,2.4826133575005667,single,3,2.902433333333333,False,73.6
+super|seventeen,Super,SEVENTEEN,1,False,True,False,2024-05-18,2024-08-08,13,88,,,38,0.0,13,88,0,0.0,79,0.5317916260954236,2.633297131052177,single,6,3.3397666666666668,False,86.2
+swan song|le sserafim,Swan Song,LE SSERAFIM,1,False,False,False,2025-02-21,2025-03-16,18,67,,,33,1.6666666666666667,15,80,1,3.0,23,1.3839638622247317,2.5474829580367366,single,5,2.61965,False,84.3
+sweet night|v,Sweet Night,V,1,False,False,False,2024-08-13,2024-08-31,49,79,,,2,0.0,31,81,16,1.125,19,4.999999999999997,3.201080064641763,single,2,3.5709666666666666,False,46.3
+sweet night|v,Sweet Night,V,2,True,False,False,2024-09-04,2024-09-08,39,80,81.0,3.0,12,0.0,39,80,0,0.0,4,2.2000000000000033,5.2493385826745405,single,2,3.5709666666666666,False,52.5
+sweet venom|enhypen,Sweet Venom,ENHYPEN,1,False,False,False,2024-11-18,2024-11-18,50,0,,,1,0.0,50,0,0,0.0,1,,,album,7,2.479216666666667,False,3.4
+t.b.h|qwer,T.B.H,QWER,1,False,False,False,2025-04-06,2025-08-21,47,49,,,4,1.6666666666666667,10,65,14,2.642857142857143,136,0.31495170526830596,2.440400695696417,single,7,2.9313333333333333,False,67.3
+t.b.h|qwer,T.B.H,QWER,2,True,False,False,2025-08-25,2025-08-28,44,60,61.0,3.0,7,0.0,44,60,0,0.0,4,1.4999999999999982,1.699673171197595,single,7,2.9313333333333333,False,38.3
+t.b.h|qwer,T.B.H,QWER,3,True,False,False,2025-09-19,2025-09-19,50,60,60.0,21.0,1,0.0,50,60,0,0.0,1,,,single,7,2.9313333333333333,False,3.4
+t.b.h|qwer,T.B.H,QWER,4,True,False,False,2025-09-29,2025-10-11,44,59,60.0,9.0,7,0.0,42,59,1,2.0,11,0.3939393939393948,2.692582403567252,single,7,2.9313333333333333,False,41.3
+t.b.h|qwer,T.B.H,QWER,5,True,False,False,2025-10-15,2025-10-18,47,59,59.0,3.0,4,0.0,47,59,0,0.0,3,-3.0444964415232923e-15,1.0,single,7,2.9313333333333333,False,22.8
+take two|bts,Take Two,BTS,1,False,False,False,2024-06-11,2024-11-01,5,83,,,46,2.3333333333333335,5,96,0,0.0,144,0.2528594968250142,3.438583206381825,single,1,3.83255,False,92.9
+take two|bts,Take Two,BTS,2,True,False,False,2024-11-07,2024-11-17,49,85,86.0,5.0,2,0.3333333333333333,35,86,1,14.0,11,1.3939393939393954,5.458937625582473,single,1,3.83255,False,41.5
+talk saxy|riize,Talk Saxy,RIIZE,1,False,False,False,2024-10-29,2024-11-10,39,0,,,12,20.0,26,69,2,6.5,11,2.8333333333333317,5.575840743780261,single,1,3.18235,False,80.0
+talk saxy|riize,Talk Saxy,RIIZE,2,True,False,False,2024-12-14,2024-12-15,49,70,69.0,33.0,2,0.0,48,70,1,1.0,2,,,single,1,3.18235,False,13.4
+talk saxy|riize,Talk Saxy,RIIZE,3,True,False,False,2025-01-10,2025-01-13,49,70,70.0,25.0,2,0.0,44,70,2,2.5,3,,0.5,single,1,3.18235,False,25.0
+talk saxy|riize,Talk Saxy,RIIZE,4,True,False,False,2025-01-17,2025-01-21,50,70,70.0,3.0,1,0.0,47,70,1,3.0,5,0.9000000000000049,1.8708286933869707,single,1,3.18235,False,13.0
+talk saxy|riize,Talk Saxy,RIIZE,5,True,False,False,2025-01-27,2025-01-27,49,70,70.0,5.0,2,0.0,49,70,0,0.0,1,,,single,1,3.18235,False,10.4
+talking|kanye west,TALKING,Kanye West & Ty Dolla $ign,1,False,False,False,2025-02-13,2025-02-13,26,78,,,25,0.0,26,78,0,0.0,1,,,album,16,3.085166666666667,True,74.3
+taste|sabrina carpenter,Taste,Sabrina Carpenter,1,False,False,False,2025-08-28,2025-09-16,50,85,,,1,1.6666666666666667,29,95,3,7.0,20,1.0980392156862748,5.260525657565584,album,12,2.6213166666666665,False,49.1
+taste|sabrina carpenter,Taste,Sabrina Carpenter,2,True,False,False,2025-09-20,2025-09-21,47,96,95.0,3.0,4,0.0,43,96,1,4.0,2,,,album,12,2.6213166666666665,False,31.4
+taste|sabrina carpenter,Taste,Sabrina Carpenter,3,True,False,False,2025-09-25,2025-09-29,47,96,96.0,3.0,4,0.0,45,96,2,1.0,3,,4.0,album,12,2.6213166666666665,False,27.0
+teddy bear|stayc,Teddy Bear,STAYC,1,False,True,False,2024-05-18,2024-06-05,47,74,,,4,0.0,42,74,2,2.5,13,0.45454545454545625,3.426814199158682,single,2,3.1628833333333333,False,34.2
+thank god|travis scott,THANK GOD,Travis Scott,1,False,False,False,2024-07-29,2024-07-30,21,0,,,30,84.0,21,84,0,0.0,2,,,album,19,3.0814666666666666,True,99.9
+that's what i like|bruno mars,That's What I Like,Bruno Mars,1,False,False,False,2024-06-19,2024-06-21,50,87,,,1,0.0,38,87,1,12.0,3,,8.5,album,9,3.4448833333333333,False,32.1
+that's what i like|bruno mars,That's What I Like,Bruno Mars,2,True,False,False,2025-11-11,2025-11-12,45,87,87.0,503.0,6,0.0,45,87,0,0.0,2,,,album,9,3.4448833333333333,False,33.2
+the astronaut|jin,The Astronaut,JIN,1,False,False,False,2025-06-09,2025-06-09,50,79,,,1,0.0,50,79,0,0.0,1,,,single,1,4.707716666666666,False,3.4
+the astronaut|jin,The Astronaut,Jin,2,True,False,False,2025-10-27,2025-11-01,32,82,79.0,137.0,19,0.3333333333333333,27,83,2,2.5,6,6.499999999999998,5.238320341483519,single,1,4.707716666666666,False,69.2
+the breakup anthem|ebstar,The Breakup Anthem,Ebstar,1,False,False,False,2025-06-16,2025-06-16,45,1,,,6,0.0,45,1,0,0.0,1,,,album,40,3.109,False,33.2
+the first snow|exo,The First Snow,EXO,1,False,False,False,2024-12-17,2024-12-31,31,69,,,20,0.3333333333333333,19,73,8,1.5,15,4.321428571428571,9.172941575244941,single,6,3.461116666666667,False,74.5
+the planet|bts,The Planet,BTS,1,False,True,False,2024-05-18,2024-06-24,19,84,,,32,0.6666666666666666,18,89,1,1.0,37,0.5943371943371947,3.534115042808096,single,1,2.9692666666666665,False,81.7
+the planet|bts,The Planet,BTS,2,True,False,False,2024-07-02,2024-07-04,44,87,88.0,7.0,7,0.0,43,87,1,1.0,3,,0.5,single,1,2.9692666666666665,False,40.3
+the planet|bts,The Planet,BTS,3,True,False,False,2024-07-16,2024-07-16,46,86,87.0,11.0,5,0.0,46,86,0,0.0,1,,,single,1,2.9692666666666665,False,28.6
+the tortured poets department|taylor swift,The Tortured Poets Department,Taylor Swift,1,False,False,False,2025-04-21,2025-04-23,29,82,,,22,1.0,29,84,0,0.0,3,4.499999999999997,4.5,album,16,4.884133333333334,True,71.3
+the unknown sea|taemin,The Unknown Sea,TAEMIN,1,False,False,False,2025-08-22,2025-08-22,45,51,,,6,0.0,45,51,0,0.0,1,,,single,7,3.2773333333333334,False,33.2
+thirsty|aespa,Thirsty,aespa,1,False,True,False,2024-05-18,2024-07-04,24,75,,,27,0.3333333333333333,17,77,6,1.1666666666666667,47,0.9080139372822299,2.7078964554817424,single,6,3.22355,False,79.4
+tick-tack|illit,Tick-Tack,ILLIT,1,False,False,True,2025-11-24,2025-11-27,49,73,,,2,1.0,49,74,0,0.0,2,,,single,5,2.1578,False,14.5
+time moving slow|¥$,TIME MOVING SLOW,¥$ & Kanye West & Ty Dolla $ign,1,False,False,False,2025-08-04,2025-08-04,44,0,,,7,0.0,44,0,0,0.0,1,,,album,16,2.6613,True,38.3
+time of our life -japanese ver.- - japanese ver.|day6,Time of Our Life -Japanese ver.- - Japanese ver.,DAY6,1,False,False,False,2025-03-26,2025-04-04,43,54,,,8,0.3333333333333333,42,55,1,1.0,8,0.749999999999998,2.474358296526968,single,4,3.4264666666666668,False,44.1
+time of our life -japanese ver.- - japanese ver.|day6,Time of Our Life -Japanese ver.- - Japanese ver.,DAY6,2,True,False,False,2025-04-14,2025-04-26,42,55,54.0,9.0,9,0.0,42,55,0,0.0,10,0.6545454545454563,2.543449587168799,single,4,3.4264666666666668,False,45.6
+time of our life -japanese ver.- - japanese ver.|day6,Time of Our Life -Japanese ver.- - Japanese ver.,DAY6,3,True,False,False,2025-06-03,2025-06-03,49,54,55.0,37.0,2,0.0,49,54,0,0.0,1,,,single,4,3.4264666666666668,False,10.4
+time of our life -japanese ver.- - japanese ver.|day6,Time of Our Life -Japanese ver.- - Japanese ver.,DAY6,4,True,False,False,2025-08-14,2025-08-14,47,54,54.0,69.0,4,0.0,47,54,0,0.0,1,,,single,4,3.4264666666666668,False,22.8
+time of our life -japanese ver.- - japanese ver.|day6,Time of Our Life -Japanese ver.- - Japanese ver.,DAY6,5,True,False,True,2025-09-05,2025-11-27,50,55,54.0,21.0,1,0.3333333333333333,25,57,44,0.5681818181818182,82,0.11697122223438078,5.1462678272624105,single,4,3.4264666666666668,False,51.2
+timeless|the weeknd,Timeless (with Playboi Carti),The Weeknd & Playboi Carti,1,False,False,False,2025-09-29,2025-10-10,4,79,,,47,2.3333333333333335,4,90,0,0.0,12,3.9370629370629366,3.3574882386580707,single,1,4.266666666666667,True,94.0
+to. x|taeyeon,To. X,TAEYEON,1,False,False,False,2024-11-28,2025-04-30,41,0,,,10,22.666666666666668,12,77,60,0.48333333333333334,152,0.2686065687468211,3.8386267700862517,single,6,2.8397666666666668,False,85.4
+to. x|taeyeon,To. X,TAEYEON,2,True,False,False,2025-05-05,2025-05-07,50,75,76.0,4.0,1,0.0,48,75,1,2.0,3,,2.0,single,6,2.8397666666666668,False,7.4
+too much|the kid laroi,TOO MUCH,The Kid LAROI & Jung Kook & Central Cee,1,False,False,False,2024-10-21,2024-11-11,4,55,,,47,10.333333333333334,3,92,3,0.3333333333333333,22,2.866666666666667,4.464523803174942,single,1,3.398233333333333,True,97.0
+too sad to dance|jung kook,Too Sad to Dance,Jung Kook,1,False,False,False,2024-11-04,2024-12-04,11,0,,,40,27.0,10,86,1,1.0,30,1.211822660098522,2.9743253314272864,album,11,2.93185,False,97.6
+too sad to dance|jung kook,Too Sad to Dance,Jung Kook,2,True,False,False,2024-12-09,2024-12-16,48,86,86.0,4.0,3,-0.3333333333333333,45,86,2,1.5,6,0.2999999999999941,2.9257477676655586,album,11,2.93185,False,24.8
+too sad to dance|jung kook,Too Sad to Dance,Jung Kook,3,True,False,False,2024-12-23,2024-12-23,45,83,85.0,6.0,6,0.0,45,83,0,0.0,1,,,album,11,2.93185,False,33.2
+too sad to dance|jung kook,Too Sad to Dance,Jung Kook,4,True,False,False,2025-03-01,2025-03-01,39,80,83.0,67.0,12,0.0,39,80,0,0.0,1,,,album,11,2.93185,False,52.5
+too sad to dance|jung kook,Too Sad to Dance,Jung Kook,5,True,False,False,2025-03-17,2025-03-23,40,78,80.0,14.0,11,-0.3333333333333333,40,78,0,0.0,5,0.7999999999999988,5.673402858955108,album,11,2.93185,False,49.4
+topline|stray kids,TOPLINE (Feat. Tiger JK),Stray Kids,1,False,False,False,2024-06-04,2024-06-04,49,71,,,2,0.0,49,71,0,0.0,1,,,album,12,3.3924333333333334,False,10.4
+touch|katseye,Touch,KATSEYE,1,False,False,False,2025-08-26,2025-11-11,50,80,,,1,0.0,16,86,28,1.2142857142857142,77,0.3414285714285717,4.207461878266244,single,1,2.1647,False,58.5
+touch|katseye,Touch,KATSEYE,2,True,False,False,2025-11-15,2025-11-15,50,85,85.0,3.0,1,0.0,50,85,0,0.0,1,,,single,1,2.1647,False,3.4
+travel again|beenzino,Travel Again (Feat. Cautious Clay),Beenzino,1,False,False,False,2024-07-05,2024-07-14,12,42,,,39,3.3333333333333335,12,56,0,0.0,10,3.3939393939393936,2.7799991118215117,album,18,4.284433333333333,True,88.0
+trippy|beenzino,Trippy (Feat. Lance Skiiiwalker),Beenzino,1,False,False,False,2024-07-05,2024-07-06,39,38,,,12,6.0,39,44,0,0.0,2,,,album,18,4.617333333333334,True,60.1
+trust in me|lim young woong,Trust in me,Lim Young Woong,1,False,False,False,2024-11-13,2024-12-08,50,57,,,1,0.0,42,59,4,2.0,25,-0.04025974025974003,2.1065374432940898,single,2,4.046433333333334,False,25.5
+type shit|future,Type Shit,Future & Metro Boomin,1,False,False,False,2025-03-24,2025-03-24,48,0,,,3,0.0,48,0,0,0.0,1,,,album,17,3.8044333333333333,True,16.8
+underneath the tree|kelly clarkson,Underneath the Tree,Kelly Clarkson,1,False,False,False,2024-12-24,2024-12-27,39,86,,,12,0.0,18,86,1,21.0,4,2.0,10.96458946893235,album,14,3.8273333333333333,False,67.5
+unforgiven|le sserafim,UNFORGIVEN (feat. Nile Rodgers),LE SSERAFIM,1,False,True,False,2024-05-18,2024-08-28,2,87,,,49,0.0,2,89,0,0.0,103,0.43366427975222943,2.0896846668625426,album,13,3.0358,False,94.6
+unlove (prod. honne)|zion.t,UNLOVE (prod. HONNE),Zion.T,1,False,False,False,2024-12-09,2024-12-09,45,48,,,6,0.0,45,48,0,0.0,1,,,album,10,3.0007333333333333,False,33.2
+up - karina solo|aespa,UP - KARINA Solo,aespa,1,False,False,True,2025-10-11,2025-11-27,7,62,,,44,3.6666666666666665,4,82,1,3.0,48,0.2637604070305274,1.201327167105796,single,4,2.7773333333333334,False,93.1
+v (peace)|zion.t,V (Peace) (feat. AKMU),Zion.T,1,False,False,False,2024-12-13,2024-12-16,49,54,,,2,1.0,36,57,3,4.333333333333333,4,,3.7712361663282534,album,10,2.4791166666666666,False,41.6
+vampire|olivia rodrigo,vampire,Olivia Rodrigo,1,False,False,False,2024-07-02,2024-08-12,22,85,,,29,2.3333333333333335,21,99,1,1.0,38,0.6474632527264109,2.9353889691644253,single,1,3.6620666666666666,True,80.4
+vancouver 2|big naughty,Vancouver 2,BIG Naughty,1,False,False,False,2024-09-20,2024-10-06,14,0,,,37,17.0,8,60,2,3.0,17,2.285714285714286,3.2379584617471546,single,1,3.370216666666667,False,96.2
+vancouver|big naughty,Vancouver,BIG Naughty,1,False,False,False,2024-06-05,2024-06-13,41,58,,,10,0.3333333333333333,33,59,4,2.0,8,6.200000000000001,5.118992247762548,single,2,3.6046666666666667,False,55.6
+vancouver|big naughty,Vancouver,BIG Naughty,2,True,False,False,2024-09-22,2024-09-22,50,56,59.0,100.0,1,0.0,50,56,0,0.0,1,,,single,2,3.6046666666666667,False,3.4
+vibe|taeyang,VIBE (feat. Jimin of BTS),TAEYANG,1,False,True,False,2024-05-18,2024-07-15,36,67,,,15,0.3333333333333333,28,72,29,0.27586206896551724,57,0.6299945265462511,5.2482990441802055,album,6,2.9295833333333334,False,63.4
+vibe|taeyang,VIBE (feat. Jimin of BTS),TAEYANG,2,True,False,False,2024-07-20,2024-07-20,49,72,72.0,4.0,2,0.0,49,72,0,0.0,1,,,album,6,2.9295833333333334,False,10.4
+vibe|taeyang,VIBE (feat. Jimin of BTS),TAEYANG,3,True,False,False,2024-10-26,2024-10-29,50,71,72.0,97.0,1,0.0,43,71,1,7.0,2,,,album,6,2.9295833333333334,False,20.9
+vibe|taeyang,VIBE (feat. Jimin of BTS),TAEYANG,4,True,False,False,2024-11-02,2024-11-11,48,71,71.0,3.0,3,0.0,44,71,8,0.5,9,,2.8284271247461903,album,6,2.9295833333333334,False,26.3
+wacced out murals|kendrick lamar,wacced out murals,Kendrick Lamar,1,False,False,False,2025-11-25,2025-11-25,38,81,,,13,0.0,38,81,0,0.0,1,,,album,12,5.284866666666667,True,54.8
+walk|nct 127,Walk,NCT 127,1,False,False,False,2025-07-17,2025-07-26,42,52,,,9,3.3333333333333335,27,66,3,5.0,10,1.7142857142857157,7.438637868140466,album,11,3.1971,False,62.3
+warmth|lim young woong,Warmth,Lim Young Woong,1,False,False,False,2025-05-08,2025-11-24,37,35,,,14,5.666666666666667,11,66,3,8.666666666666666,195,0.1416901771423921,2.861159077705215,single,2,3.91755,False,77.9
+water|tyla,Water,Tyla,1,False,False,False,2024-10-24,2024-10-25,42,93,,,9,0.0,42,93,0,0.0,2,,,single,1,3.3375833333333333,False,45.6
+way 4 luv|plave,WAY 4 LUV,PLAVE,1,False,False,False,2025-08-23,2025-08-31,50,57,,,1,0.6666666666666666,42,60,2,4.0,9,0.9642857142857156,2.8613807855648994,single,6,3.65755,False,26.8
+way 4 luv|plave,WAY 4 LUV,PLAVE,2,True,False,False,2025-10-25,2025-10-27,47,60,60.0,54.0,4,0.5,41,61,1,6.0,3,,7.5,single,6,3.65755,False,36.8
+we can't be friends (wait for your love)|ariana grande,we can't be friends (wait for your love),Ariana Grande,1,False,False,False,2025-03-11,2025-05-11,20,81,,,31,2.6666666666666665,15,96,4,1.25,59,0.6844877344877346,2.276188586817582,album,13,3.81065,False,83.6
+we got so much|le sserafim,We got so much,LE SSERAFIM,1,False,False,False,2025-02-21,2025-02-24,37,65,,,14,1.6666666666666667,25,70,1,12.0,4,9.5,11.841546445554407,single,5,2.7624666666666666,False,66.5
+welcome to my world|aespa,Welcome To MY World (feat. nævis),aespa,1,False,True,False,2024-05-18,2024-05-25,35,77,,,16,0.0,35,77,0,0.0,8,1.3452380952380947,4.882287854467161,single,1,3.4486666666666665,False,60.6
+welcome to the show|day6,Welcome to the Show,DAY6,1,False,False,False,2025-03-20,2025-04-04,36,0,,,15,20.333333333333332,24,65,1,12.0,14,2.0824175824175826,5.191025482708612,album,7,3.617783333333333,False,82.3
+welcome to the show|day6,Welcome to the Show,DAY6,2,True,False,False,2025-04-16,2025-04-19,46,67,65.0,11.0,5,0.0,46,67,0,0.0,3,0.9999999999999948,1.0,album,7,3.617783333333333,False,28.6
+welcome to the show|day6,Welcome to the Show,DAY6,3,True,False,False,2025-09-07,2025-11-26,44,59,67.0,138.0,7,0.0,22,61,38,0.5789473684210527,80,0.3948626529454664,4.7140301011878005,album,7,3.617783333333333,False,60.2
+well…?|yanghongwon,Well…?,YANGHONGWON,1,False,False,False,2025-05-26,2025-05-28,35,36,,,16,3.5,32,43,1,3.0,3,,5.0,album,8,2.34555,False,65.7
+what the hell|e sens,What The Hell,E SENS,1,False,False,False,2024-07-15,2024-07-15,41,37,,,10,0.0,41,37,0,0.0,1,,,album,13,2.529166666666667,False,47.9
+wherever u r (ft. v of bts)|umi,wherever u r (ft. V of BTS),UMI & V,1,False,False,False,2024-12-31,2025-03-10,14,0,,,37,27.0,14,90,0,0.0,69,0.46211180124223605,3.414805946752939,single,1,2.5505666666666666,False,97.2
+wherever u r (ft. v of bts)|umi,wherever u r (ft. V of BTS),UMI & V,2,True,False,False,2025-03-16,2025-03-16,41,82,83.0,4.0,10,0.0,41,82,0,0.0,1,,,single,1,2.5505666666666666,False,47.9
+whiplash|aespa,Whiplash,aespa,1,False,False,True,2025-10-23,2025-11-27,7,64,,,44,3.0,3,80,1,4.0,36,0.10868347338935569,0.7928249671720918,single,6,3.0537666666666667,False,93.0
+who (acoustic remix)|jimin,Who (Acoustic Remix),Jimin,1,False,False,False,2025-07-25,2025-08-24,40,48,,,11,3.3333333333333335,26,62,6,2.3333333333333335,30,0.43434782608695566,4.692950160916037,album,10,3.0679166666666666,False,64.0
+who (acoustic remix)|jimin,Who (Acoustic Remix),Jimin,2,True,False,False,2025-08-28,2025-08-28,45,63,62.0,3.0,6,0.0,45,63,0,0.0,1,,,album,10,3.0679166666666666,False,33.2
+who (acoustic remix)|jimin,Who (Acoustic Remix),Jimin,3,True,False,True,2025-09-21,2025-11-27,50,64,63.0,23.0,1,0.3333333333333333,18,67,15,2.1333333333333333,66,0.18325791855203646,6.641985872565594,album,10,3.0679166666666666,False,56.8
+who (beautiful mind remix)|jimin,Who (Beautiful Mind Remix),Jimin,1,False,False,False,2025-07-25,2025-08-12,42,48,,,9,3.3333333333333335,30,62,4,3.0,18,1.4967032967032958,5.058139488636627,album,10,2.965883333333333,False,60.9
+who (beautiful mind remix)|jimin,Who (Beautiful Mind Remix),Jimin,2,True,False,False,2025-08-17,2025-08-23,49,62,62.0,3.0,2,0.0,49,62,0,0.0,4,4.770555672063085e-15,0.0,album,10,2.965883333333333,False,10.4
+who (beautiful mind remix)|jimin,Who (Beautiful Mind Remix),Jimin,3,True,False,False,2025-09-22,2025-11-16,32,63,62.0,29.0,19,0.3333333333333333,20,65,12,1.0,48,0.373359073359074,5.4835859438034085,album,10,2.965883333333333,False,73.5
+who (beautiful mind remix)|jimin,Who (Beautiful Mind Remix),Jimin,4,True,False,True,2025-11-20,2025-11-27,45,65,65.0,3.0,6,0.3333333333333333,35,66,4,2.5,8,1.399999999999999,7.108488745499844,album,10,2.965883333333333,False,48.4
+who (funky remix)|jimin,Who (Funky Remix),Jimin,1,False,False,False,2025-07-25,2025-08-24,46,49,,,5,3.0,24,62,4,5.5,26,0.6685488424618858,8.097802170959724,album,10,3.1416333333333335,False,60.0
+who (funky remix)|jimin,Who (Funky Remix),Jimin,2,True,False,True,2025-09-22,2025-11-27,34,64,62.0,28.0,17,0.0,23,66,11,1.0,56,0.1761528326745722,6.216320827314109,album,10,3.1416333333333335,False,69.7
+who (instrumental)|jimin,Who (Instrumental),Jimin,1,False,False,False,2025-07-25,2025-08-24,44,47,,,7,3.0,29,61,6,2.5,29,0.5167984189723317,5.171916906698707,album,10,2.848116666666667,False,59.4
+who (instrumental)|jimin,Who (Instrumental),Jimin,2,True,False,True,2025-09-22,2025-11-27,30,63,61.0,28.0,21,0.0,17,66,13,1.0,61,0.14747069040382046,6.56359911430713,album,10,2.848116666666667,False,76.0
+who (rock remix)|jimin,Who (Rock Remix),Jimin,1,False,False,False,2025-07-25,2025-08-24,43,47,,,8,3.3333333333333335,21,63,4,5.5,30,0.463931623931624,7.310344827586208,album,10,2.8665833333333333,False,65.1
+who (rock remix)|jimin,Who (Rock Remix),Jimin,2,True,False,False,2025-08-28,2025-08-30,42,63,63.0,3.0,9,0.5,42,64,0,0.0,3,2.4999999999999942,2.5,album,10,2.8665833333333333,False,46.2
+who (rock remix)|jimin,Who (Rock Remix),Jimin,3,True,False,False,2025-09-13,2025-09-13,49,64,64.0,13.0,2,0.0,49,64,0,0.0,1,,,album,10,2.8665833333333333,False,10.4
+who (rock remix)|jimin,Who (Rock Remix),Jimin,4,True,False,True,2025-09-21,2025-11-27,49,65,64.0,7.0,2,0.0,16,68,16,2.0625,67,0.1731221719457013,6.908625715333247,album,10,2.8665833333333333,False,59.8
+who (shibuyakei remix)|jimin,Who (Shibuyakei Remix),Jimin,1,False,False,False,2025-07-25,2025-08-23,41,49,,,10,3.3333333333333335,29,62,4,3.0,29,0.6607692307692301,5.429511196851398,album,10,2.78015,False,61.9
+who (shibuyakei remix)|jimin,Who (Shibuyakei Remix),Jimin,2,True,False,True,2025-09-22,2025-11-27,31,64,62.0,29.0,20,0.0,20,67,15,0.7333333333333333,60,0.09552042160737885,5.977598706591224,album,10,2.78015,False,73.7
+who|jimin,Who,Jimin,1,False,False,True,2025-07-21,2025-11-27,1,81,,,50,2.6666666666666665,1,95,0,0.0,129,1.342605244385351e-18,0.0,album,7,2.848116666666667,False,96.4
+why?|plave,Why?,PLAVE,1,False,False,False,2025-08-26,2025-08-28,39,53,,,12,0.5,34,54,2,2.5,3,,2.5,single,1,2.4562166666666667,False,57.1
+why?|plave,Why?,PLAVE,2,True,False,False,2025-09-02,2025-09-03,49,55,54.0,4.0,2,0.0,49,55,0,0.0,2,,,single,1,2.4562166666666667,False,10.4
+wife|(g)i-dle,Wife,(G)I-DLE,1,False,False,False,2025-01-24,2025-03-01,43,67,,,8,2.6666666666666665,20,78,7,3.2857142857142856,37,1.2364849833147937,4.184314478420688,album,8,2.0204333333333335,False,64.7
+winter bear|v,Winter Bear,V,1,False,False,False,2024-08-29,2024-09-09,22,0,,,29,24.333333333333332,22,78,0,0.0,12,0.5629370629370629,2.831347545890443,single,1,2.9137333333333335,False,91.2
+with you|jimin,With you,Jimin & HA SUNG WOON,1,False,False,False,2024-05-20,2024-05-20,50,77,,,1,0.0,50,77,0,0.0,1,,,single,2,3.365083333333333,False,3.4
+with you|jimin,With you,Jimin & HA SUNG WOON,2,True,False,False,2024-06-08,2024-06-24,44,76,77.0,18.0,7,0.0,20,76,13,1.8461538461538463,17,7.900000000000002,7.275547659798539,single,2,3.365083333333333,False,61.6
+with you|jimin,With you,Jimin & HA SUNG WOON,3,True,False,False,2024-06-28,2024-06-28,43,76,76.0,3.0,8,0.0,43,76,0,0.0,1,,,single,2,3.365083333333333,False,42.3
+with you|jimin,With you,Jimin & HA SUNG WOON,4,True,False,False,2024-07-05,2024-07-06,50,77,76.0,6.0,1,0.0,50,77,0,0.0,2,,,single,2,3.365083333333333,False,3.4
+with you|jimin,With you,Jimin & HA SUNG WOON,5,True,False,False,2025-01-23,2025-01-23,28,74,77.0,200.0,23,0.0,28,74,0,0.0,1,,,single,2,3.365083333333333,False,71.9
+xo (only if you say yes)|enhypen,XO (Only If You Say Yes),ENHYPEN,1,False,False,False,2025-07-14,2025-07-18,42,66,,,9,3.0,40,76,1,2.0,5,2.3999999999999995,2.384848003542364,album,9,3.1388666666666665,False,51.9
+yes or no|groovyroom,"Yes or No (Feat. HUH YUNJIN of LE SSERAFIM, Crush)",GroovyRoom,1,False,False,False,2025-01-19,2025-03-27,47,53,,,4,3.0,14,75,17,1.9411764705882353,66,0.7414285714285714,3.838947094308465,single,1,2.9857666666666667,False,65.6
+yes or no|jung kook,Yes or No,Jung Kook,1,False,False,False,2024-11-04,2025-05-01,7,0,,,44,27.666666666666668,7,90,0,0.0,177,0.19152628936479632,2.108368006498497,album,11,2.4592833333333335,False,98.6
+yes or no|jung kook,Yes or No,Jung Kook,2,True,False,False,2025-05-06,2025-05-08,47,82,82.0,4.0,4,-0.5,47,82,0,0.0,3,1.5216077423729227e-15,0.0,album,11,2.4592833333333335,False,20.4
+"yes, and?|ariana grande","yes, and?",Ariana Grande,1,False,False,False,2025-01-14,2025-02-18,15,85,,,36,2.3333333333333335,13,97,4,0.5,34,1.2233592880978863,2.56414494561287,single,1,3.5832333333333333,True,86.5
+"yes, and?|ariana grande","yes, and?",Ariana Grande,2,True,False,False,2025-03-10,2025-03-19,30,73,97.0,19.0,21,2.6666666666666665,25,85,3,1.6666666666666667,9,5.3428571428571425,4.211220131980754,single,1,3.5832333333333333,True,74.0
+you & me (coachella ver.)|jennie,You & Me (Coachella ver.),JENNIE,1,False,False,False,2024-10-07,2024-10-11,4,0,,,47,38.0,4,76,0,0.0,3,5.999999999999999,6.0,single,2,2.997733333333333,False,99.5
+you & me|jennie,You & Me,JENNIE,1,False,False,False,2024-10-08,2024-11-27,4,69,,,47,2.3333333333333335,4,83,0,0.0,50,1.112941176470588,2.2352296440968273,single,2,2.986066666666667,False,94.0
+you & me|jennie,You & Me,JENNIE,2,True,False,False,2024-12-15,2024-12-15,50,81,82.0,17.0,1,0.0,50,81,0,0.0,1,,,single,2,2.986066666666667,False,3.4
+you & me|jennie,You & Me,JENNIE,3,True,False,False,2024-12-28,2025-01-08,46,77,81.0,12.0,5,0.3333333333333333,46,80,0,0.0,10,0.19393939393939436,1.4142135623730951,single,2,2.986066666666667,False,30.3
+you & me|jennie,You & Me,JENNIE,4,True,False,False,2025-01-12,2025-01-13,48,80,80.0,3.0,3,0.0,48,80,0,0.0,2,,,single,2,2.986066666666667,False,16.8
+you were beautiful|day6,You Were Beautiful,DAY6,1,False,False,False,2025-03-26,2025-03-26,50,66,,,1,0.0,50,66,0,0.0,1,,,album,14,4.719333333333333,False,3.4
+you were beautiful|day6,You Were Beautiful,DAY6,2,True,False,False,2025-04-14,2025-04-20,48,66,66.0,18.0,3,0.0,43,67,2,2.5,6,2.1000000000000005,2.9257477676655586,album,14,4.719333333333333,False,30.1
+you were beautiful|day6,You Were Beautiful,DAY6,3,True,False,False,2025-09-16,2025-10-08,47,65,67.0,146.0,4,0.0,37,65,9,1.1111111111111112,21,0.7202797202797204,3.1288975694324033,album,14,4.719333333333333,False,43.3
+you were beautiful|day6,You Were Beautiful,DAY6,4,True,False,False,2025-10-14,2025-10-29,38,64,65.0,5.0,13,0.0,26,65,1,12.0,12,1.4090909090909087,8.413880699757518,album,14,4.719333333333333,False,62.7
+you were beautiful|day6,You Were Beautiful,DAY6,5,True,False,False,2025-11-02,2025-11-26,42,64,64.0,3.0,9,0.0,36,65,9,0.6666666666666666,20,1.0181818181818183,4.757848159995588,album,14,4.719333333333333,False,51.3
+young man|hyukoh,Young Man,HYUKOH & 落日飛車 Sunset Rollercoaster,1,False,False,False,2025-07-05,2025-07-14,13,47,,,38,2.0,13,55,0,0.0,9,3.083333333333333,7.801241888314962,single,1,4.2881,False,87.2
+アイドル|yoasobi,アイドル,YOASOBI,1,False,True,False,2024-05-18,2024-09-03,8,89,,,43,0.3333333333333333,7,92,1,1.0,107,0.38872458875985594,1.682554509084712,single,1,3.5538833333333333,False,89.9
+アイドル|yoasobi,アイドル,YOASOBI,2,True,False,False,2024-09-22,2024-10-01,48,86,88.0,18.0,3,0.0,42,86,6,1.0,10,1.1000000000000016,1.6329931618554518,single,1,3.5538833333333333,False,31.0
+アイドル|yoasobi,アイドル,YOASOBI,3,True,False,False,2024-10-06,2024-10-06,44,30,86.0,4.0,7,0.0,44,30,0,0.0,1,,,single,1,3.5288833333333334,False,38.3
+地球儀 - spinning globe|kenshi yonezu,地球儀 - Spinning Globe,Kenshi Yonezu,1,False,False,False,2024-10-30,2024-10-31,48,76,,,3,0.0,48,76,0,0.0,2,,,single,1,4.557283333333333,False,16.8
+愛を伝えたいだとか|aimyon,愛を伝えたいだとか,Aimyon,1,False,True,False,2024-05-18,2024-06-20,32,69,,,19,0.0,32,70,0,0.0,34,0.3359816653934303,2.3752627808806577,album,11,3.9206666666666665,False,64.5
+踊り子|vaundy,踊り子,Vaundy,1,False,False,False,2025-06-30,2025-09-26,29,68,,,22,0.0,14,71,4,3.75,85,0.3904245709123756,2.8214788020443264,album,35,3.8221333333333334,False,77.8
+青い珊瑚礁|seiko matsuda,青い珊瑚礁,Seiko Matsuda,1,False,False,False,2025-06-30,2025-07-10,30,50,,,21,0.6666666666666666,30,54,0,0.0,11,1.981818181818181,2.3853720883753127,album,36,3.6662166666666667,False,69.6
+녹아내려요 melt down|day6,녹아내려요 Melt Down,DAY6,1,False,False,False,2025-10-05,2025-10-07,30,55,,,21,0.0,30,55,0,0.0,2,,,single,8,2.7597833333333335,False,68.8
+"무제(無題) (untitled, 2014)|g-dragon","무제(無題) (Untitled, 2014)",G-DRAGON,1,False,False,False,2025-11-05,2025-11-05,50,58,,,1,0.0,50,58,0,0.0,1,,,single,5,3.71445,False,3.4
+"무제(無題) (untitled, 2014)|g-dragon","무제(無題) (Untitled, 2014)",G-DRAGON,2,True,False,True,2025-11-27,2025-11-27,43,61,58.0,21.0,8,0.0,43,61,0,0.0,1,,,single,5,3.71445,False,42.3
+예뻤어|day6,예뻤어,DAY6,1,False,False,False,2025-10-05,2025-10-07,43,49,,,8,0.0,43,49,0,0.0,2,,,album,14,4.719333333333333,False,42.3
+한 페이지가 될 수 있게|day6,한 페이지가 될 수 있게,DAY6,1,False,False,False,2025-10-05,2025-10-07,36,52,,,15,0.0,35,52,1,1.0,2,,,single,6,3.42625,False,59.7

@@ -1,0 +1,523 @@
+key,song,artist,episodes,album_type,total_tracks,is_explicit,duration_min,total_days,best_rank,mean_spike,mean_pop_rate,mean_recovery,reentries,fandom_score
+1-800-hot-n-fun|le sserafim,1-800-hot-n-fun,LE SSERAFIM,1,single,5,False,2.8905166666666666,8,26,76.8,2.6666666666666665,0.0,0,41.0
+24yb (intro)|yanghongwon,24YB (Intro),YANGHONGWON,1,album,8,False,1.3873333333333333,3,26,76.9,3.0,0.0,0,42.3
+3d (alternate ver.)|jung kook,3D (feat. Jack Harlow) (Alternate Ver.),Jung Kook & Jack Harlow,1,album,7,False,2.7090833333333335,22,4,98.9,26.666666666666668,0.0,0,49.3
+3d (instrumental)|jung kook,3D (feat. Jack Harlow) (Instrumental),Jung Kook & Jack Harlow,2,album,7,False,3.325833333333333,11,9,66.85,12.666666666666668,6.0,1,86.1
+3d (justin timberlake remix)|jung kook,3D (Justin Timberlake Remix),Jung Kook & Justin Timberlake,2,single,1,False,2.682366666666667,6,21,76.75,18.0,1.0,1,77.7
+3d (mk remix)|jung kook,3D (feat. Jack Harlow) (MK Remix),Jung Kook & Jack Harlow & MK,1,single,1,True,3.104016666666667,4,28,85.3,20.666666666666668,0.0,0,48.6
+3d|jung kook,3D (feat. Jack Harlow),Jung Kook & Jack Harlow,1,album,7,True,3.3635333333333333,420,2,99.3,29.333333333333332,0.0,0,49.5
+990|beenzino,990 (Feat. Kim Ximya),Beenzino,1,album,18,True,3.560216666666667,5,18,84.2,3.3333333333333335,0.0,0,43.4
+a bientot|lim young woong,A bientot,Lim Young Woong,14,album,12,False,4.272866666666666,281,18,26.557142857142857,0.047619047619047616,0.8604166666666667,13,67.5
+a psalm of life|lim young woong,A Psalm of Life,Lim Young Woong,4,album,12,False,3.8893333333333335,121,25,28.925,0.0,0.1388888888888889,3,55.9
+a yo|e sens,A Yo (Feat. Beenzino),E SENS,1,album,13,False,3.8666666666666667,1,35,60.6,0.0,0.0,0,25.1
+abcd|nayeon,ABCD,NAYEON,1,album,7,False,2.714,26,26,72.2,2.6666666666666665,6.0,0,62.3
+accendio|ive,Accendio,IVE,1,single,6,False,3.2002166666666665,2,49,14.5,1.0,0.0,0,34.8
+after like|ive,After LIKE,IVE,1,single,2,False,2.94955,48,30,63.6,0.0,0.36363636363636365,0,33.8
+ak47|men's tear,AK47,Men's Tear & 뷰티풀너드,1,single,1,False,2.675,24,20,82.0,3.0,0.0,0,42.3
+all i want for christmas is you|mariah carey,All I Want for Christmas Is You,Mariah Carey,2,album,10,False,4.018433333333333,12,9,60.35,0.16666666666666666,0.9375,1,60.0
+all or nothing|j money,All Or Nothing,J Money & KingLee,2,single,1,True,2.858016666666667,2,26,71.55,0.0,0.0,1,42.2
+all red|playboi carti,ALL RED,Playboi Carti,1,single,1,True,2.46755,3,13,87.6,2.5,0.0,0,40.3
+allergy|(g)i-dle,Allergy,(G)I-DLE,1,single,6,False,2.7131,25,17,83.9,1.6666666666666667,0.0,0,37.0
+alone|jimin,Alone,Jimin,2,single,6,False,3.5208333333333335,407,5,62.449999999999996,0.0,0.25609756097560976,1,50.1
+angel pt. 1 - trailer version|fast,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",Fast & Furious: The Fast Saga & Jimin & BTS,3,single,1,False,1.0464833333333334,87,10,69.5,0.2222222222222222,0.9612403100775193,2,65.1
+angel pt. 1|fast,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",Fast & Furious: The Fast Saga,1,single,2,False,2.9300333333333333,218,1,97.8,18.0,6.0,0,69.5
+angel pt. 2|fast,"Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,3,single,2,False,2.9409,65,5,45.333333333333336,1.4444444444444444,0.0,2,57.6
+another level|jin,Another Level,Jin,1,album,8,False,2.7139,11,23,78.9,2.6666666666666665,0.0,0,41.0
+antifragile|le sserafim,ANTIFRAGILE,LE SSERAFIM,2,album,13,False,3.0740666666666665,50,26,41.45,0.16666666666666666,0.3,1,56.3
+apt.|rosé,APT.,ROSÉ & Bruno Mars,1,single,1,False,2.83195,39,2,96.3,4.0,0.0,0,44.7
+armageddon|aespa,Armageddon,aespa,1,album,10,False,3.2744333333333335,180,4,92.3,2.6666666666666665,0.5714285714285714,0,51.2
+as you wish|wjsn,As You Wish,WJSN,1,single,7,False,3.2611166666666667,2,39,54.1,1.0,0.0,0,34.8
+asap|newjeans,ASAP,NewJeans,1,single,6,False,2.2397666666666667,44,7,91.7,2.3333333333333335,0.0,0,39.5
+attention (250 remix)|newjeans,Attention (250 Remix),NewJeans,1,album,12,False,3.0233333333333334,1,47,22.8,0.0,0.0,0,25.1
+attention|newjeans,Attention,NewJeans,7,single,4,False,3.0011,151,26,30.571428571428573,-0.047619047619047616,1.0614100185528756,6,63.4
+back to me|kanye west,BACK TO ME,Kanye West & Ty Dolla $ign,1,album,16,True,4.924516666666666,2,23,80.1,4.0,0.0,0,44.7
+baddie|ive,Baddie,IVE,4,single,6,False,2.5726666666666667,62,10,36.45,5.75,2.916666666666667,3,87.5
+baggy jeans|nct,Baggy Jeans,NCT,2,album,10,False,3.5231,24,23,41.6,1.8333333333333333,0.0,1,54.5
+bahama|aespa,BAHAMA,aespa,1,album,10,False,3.17555,1,41,47.9,0.0,0.0,0,25.1
+bam yang gang|bibi,Bam Yang Gang,BIBI,2,single,2,False,2.4366166666666667,76,4,53.599999999999994,2.1666666666666665,4.857142857142858,1,76.5
+be mine|jimin,Be Mine,Jimin,1,album,7,False,3.455783333333333,129,2,93.9,2.6666666666666665,0.2857142857142857,0,49.0
+beautiful things|benson boone,Beautiful Things,Benson Boone,1,single,1,False,3.0050666666666666,85,20,58.3,0.6666666666666666,0.9032258064516129,0,45.1
+better things|aespa,Better Things,aespa,2,single,1,False,3.3869333333333334,32,30,44.75,12.333333333333334,1.25,1,78.3
+big dawgs|hanumankind,Big Dawgs,Hanumankind & Kalmi,1,single,1,True,3.177766666666667,6,48,16.8,0.0,0.0,0,25.1
+birds of a feather|billie eilish,BIRDS OF A FEATHER,Billie Eilish,1,album,10,False,3.5062166666666665,185,15,62.8,1.3333333333333333,0.3855421686746988,0,44.6
+bite me|enhypen,Bite Me,ENHYPEN,2,single,6,False,2.6255166666666665,23,23,46.650000000000006,1.8333333333333335,8.0,1,76.7
+bling-bang-bang-born|creepy nuts,Bling-Bang-Bang-Born,Creepy Nuts,2,single,2,False,2.80225,43,34,39.7,0.16666666666666666,2.875,1,66.4
+blue|v,Blue,V,2,single,6,False,2.49755,67,10,62.45,1.5,1.6,1,68.1
+boat|george,Boat,george,1,single,1,False,3.1999,3,49,6.7,0.0,0.5,0,34.7
+boom boom bass|riize,Boom Boom Bass,RIIZE,1,album,8,False,2.54815,95,12,95.2,18.0,2.0,0,64.5
+boys like girls|leellamarz,"Boys Like Girls (Feat. Gist, Jayci yucca)",Leellamarz,1,album,12,False,2.43955,5,33,74.6,15.0,2.0,0,64.3
+broken melodies|nct dream,Broken Melodies,NCT DREAM,2,single,1,False,3.7693333333333334,12,12,63.0,1.5,1.0,1,65.8
+bubble gum (instrumental)|newjeans,Bubble Gum (Instrumental),NewJeans,1,single,4,False,3.3377666666666665,1,44,38.3,0.0,0.0,0,25.1
+bubble gum|newjeans,Bubble Gum,NewJeans,2,single,4,False,3.3377666666666665,128,3,49.2,1.5,0.25,1,61.2
+bubble|stayc,Bubble,STAYC,1,single,6,False,2.9879166666666666,1,47,22.8,0.0,0.0,0,25.1
+burn|kanye west,BURN,Kanye West & Ty Dolla $ign,1,album,16,True,1.8576333333333332,1,40,49.9,0.0,0.0,0,25.1
+but daddy i love him|taylor swift,But Daddy I Love Him,Taylor Swift,1,album,16,True,5.6738,2,50,13.3,2.0,0.0,0,38.2
+but sometimes|boynextdoor,But Sometimes,BOYNEXTDOOR,2,single,6,False,2.918433333333333,19,31,40.6,1.8333333333333333,0.0,1,54.5
+"by color, white color|yanghongwon","BY COLOR, WHITE COLOR (Feat. KOVV)",YANGHONGWON,1,album,8,False,3.2666666666666666,3,30,71.2,2.5,0.0,0,40.3
+bye|ariana grande,bye,Ariana Grande,1,album,13,False,2.7487833333333334,5,34,57.2,2.3333333333333335,2.3333333333333335,0,56.9
+camp|beenzino,Camp,Beenzino,1,album,18,True,3.6748833333333333,2,41,56.2,6.0,0.0,0,46.2
+candy|jay park,Candy (Feat. Zion.T),Jay Park,3,single,1,False,3.1003166666666666,7,31,35.46666666666667,0.7777777777777778,0.0,2,55.7
+carnival|kanye west,CARNIVAL,Kanye West & Ty Dolla $ign,1,album,16,True,4.4054,3,22,80.5,3.5,0.0,0,43.9
+carnival|¥$,CARNIVAL,¥$ & Kanye West & Ty Dolla $ign,3,album,16,True,4.4054,14,24,46.800000000000004,9.0,3.6666666666666665,2,88.3
+chasing lightning|le sserafim,Chasing Lightning,LE SSERAFIM,1,single,5,False,3.4181666666666666,1,40,49.9,0.0,0.0,0,25.1
+chasing that feeling|tomorrow x together,Chasing That Feeling,TOMORROW X TOGETHER,1,album,10,False,3.0445,5,37,79.7,24.666666666666668,0.0,0,49.1
+cheers to youth|seventeen,Cheers to youth,SEVENTEEN,1,album,33,False,3.1924333333333332,3,31,55.8,2.0,13.0,0,61.0
+chemical|post malone,Chemical,Post Malone,1,single,1,True,3.066883333333333,1,49,10.4,0.0,0.0,0,25.1
+cherish (my love)|illit,Cherish (My Love),ILLIT,1,single,7,False,2.9475666666666664,36,8,84.7,4.0,8.5,0,66.9
+chihiro|billie eilish,CHIHIRO,Billie Eilish,2,album,10,False,5.057333333333333,4,46,27.15,0.5,0.0,1,50.3
+chill kill|red velvet,Chill Kill,Red Velvet,1,album,10,False,3.58,17,28,72.9,3.0,2.0,0,58.5
+chk chk boom|stray kids,Chk Chk Boom,Stray Kids,2,album,8,False,2.4675166666666666,17,28,52.3,-2.3333333333333335,0.0,1,42.2
+christmas love|jimin,Christmas Love,Jimin,8,single,1,False,3.2988333333333335,29,24,33.2625,0.0,1.2857142857142858,7,64.6
+christmas tree|v,Christmas Tree,V,2,single,2,False,3.4991,72,16,50.4,0.0,0.25,1,50.0
+christmas without you|ava max,Christmas Without You,Ava Max,1,single,1,False,2.82075,3,48,16.8,0.0,0.0,0,25.1
+circles|post malone,Circles,Post Malone,1,album,17,False,3.588,2,38,54.8,0.0,0.0,0,25.1
+citi+|yanghongwon,Citi+,YANGHONGWON,1,single,1,False,2.5277666666666665,1,33,63.0,0.0,0.0,0,25.1
+click like (prod. crush)|various artists,Click Like (Prod. Crush) (Feat. Paul Blanco),Various Artists,2,single,4,False,2.7664333333333335,4,41,36.1,3.5,0.5,1,70.5
+closer than this|jimin,Closer Than This,Jimin,1,single,1,False,3.7217,335,2,95.1,1.0,0.0,0,34.8
+closer to you|jung kook,Closer to You (feat. Major Lazer),Jung Kook,9,album,11,False,2.8499166666666667,60,10,30.444444444444443,3.0370370370370368,0.4444444444444444,8,77.9
+coca cola red|beenzino,Coca Cola Red (Feat. oygli),Beenzino,1,album,18,True,3.33755,5,23,79.3,3.0,0.0,0,42.3
+combo|riize,Combo,RIIZE,1,album,9,False,3.6591833333333335,2,41,59.5,8.0,0.0,0,46.8
+come back to me|rm,Come back to me,RM,2,single,1,False,6.482666666666667,6,21,63.3,1.3333333333333333,0.0,1,52.7
+cool with you|newjeans,Cool With You,NewJeans,2,single,6,False,2.4646666666666666,86,4,55.65,1.5,0.0,1,53.4
+cosmic|red velvet,Cosmic,Red Velvet,1,single,6,False,3.7644,25,18,76.3,3.6666666666666665,15.0,0,67.3
+crazier|le sserafim,Crazier,LE SSERAFIM,1,single,5,False,2.9789333333333334,1,47,22.8,0.0,0.0,0,25.1
+crazy|le sserafim,CRAZY,LE SSERAFIM,1,album,8,False,2.742566666666667,83,4,87.3,-8.0,4.0,0,45.2
+cream soda|exo,Cream Soda,EXO,1,album,9,False,3.0886666666666667,2,43,47.4,3.0,0.0,0,42.3
+crime|beenzino,"Crime (Feat. Bek Hyunjin, 250)",Beenzino,1,album,18,True,3.6046666666666667,2,48,37.2,6.0,0.0,0,46.2
+crooked|g-dragon,CROOKED,G-DRAGON,3,album,12,False,3.7465333333333333,7,37,29.566666666666666,0.4444444444444444,2.0,2,70.9
+cruel summer|taylor swift,Cruel Summer,Taylor Swift,8,album,18,False,2.9737666666666667,250,22,35.9,0.16666666666666666,0.6379599567099568,7,67.3
+cupid - twin ver.|fifty fifty,Cupid - Twin Ver.,FIFTY FIFTY,3,single,3,False,2.9042166666666667,65,10,33.96666666666666,0.1111111111111111,0.0,2,52.2
+cupido|engel montaz,Cupido,Engel Montaz & Kuv507 & Latinnites Music,1,single,1,False,3.5833333333333335,4,25,76.1,0.6666666666666666,0.0,0,33.7
+cupid|fifty fifty,Cupid,FIFTY FIFTY,2,single,3,False,2.9042166666666667,52,15,55.05,0.0,4.166666666666667,1,62.5
+dance the night (from barbie the album)|dua lipa,Dance The Night (From Barbie The Album),Dua Lipa,3,single,1,False,2.9429833333333333,18,41,38.53333333333333,0.1111111111111111,1.3333333333333333,2,66.1
+dancing in the flames|the weeknd,Dancing In The Flames,The Weeknd,1,single,1,False,3.6672666666666665,7,15,85.8,1.6666666666666667,0.0,0,37.0
+dangerously|charlie puth,Dangerously,Charlie Puth,3,album,14,False,3.3188833333333334,28,37,38.06666666666667,0.0,0.7651515151515151,2,57.7
+dangerous|boynextdoor,Dangerous,BOYNEXTDOOR,1,single,1,False,2.3962166666666667,12,25,66.1,3.3333333333333335,2.0,0,59.6
+dare to love|b.i,Dare to Love (feat. BIG Naughty),B.I,1,album,15,False,2.9286,8,43,26.7,0.3333333333333333,3.0,0,51.1
+"darling, i|tyler","Darling, I (feat. Teezo Touchdown)","Tyler, The Creator",1,album,14,True,4.230566666666666,2,27,58.2,4.0,20.0,0,67.9
+dash|nmixx,DASH,NMIXX,1,album,7,False,2.782983333333333,55,20,64.3,3.3333333333333335,3.4285714285714284,0,62.9
+deja vu|tomorrow x together,Deja Vu,TOMORROW X TOGETHER,1,album,7,False,2.8571166666666667,28,21,73.1,3.3333333333333335,14.0,0,66.3
+delresto (echoes)|travis scott,DELRESTO (ECHOES),Travis Scott,1,album,19,True,4.56895,1,39,52.5,0.0,0.0,0,25.1
+demon|$ecrecy,Demon,$ecrecy,1,album,15,True,2.318,1,34,61.7,0.0,0.0,0,25.1
+deseydin anlardım|edes,Deseydin Anlardım,EDES,1,single,1,False,2.514283333333333,2,39,52.5,0.0,0.0,0,25.1
+die 4 you|dean,DIE 4 YOU,DEAN,1,single,1,False,3.2340833333333334,28,7,98.0,23.666666666666668,0.0,0,48.9
+die with a smile|lady gaga,Die With A Smile,Lady Gaga & Bruno Mars,1,single,1,False,4.19445,103,10,88.5,27.333333333333332,0.4142857142857143,0,58.4
+discord|qwer,Discord,QWER,1,single,4,False,2.796666666666667,5,44,25.3,0.3333333333333333,1.6666666666666667,0,47.3
+ditto (250 remix)|newjeans,Ditto (250 Remix),NewJeans,1,album,12,False,3.3644333333333334,2,35,65.2,5.0,0.0,0,45.5
+ditto|newjeans,Ditto,NewJeans,18,single,1,False,3.0917666666666666,374,12,30.06666666666667,-0.018518518518518517,0.767993977185316,17,62.5
+do it|kanye west,DO IT,Kanye West & Ty Dolla $ign,1,album,16,True,3.75,1,47,22.8,0.0,0.0,0,25.1
+do or die|lim young woong,Do or Die,Lim Young Woong,2,single,1,False,3.424,389,6,64.45,8.0,0.6124031007751938,1,74.2
+don't look back in anger - remastered|oasis,Don't Look Back in Anger - Remastered,Oasis,1,album,40,False,4.826,7,31,67.4,1.6666666666666667,0.5,0,46.5
+don't wanna break up again|ariana grande,don't wanna break up again,Ariana Grande,1,album,13,True,2.9001,1,49,10.4,0.0,0.0,0,25.1
+dopamine - giselle solo|aespa,Dopamine - GISELLE Solo,aespa,1,single,4,False,3.2348833333333333,1,49,10.4,0.0,0.0,0,25.1
+dope as (interlude)|beenzino,Dope As (Interlude),Beenzino,1,album,18,True,1.1184333333333334,2,37,62.2,5.0,0.0,0,45.5
+double take|dhruv,double take,Dhruv,3,album,8,False,2.8623833333333333,31,30,39.699999999999996,0.0,5.261904761904762,2,67.5
+down bad|taylor swift,Down Bad,Taylor Swift,1,album,16,True,4.3538,5,33,63.9,1.3333333333333333,0.0,0,35.7
+drama|aespa,Drama,aespa,4,album,7,False,3.582883333333333,223,14,45.0,6.666666666666666,0.7630952380952382,3,80.8
+dreamers [music from the fifa world cup qatar 2022 official soundtrack]|jung kook,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,3,single,1,False,3.356516666666667,161,10,73.86666666666667,0.0,4.12280701754386,2,67.0
+drip|babymonster,DRIP,BABYMONSTER,1,album,9,False,3.0140833333333332,24,12,62.4,2.0,4.222222222222222,0,58.7
+drowning|woodz,Drowning,WOODZ,1,single,7,False,4.0831,7,49,6.7,0.0,0.5,0,34.7
+"earth, wind & fire|boynextdoor","Earth, Wind & Fire",BOYNEXTDOOR,1,album,7,False,2.984,25,21,71.6,3.6666666666666665,16.0,0,67.3
+easy|le sserafim,EASY,LE SSERAFIM,4,single,5,False,2.7424166666666667,141,3,38.925000000000004,0.6666666666666667,2.4375,3,74.8
+either way|ive,Either Way,IVE,1,single,1,False,2.7824333333333335,38,10,88.9,3.0,0.05263157894736842,0,49.0
+elevator|lim young woong,Elevator,Lim Young Woong,2,single,2,False,3.4572333333333334,6,48,5.4,0.0,0.5,1,51.7
+england|yanghongwon,ENGLAND,YANGHONGWON,1,album,8,False,2.57355,4,22,80.2,2.6666666666666665,0.0,0,41.0
+espresso|sabrina carpenter,Espresso,Sabrina Carpenter,1,single,1,True,2.9243166666666665,176,11,70.0,1.6666666666666667,2.0625,0,53.7
+eta|newjeans,ETA,NewJeans,8,single,6,False,2.522883333333333,340,3,39.55,0.29166666666666663,0.6222222222222222,7,67.9
+eternal sunshine|ariana grande,eternal sunshine,Ariana Grande,1,album,13,False,3.5033333333333334,4,40,50.4,8.333333333333334,3.0,0,65.6
+euphoria|kendrick lamar,euphoria,Kendrick Lamar,1,single,1,True,6.393983333333333,3,42,53.1,10.0,6.0,0,68.6
+"eve, psyche & the bluebeard’s wife|le sserafim","Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,1,album,13,False,3.0923,131,9,77.7,0.3333333333333333,2.1818181818181817,0,49.3
+even for a moment|sung si kyung,Even for a moment,Sung Si Kyung & Naul,1,single,1,False,4.886,1,36,58.9,0.0,0.0,0,25.1
+event horizon|younha,Event Horizon,Younha,1,album,14,False,5.0131,1,50,3.4,0.0,0.0,0,25.1
+every moment with you|jaessbee,Every Moment With You,JAESSBEE,1,single,1,False,2.8713333333333333,8,20,79.0,2.6666666666666665,2.5,0,58.6
+face-off|jimin,Face-off,Jimin,2,single,6,True,3.8271166666666665,405,5,68.95,0.0,0.42592592592592593,1,51.2
+fact check|nct 127,Fact Check,NCT 127,2,album,9,False,3.07755,9,23,54.400000000000006,11.833333333333334,2.0,1,80.9
+falling|jin,Falling,Jin,1,album,6,False,2.9806333333333335,11,24,78.1,2.3333333333333335,0.0,0,39.5
+fast forward|jeon somi,Fast Forward,JEON SOMI,1,single,5,False,2.6763,76,10,74.7,6.333333333333333,1.736842105263158,0,61.4
+fate|(g)i-dle,Fate,(G)I-DLE,2,album,8,False,2.6924333333333332,97,9,41.2,0.0,1.1451612903225805,1,55.4
+father|lim young woong,Father,Lim Young Woong,4,album,12,False,3.9684333333333335,106,28,26.65,0.0,0.1484375,3,55.9
+fe!n|travis scott,FE!N,Travis Scott,1,album,19,True,3.195,6,26,90.9,29.666666666666668,0.0,0,49.6
+field trip|¥$,FIELD TRIP,¥$ & Kanye West & Ty Dolla $ign,2,album,16,True,2.7871333333333332,9,19,79.4,13.0,2.5,1,82.5
+fighting|bss,Fighting (Feat. Lee Young Ji),BSS,2,single,3,False,3.407766666666667,18,43,25.349999999999998,0.0,0.1,1,49.3
+filter|bts,Filter,BTS,3,album,20,False,3.0036666666666667,7,31,41.63333333333333,0.0,1.0,2,59.1
+"flights, not feelings|aespa","Flights, Not Feelings",aespa,1,single,6,False,3.0277666666666665,2,35,47.1,-4.0,6.0,0,46.4
+flooded the face|lil uzi vert,Flooded The Face,Lil Uzi Vert,1,album,26,True,3.2121166666666667,1,48,16.8,0.0,0.0,0,25.1
+flowers|aespa,Flowers,aespa,1,single,6,False,3.1788833333333333,1,38,54.8,0.0,0.0,0,25.1
+flower|jisoo,FLOWER,JISOO,2,single,2,False,2.8855666666666666,44,17,57.300000000000004,0.0,0.5,1,51.7
+for us|v,For Us,V,2,single,6,False,2.8526666666666665,71,10,66.5,1.5,0.5,1,62.9
+forever|babymonster,FOREVER,BABYMONSTER,1,single,1,False,3.5455666666666668,7,43,44.4,1.0,0.0,0,34.8
+fortnight|taylor swift,Fortnight (feat. Post Malone),Taylor Swift,2,album,16,False,3.8160833333333333,43,9,44.8,0.5,0.0,1,50.3
+fri(end)s (instrumental)|v,FRI(END)S (Instrumental),V,1,single,4,False,2.4739166666666668,8,24,77.3,2.0,2.0,0,54.5
+fri(end)s (slowed down)|v,FRI(END)S (Slowed Down),V,1,single,4,False,2.7,8,28,72.8,2.0,1.0,0,50.6
+fri(end)s (sped up)|v,FRI(END)S (Sped Up),V,1,single,4,False,2.05,8,26,75.0,2.0,1.0,0,50.6
+fri(end)s|v,FRI(END)S,V,1,single,4,False,2.4680333333333335,120,9,89.6,2.0,0.0,0,38.2
+fried|¥$,FRIED,¥$ & Kanye West & Ty Dolla $ign,1,album,16,True,2.9876,3,38,85.0,36.5,2.0,0,66.1
+fry’s dream|akmu,Fry’s Dream,AKMU,2,single,2,False,3.4096,53,18,70.15,2.0,0.5227272727272727,1,65.2
+fuk sumn|kanye west,FUK SUMN,Kanye West & Ty Dolla $ign,1,album,16,True,3.49295,1,31,66.7,0.0,0.0,0,25.1
+g.o.a.t|taemin,G.O.A.T,TAEMIN,1,single,7,False,2.97555,1,44,38.3,0.0,0.0,0,25.1
+get a guitar|riize,Get A Guitar,RIIZE,5,single,2,False,2.67285,189,13,43.6,0.8666666666666666,1.1704040404040403,4,72.0
+get the hell out|day6,Get The Hell Out,DAY6,1,album,7,False,2.77045,1,46,28.6,0.0,0.0,0,25.1
+get up|newjeans,Get Up,NewJeans,1,single,6,False,0.6037666666666667,38,8,90.8,2.3333333333333335,0.0,0,39.5
+girls never die|triples,Girls Never Die,tripleS,1,album,10,False,3.132,46,14,68.1,1.3333333333333333,2.6363636363636362,0,53.7
+god of music|seventeen,God of Music,SEVENTEEN,1,album,8,False,3.4188833333333335,11,18,95.3,25.333333333333332,0.0,0,49.2
+god's country|travis scott,GOD'S COUNTRY,Travis Scott,1,album,19,True,2.133183333333333,1,43,42.3,0.0,0.0,0,25.1
+gods|league of legends,GODS,League of Legends & NewJeans,2,single,1,False,3.6813,111,4,52.45,1.5,0.0,1,53.4
+gonna be a rock|boynextdoor,Gonna Be A Rock,BOYNEXTDOOR,1,album,7,False,3.28755,1,48,16.8,0.0,0.0,0,25.1
+good bones|le sserafim,Good Bones,LE SSERAFIM,1,single,5,False,2.6666833333333333,2,39,59.6,5.0,0.0,0,45.5
+goslow|yanghongwon,GOSLOW,YANGHONGWON,1,album,8,False,2.8508833333333334,3,29,71.4,4.0,3.0,0,63.4
+grain of sand|lim young woong,Grain of Sand,Lim Young Woong,2,single,1,False,3.6718166666666665,516,7,59.449999999999996,3.1666666666666665,0.9449101796407186,1,71.9
+greedy|tate mcrae,greedy,Tate McRae,1,single,1,True,2.1978666666666666,9,45,26.2,0.3333333333333333,1.0,0,44.8
+guess featuring billie eilish|charli xcx,Guess featuring Billie Eilish,Charli xcx & Billie Eilish,1,single,1,False,2.3888333333333334,8,35,41.1,1.0,7.5,0,56.8
+gym|beenzino,Gym,Beenzino,1,album,18,True,3.4206666666666665,2,46,45.0,6.0,0.0,0,46.2
+haegeum|agust d,Haegeum,Agust D,4,album,10,False,2.8154333333333335,149,25,41.95,0.0,0.5863636363636364,3,58.8
+happy|day6,HAPPY,DAY6,2,album,7,False,3.165566666666667,92,4,63.2,0.16666666666666666,0.5,1,57.8
+hard|shinee,HARD,SHINee,1,album,10,False,2.945333333333333,4,39,55.3,2.0,0.0,0,38.2
+hate you|jung kook,Hate You,Jung Kook,1,album,11,False,2.5706,138,8,98.4,27.666666666666668,0.0,0,49.4
+heart on the window|jin,Heart on the Window (with WENDY),Jin,1,album,6,False,2.95155,11,21,81.0,2.6666666666666665,0.0,0,41.0
+heavy is the crown|linkin park,Heavy Is the Crown,Linkin Park,1,single,2,False,2.783533333333333,1,46,28.6,0.0,0.0,0,25.1
+heliot emil|changmo,HELIOT EMIL,CHANGMO,1,single,5,False,2.3017666666666665,1,50,3.4,0.0,0.0,0,25.1
+hell yea|leellamarz,Hell yea,Leellamarz & YANGHONGWON,1,single,5,False,3.2295,1,47,22.8,0.0,0.0,0,25.1
+here with me|d4vd,Here With Me,d4vd,1,single,9,False,4.0414,50,30,69.0,12.666666666666666,0.358974358974359,0,56.4
+hero|lim young woong,HERO,Lim Young Woong,3,single,2,False,3.609766666666667,111,26,22.666666666666668,0.1111111111111111,1.2323232323232325,2,65.6
+heya|ive,HEYA,IVE,1,single,6,False,3.1613333333333333,61,9,86.1,4.333333333333333,1.5,0,59.5
+high note|kinglee,High Note,KingLee & Code G,1,single,1,True,4.0184,2,9,89.6,2.0,0.0,0,38.2
+holssi|iu,Holssi,IU,1,single,5,False,3.1797666666666666,30,11,83.0,0.0,10.0,0,47.6
+home sweet home|g-dragon,HOME SWEET HOME (feat. TAEYANG & DAESUNG),G-DRAGON & TAEYANG & DAESUNG,1,single,1,False,3.5221666666666667,4,2,94.9,3.6666666666666665,1.3333333333333333,0,58.2
+home|lim young woong,Home,Lim Young Woong,2,single,2,False,3.9222166666666665,191,12,55.05,2.8333333333333335,7.0,1,80.3
+honestly|riize,Honestly,RIIZE,1,single,5,False,3.2348333333333334,1,50,3.4,0.0,0.0,0,25.1
+horizon|taemin,Horizon,TAEMIN,1,single,7,False,2.9464333333333332,2,32,68.6,3.0,0.0,0,42.3
+"how can i love the heartbreak, you're the one i love|akmu","How can I love the heartbreak, you're the one I love",AKMU,1,album,10,False,4.8349166666666665,33,34,55.5,0.0,0.3157894736842105,0,33.4
+how sweet (instrumental)|newjeans,How Sweet (Instrumental),NewJeans,1,single,4,False,3.6502166666666667,5,13,87.5,2.3333333333333335,0.0,0,39.5
+how sweet|newjeans,How Sweet,NewJeans,1,single,4,False,3.6504333333333334,184,1,96.5,3.0,0.0,0,42.3
+hyaena|travis scott,HYAENA,Travis Scott,1,album,19,True,3.701416666666667,2,12,100.0,85.0,0.0,0,50.3
+hype boy|newjeans,Hype Boy,NewJeans,13,single,4,False,2.9837666666666665,321,15,27.076923076923077,0.02564102564102564,0.7045177045177045,12,66.9
+i am|ive,I AM,IVE,1,album,11,False,3.064216666666667,159,2,93.3,0.0,2.0,0,41.4
+i don't know|j-hope,i don't know (with HUH YUNJIN of LE SSERAFIM),j-hope,1,single,6,False,3.0524833333333334,1,46,28.6,0.0,0.0,0,25.1
+i don’t think that i like her|charlie puth,I Don’t Think That I Like Her,Charlie Puth,4,album,12,False,3.141783333333333,8,46,15.525,0.0,0.375,3,57.4
+i had some help|post malone,I Had Some Help (Feat. Morgan Wallen),Post Malone & Morgan Wallen,2,single,1,True,2.970083333333333,9,31,36.25,0.8333333333333334,0.0,1,51.2
+i like me better|lauv,I Like Me Better,Lauv,1,album,17,False,3.2906,1,36,58.9,0.0,0.0,0,25.1
+i like the way you kiss me|artemas,i like the way you kiss me,Artemas,1,single,1,False,2.3752333333333335,2,42,25.5,0.0,8.0,0,47.2
+i love you|lim young woong,I Love You,Lim Young Woong,7,album,12,False,3.9837666666666665,150,24,23.771428571428572,0.0,0.15009380863039398,6,58.0
+i stan u|iu,I stan U,IU,1,single,5,False,3.20955,4,25,67.8,0.0,9.0,0,47.5
+i will come to you|jin,I will come to you,Jin,1,album,8,False,2.6160666666666668,10,25,77.5,2.6666666666666665,0.0,0,41.0
+i wonder...|j-hope,i wonder... (with Jung Kook of BTS),j-hope,1,single,6,False,2.7266333333333335,14,21,80.8,2.3333333333333335,0.0,0,39.5
+i'll be there|jin,I'll Be There,Jin,1,single,1,False,3.02795,25,6,91.6,2.3333333333333335,0.09523809523809523,0,46.5
+if i have you only (my love x nerd connection)|nerd connection,If I have you only (My love X Nerd Connection),Nerd Connection,5,single,2,False,4.176216666666667,56,31,29.4,0.06666666666666667,1.2811688311688312,4,68.5
+"if i’m s, can you be my n?|tws","If I’m S, Can You Be My N?",TWS,1,single,6,False,2.8004333333333333,21,32,52.0,1.0,0.9285714285714286,0,46.6
+if we ever meet again|lim young woong,If We Ever Meet Again,Lim Young Woong,1,album,12,False,4.5731,503,12,79.1,-0.3333333333333333,0.08241758241758242,0,32.0
+igloo|kiss of life,Igloo,KISS OF LIFE,1,single,7,False,2.1964333333333332,33,14,68.5,0.6666666666666666,2.3333333333333335,0,51.0
+impossible|riize,Impossible,RIIZE,2,single,2,False,3.038866666666667,40,11,42.65,-2.166666666666667,2.0833333333333335,1,59.0
+in bed/makgulli|beenzino,In Bed/Makgulli,Beenzino,1,album,18,True,4.618666666666667,4,20,82.0,3.0,0.0,0,42.3
+in bloom|zerobaseone,In Bloom,ZEROBASEONE,1,single,6,False,3.0164666666666666,6,39,55.3,2.0,0.0,0,38.2
+interlude : dive|jimin,Interlude : Dive,Jimin,7,single,6,False,2.1832666666666665,364,7,54.6,-0.047619047619047616,2.5184085481387912,6,68.4
+interlude : showtime|jimin,Interlude : Showtime,Jimin,1,album,7,False,1.3082,129,8,89.8,2.3333333333333335,0.05263157894736842,0,46.3
+intro: singularity|bts,Intro: Singularity,BTS,2,album,11,False,3.2833,6,45,30.4,0.6666666666666666,2.0,1,67.0
+istj|nct dream,ISTJ,NCT DREAM,1,album,10,False,3.088,7,24,68.0,3.0,14.0,0,65.2
+it's beginning to look a lot like christmas|michael bublé,It's Beginning to Look a Lot like Christmas,Michael Bublé,1,album,21,False,3.453316666666667,4,27,51.5,0.0,21.0,0,48.5
+it's the most wonderful time of the year|andy williams,It's the Most Wonderful Time of the Year,Andy Williams,1,album,12,False,2.5166666666666666,2,49,10.4,0.0,0.0,0,25.1
+item|stray kids,ITEM,Stray Kids,1,album,12,False,3.1922166666666665,1,40,49.9,0.0,0.0,0,25.1
+i’ll be there|jin,I’ll Be There,Jin,1,album,10,False,3.02795,7,7,92.7,4.333333333333333,0.0,0,45.1
+i’ll see you there tomorrow|tomorrow x together,I’ll See You There Tomorrow,TOMORROW X TOGETHER,1,album,7,False,3.2782333333333336,7,40,50.8,0.3333333333333333,0.0,0,32.4
+jealousyvalhalla|yanghongwon,Jealousyvalhalla,YANGHONGWON,2,album,8,False,2.4697666666666667,11,14,85.0,7.166666666666667,1.5,1,78.1
+jeogeumtong|e sens,Jeogeumtong,E SENS,1,album,13,False,2.306233333333333,1,39,52.5,0.0,0.0,0,25.1
+jingle bell rock|bobby helms,Jingle Bell Rock,Bobby Helms,1,single,2,False,2.1828833333333333,3,32,64.5,0.0,0.0,0,25.1
+k-pop|travis scott,K-POP,Travis Scott & Bad Bunny & The Weeknd,1,single,1,True,3.087,6,39,0.1,-26.0,0.0,0,25.1
+keys to my life|kanye west,KEYS TO MY LIFE,Kanye West & Ty Dolla $ign,1,album,16,True,2.9013833333333334,1,24,77.1,0.0,0.0,0,25.1
+kidding|isegye idol,KIDDING,ISEGYE IDOL,1,single,2,False,3.50135,3,45,50.2,8.5,1.0,0,59.3
+kill bill|sza,Kill Bill,SZA,2,album,23,False,2.5657666666666668,43,40,38.650000000000006,0.0,0.5277777777777778,1,52.2
+kill it|aespa,Kill It,aespa,1,single,6,False,3.3271,4,21,75.9,2.3333333333333335,9.0,0,61.9
+kitsch|ive,Kitsch,IVE,1,album,11,False,3.2573333333333334,92,9,88.6,0.0,0.0,0,25.1
+klaxon|(g)i-dle,Klaxon,(G)I-DLE,1,single,4,False,2.918433333333333,22,36,39.5,0.6666666666666666,1.2727272727272727,0,47.4
+lalalala|stray kids,LALALALA,Stray Kids,1,album,8,False,3.0370666666666666,5,38,80.3,27.0,0.0,0,49.3
+lalali|seventeen,LALALI,SEVENTEEN,1,album,33,False,2.8613333333333335,1,44,38.3,0.0,0.0,0,25.1
+last christmas - single version|wham!,Last Christmas - Single Version,Wham!,2,album,16,False,4.432666666666667,8,13,61.55,0.0,7.25,1,64.0
+left and right|charlie puth,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,6,album,12,False,2.5747666666666666,226,6,47.833333333333336,0.1111111111111111,1.8961442786069653,5,71.1
+lemon|beenzino,Lemon,Beenzino,1,album,18,True,3.033333333333333,3,27,75.3,3.0,0.0,0,42.3
+let it snow! let it snow! let it snow!|dean martin,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,1,album,12,False,1.9524333333333332,3,30,68.8,0.0,0.0,0,25.1
+let me in|exo,Let Me In,EXO,1,single,1,False,3.2922166666666666,1,50,3.4,0.0,0.0,0,25.1
+let off steam|leellamarz,Let off steam,Leellamarz & YANGHONGWON,1,single,5,False,3.6571333333333333,2,47,34.8,6.0,3.0,0,64.9
+let's say goodbye|parc jae jung,Let's Say Goodbye,Parc Jae Jung,1,album,10,False,4.064216666666667,78,30,46.5,0.3333333333333333,0.46511627906976744,0,41.6
+letter to myself|taeyeon,Letter To Myself,TAEYEON,1,single,6,False,3.0676666666666668,4,22,65.3,3.3333333333333335,20.0,0,66.6
+licorice|aespa,Licorice,aespa,1,album,10,False,2.6488833333333335,3,30,72.4,3.5,0.0,0,43.9
+lie|bts,Lie,BTS,1,album,15,False,3.5958666666666668,1,33,63.0,0.0,0.0,0,25.1
+like a fool|beenzino,Like A Fool (Feat. Y2K92),Beenzino,1,album,18,True,3.3668833333333335,4,28,74.2,3.0,0.0,0,42.3
+like crazy (deep house remix)|jimin,Like Crazy (Deep House Remix),Jimin,4,single,5,False,3.0119833333333332,28,33,36.275000000000006,-0.16666666666666666,0.5227272727272727,3,58.4
+like crazy (english version)|jimin,Like Crazy (English Version),Jimin,1,single,6,False,3.53755,429,2,92.6,0.0,2.0,0,41.4
+like crazy (instrumental)|jimin,Like Crazy (Instrumental),Jimin,2,single,5,False,3.5369333333333333,6,41,33.75,0.0,0.5,1,51.7
+like crazy (uk garage remix)|jimin,Like Crazy (UK Garage Remix),Jimin,4,single,5,False,3.5065833333333334,25,35,25.175,0.0,1.0681818181818181,3,61.5
+like crazy|jimin,Like Crazy,Jimin,1,single,6,False,3.53735,554,1,95.8,0.0,0.0,0,25.1
+like that|future,Like That,Future & Metro Boomin,1,album,17,True,4.461766666666667,4,45,30.8,1.6666666666666667,1.5,0,51.4
+lilith (diablo iv anthem)|halsey,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),Halsey & SUGA,3,single,1,True,3.01555,80,17,37.46666666666667,1.222222222222222,0.9166666666666666,2,68.4
+little light|doyoung,Little Light,DOYOUNG,1,album,10,False,3.7477666666666667,8,29,70.9,3.3333333333333335,3.0,0,62.1
+live my life|aespa,Live My Life,aespa,1,album,10,False,2.6522166666666664,2,35,67.7,7.0,0.0,0,46.6
+lock / unlock|j-hope,lock / unlock (with benny blanco & Nile Rodgers),j-hope,1,single,6,False,3.0328333333333335,1,49,10.4,0.0,0.0,0,25.1
+lockdown|isegye idol,LOCKDOWN,ISEGYE IDOL,1,single,2,False,3.3651,4,40,54.0,2.3333333333333335,0.0,0,39.5
+london boy|lim young woong,London Boy,Lim Young Woong,3,single,2,False,4.075,521,5,35.333333333333336,0.0,0.03375527426160337,2,53.3
+lose my breath|stray kids,Lose My Breath (Feat. Charlie Puth),Stray Kids & Charlie Puth,1,single,2,False,2.7818833333333335,2,29,49.5,-17.0,0.0,0,25.1
+lost and found|kinglee,Lost and Found,KingLee & Lil' Flip,2,single,1,True,3.650533333333333,3,8,81.9,1.0,0.0,1,51.9
+lost!|rm,LOST!,RM,1,album,11,True,3.88355,7,35,57.8,2.3333333333333335,2.5,0,57.2
+love 119|riize,Love 119,RIIZE,1,single,1,False,2.8914833333333334,107,8,91.3,3.3333333333333335,0.0,0,43.4
+love always run away|lim young woong,Love Always Run Away,Lim Young Woong,8,single,2,False,4.046,134,28,21.8,0.16666666666666666,0.12447916666666667,7,64.0
+love dive|ive,LOVE DIVE,IVE,3,single,2,False,2.9531,6,48,13.533333333333333,0.0,0.3333333333333333,2,55.1
+love lee|akmu,Love Lee,AKMU,1,single,2,False,2.9947166666666667,82,8,81.3,20.333333333333332,1.5185185185185186,0,63.1
+love letter|lim young woong,Love Letter,Lim Young Woong,5,album,12,False,3.584,75,32,22.86,0.06666666666666667,0.5307692307692308,4,64.8
+love me again|v,Love Me Again,V,1,single,2,False,3.0382166666666666,468,3,92.4,2.3333333333333335,0.16129032258064516,0,47.1
+love me like this|nmixx,Love Me Like This,NMIXX,1,single,6,False,3.1453,18,37,56.4,0.0,0.0,0,25.1
+love station|lim young woong,Love Station,Lim Young Woong,2,album,12,False,3.1882166666666665,5,49,5.2,0.16666666666666666,0.16666666666666666,1,55.9
+love wins all|iu,Love wins all,IU,1,single,1,False,4.518,84,6,91.8,3.0,2.0,0,58.5
+love you with all my heart|crush,Love You With All My Heart,Crush,2,single,2,False,4.069766666666666,34,19,38.05,0.16666666666666666,0.9666666666666667,1,60.2
+"love, money, fame|seventeen","LOVE, MONEY, FAME (feat. DJ Khaled)",SEVENTEEN,1,single,6,False,3.1064333333333334,15,13,86.0,3.0,4.0,0,62.4
+lovely touch|lim young woong,Lovely Touch,Lim Young Woong,4,album,12,False,3.252883333333333,119,25,33.45,0.3333333333333333,1.127659574468085,3,68.9
+lovin on me|jack harlow,Lovin On Me,Jack Harlow,1,single,1,True,2.30685,15,39,31.2,0.0,2.2,0,42.2
+loving you|lim young woong,Loving You,Lim Young Woong,2,album,12,False,3.5382166666666666,8,46,25.700000000000003,0.0,0.0,1,42.2
+lucky girl syndrome|illit,Lucky Girl Syndrome,ILLIT,2,single,4,False,2.3336833333333336,57,21,66.85,0.8333333333333334,2.9583333333333335,1,69.5
+lunch|billie eilish,LUNCH,Billie Eilish,1,album,10,False,2.9931,29,12,83.5,9.333333333333334,3.0,0,65.8
+luther|kendrick lamar,luther (with sza),Kendrick Lamar,1,album,12,False,2.959966666666667,3,20,82.1,6.0,3.0,0,64.9
+maestro|seventeen,MAESTRO,SEVENTEEN,2,album,33,False,3.3151,13,14,51.8,2.166666666666667,3.5,1,75.6
+magnetic|illit,Magnetic,ILLIT,1,single,4,False,2.6781333333333333,244,1,92.8,4.333333333333333,2.25,0,62.3
+maniac|viviz,MANIAC,VIVIZ,3,single,5,False,3.2586666666666666,13,40,18.2,0.2222222222222222,2.6666666666666665,2,71.3
+mantra|jennie,Mantra,JENNIE,1,single,1,True,2.2771166666666667,46,2,95.4,2.0,0.3333333333333333,0,46.6
+mars|d.o.,Mars,D.O.,2,single,6,False,3.1211,2,47,19.8,0.0,0.0,1,42.2
+melt away|taeyeon,Melt Away,TAEYEON,1,single,6,False,3.2666666666666666,1,50,3.4,0.0,0.0,0,25.1
+melt down|day6,Melt Down,DAY6,1,album,8,False,2.7597833333333335,66,11,87.0,3.3333333333333335,1.6666666666666667,0,58.3
+meltdown|travis scott,MELTDOWN,Travis Scott,1,album,19,True,4.102216666666667,2,34,99.6,84.0,0.0,0,50.2
+memories|riize,Memories,RIIZE,2,single,1,False,2.9668833333333335,43,24,46.5,0.3333333333333333,5.333333333333333,1,70.3
+meow|meovv,MEOW,MEOVV,1,single,1,False,2.8678833333333333,48,8,78.8,11.333333333333334,11.666666666666666,0,70.0
+midas touch|kiss of life,Midas Touch,KISS OF LIFE,2,single,2,False,2.7146666666666666,78,9,41.45,1.3333333333333333,1.9166666666666667,1,68.3
+midnight fiction|illit,Midnight Fiction,ILLIT,1,single,4,False,2.8017333333333334,17,24,75.1,1.6666666666666667,0.6666666666666666,0,47.6
+million dollar baby|tommy richman,MILLION DOLLAR BABY,Tommy Richman,1,single,2,False,2.58585,118,12,69.3,1.0,3.4444444444444446,0,54.4
+mine|aespa,Mine,aespa,1,album,10,False,3.2208833333333335,2,29,76.5,7.0,0.0,0,46.6
+mistletoe|justin bieber,Mistletoe,Justin Bieber,1,album,15,False,3.0491,3,35,60.6,0.0,0.0,0,25.1
+modern jam|travis scott,MODERN JAM,Travis Scott,1,album,19,True,4.256866666666666,2,23,99.8,83.0,0.0,0,50.1
+monet|beenzino,Monet,Beenzino,1,album,18,True,2.642,8,17,84.9,2.6666666666666665,0.0,0,41.0
+monster|day6,Monster,DAY6,1,album,8,False,3.6081666666666665,3,30,72.7,4.0,0.0,0,44.7
+moonlit floor (kiss me)|lisa,Moonlit Floor (Kiss Me),LISA,1,single,1,False,2.59595,9,24,77.1,0.0,0.0,0,25.1
+moonlit floor|lisa,Moonlit Floor,LISA,1,single,1,False,2.59595,8,21,56.7,0.3333333333333333,5.4,0,53.3
+mourning|post malone,Mourning,Post Malone,1,single,1,True,2.46365,3,23,78.6,2.5,0.0,0,40.3
+my boy only breaks his favorite toys|taylor swift,My Boy Only Breaks His Favorite Toys,Taylor Swift,1,album,16,False,3.3966833333333333,2,37,58.1,1.0,0.0,0,34.8
+my eyes|travis scott,MY EYES,Travis Scott,1,album,19,True,4.187483333333334,2,33,99.7,83.0,0.0,0,50.1
+my love mine all mine|mitski,My Love Mine All Mine,Mitski,5,album,11,False,2.2962166666666666,81,31,36.339999999999996,0.06666666666666667,0.4619047619047619,4,63.9
+my name is malguem|qwer,My Name is Malguem,QWER,1,single,8,False,3.1386666666666665,64,8,72.1,4.0,3.1666666666666665,0,63.9
+my starry love|lim young woong,My Starry Love,Lim Young Woong,4,single,2,False,3.8468833333333334,30,38,17.675,0.08333333333333333,0.125,3,61.1
+my world|illit,My World,ILLIT,1,single,4,False,1.79105,15,29,69.9,2.0,0.5,0,47.8
+my you|jung kook,My You,Jung Kook,3,single,1,False,2.7511666666666668,30,16,39.76666666666667,0.7777777777777777,0.3181818181818182,2,63.9
+nemonemo|yena,NEMONEMO,YENA,3,single,3,False,2.9671,24,31,30.400000000000002,0.3333333333333333,0.9259259259259259,2,65.6
+nest|lim young woong,Nest,Lim Young Woong,5,album,12,False,2.8713333333333333,36,37,14.219999999999999,0.06666666666666667,0.1,4,61.8
+neuron|j-hope,NEURON (with Gaeko & YOON MIRAE),j-hope,1,single,6,False,4.554833333333334,6,34,63.5,2.3333333333333335,0.0,0,39.5
+neva play|megan thee stallion,Neva Play (feat. RM of BTS),Megan Thee Stallion & RM,1,single,1,True,2.61955,15,19,82.5,2.3333333333333335,0.0,0,39.5
+never let go|jung kook,Never Let Go,Jung Kook,1,single,1,False,2.7802,88,9,88.7,2.0,0.6666666666666666,0,48.8
+new jeans|newjeans,New Jeans,NewJeans,10,single,2,False,1.8164333333333333,280,3,38.46,2.7333333333333334,1.0561711711711712,9,80.4
+new woman|lisa,New Woman (feat. ROSALÍA),LISA & ROSALÍA,1,single,1,False,2.9964833333333334,29,16,95.7,28.0,2.0,0,65.8
+nice guy|boynextdoor,Nice Guy,BOYNEXTDOOR,2,album,7,False,2.748666666666667,20,19,43.800000000000004,1.6666666666666667,6.0,1,75.3
+night dancer - big naughty remix|imase,NIGHT DANCER - BIG Naughty Remix,imase & BIG Naughty,2,single,2,False,3.5075166666666666,10,37,34.45,1.1666666666666667,5.5,1,73.4
+night dancer|imase,NIGHT DANCER,imase,1,album,7,False,3.51,48,12,86.6,0.0,0.0,0,25.1
+no boss|e sens,No Boss (Feat. Dok2),E SENS,1,album,13,False,3.1333333333333333,1,32,64.5,0.0,0.0,0,25.1
+no tomorrow - spotify singles|various artists,No Tomorrow - Spotify Singles,Various Artists,1,single,1,False,5.133333333333334,3,46,44.0,9.0,4.0,0,67.1
+noid|tyler,Noid,"Tyler, The Creator",1,album,1,True,4.7393833333333335,2,36,56.0,-2.0,0.0,0,25.1
+not like us|kendrick lamar,Not Like Us,Kendrick Lamar,4,single,1,True,4.569866666666667,53,24,45.425,0.41666666666666663,1.8611111111111112,3,71.6
+number one girl|rosé,number one girl,ROSÉ,1,single,2,False,3.6073666666666666,4,8,91.1,2.6666666666666665,0.0,0,41.0
+off the record|ive,Off The Record,IVE,1,single,1,False,3.14555,28,19,83.7,23.333333333333332,3.0,0,67.5
+omg (frnk remix)|newjeans,OMG (FRNK Remix),NewJeans,1,album,12,False,3.506666666666667,2,43,39.6,5.0,7.0,0,67.1
+omg|newjeans,OMG,NewJeans,9,single,2,False,3.53755,317,10,48.18888888888889,-0.037037037037037035,1.9143924626380766,8,66.5
+on the street|leellamarz,On the street (Feat. ASH ISLAND),Leellamarz,1,single,1,False,3.4859,1,49,10.4,0.0,0.0,0,25.1
+one kiss|riize,One Kiss,RIIZE,1,single,5,False,3.5343666666666667,1,47,22.8,0.0,0.0,0,25.1
+"our blues, our life|lim young woong","Our Blues, Our Life",Lim Young Woong,11,album,12,False,3.4564333333333335,362,16,38.78181818181818,0.060606060606060594,1.9403138528138528,10,71.8
+overdrive|post malone,Overdrive,Post Malone,1,single,1,False,2.461316666666667,1,47,22.8,0.0,0.0,0,25.1
+paid|kanye west,PAID,Kanye West & Ty Dolla $ign,1,album,16,True,3.25195,1,27,73.3,0.0,0.0,0,25.1
+paint the town red|doja cat,Paint The Town Red,Doja Cat,1,album,15,True,3.8625,65,13,63.7,0.3333333333333333,1.1785714285714286,0,45.7
+palisade|yanghongwon,PALISADE,YANGHONGWON,1,album,8,False,1.4706666666666666,2,42,40.6,4.0,7.0,0,66.3
+paranoia|heartsteel,PARANOIA,HEARTSTEEL & League of Legends & BAEKHYUN,1,single,1,False,3.313616666666667,3,37,59.9,2.5,0.0,0,40.3
+people pt.2|agust d,People Pt.2 (feat. IU),Agust D,3,album,10,False,3.5665833333333334,144,14,54.76666666666667,-0.1111111111111111,0.8416666666666667,2,57.9
+perfect night|le sserafim,Perfect Night,LE SSERAFIM,6,single,1,False,2.6513333333333335,277,9,43.083333333333336,4.222222222222222,3.75,5,89.9
+pierrot|le sserafim,Pierrot,LE SSERAFIM,1,single,5,False,2.8385833333333332,4,21,80.8,2.3333333333333335,0.0,0,39.5
+pink hoodie|aespa,Pink Hoodie,aespa,1,single,6,False,2.4424333333333332,1,50,3.4,0.0,0.0,0,25.1
+please don't change|jung kook,Please Don't Change (feat. DJ Snake),Jung Kook,6,album,11,False,2.444733333333333,102,9,49.06666666666666,4.611111111111111,5.666666666666667,5,91.4
+please please please|sabrina carpenter,Please Please Please,Sabrina Carpenter,4,single,2,True,3.1060833333333333,56,16,38.325,0.4166666666666667,0.90625,3,67.9
+pleasure shop|key,Pleasure Shop,KEY,1,single,6,False,3.038,4,40,51.7,3.6666666666666665,3.0,0,62.9
+plot twist|tws,plot twist,TWS,2,single,5,False,2.54,131,8,52.15,0.5,1.348684210526316,1,64.3
+polaroid|lim young woong,Polaroid,Lim Young Woong,1,single,2,False,3.44,508,10,82.7,-0.3333333333333333,0.06593406593406594,0,32.0
+popcorn|d.o.,Popcorn,D.O.,1,single,1,False,3.022,1,36,58.9,0.0,0.0,0,25.1
+popular|the weeknd,Popular (with Playboi Carti & Madonna),The Weeknd & Playboi Carti & Madonna,1,single,1,True,3.5911,1,42,45.6,0.0,0.0,0,25.1
+power|g-dragon,POWER,G-DRAGON,1,single,1,False,2.387366666666667,26,3,95.6,2.6666666666666665,0.0,0,41.0
+promise|jimin,Promise,Jimin,3,single,1,False,2.51685,35,31,38.166666666666664,0.0,2.3205128205128207,2,64.0
+promotion|¥$,PROMOTION,¥$ & Kanye West & Ty Dolla $ign,1,album,16,True,2.6479333333333335,3,33,86.3,36.0,6.0,0,71.1
+pump up the volume!|plave,Pump Up The Volume!,PLAVE,2,single,1,False,2.9897666666666667,40,13,63.699999999999996,1.8333333333333333,14.5,1,77.5
+push ups|drake,Push Ups,Drake,1,single,1,True,3.879566666666667,1,36,58.9,0.0,0.0,0,25.1
+queencard|(g)i-dle,Queencard,(G)I-DLE,3,single,6,False,2.687333333333333,119,4,35.8,0.8888888888888888,0.05555555555555555,2,62.7
+radio|beenzino,Radio,Beenzino,1,album,18,True,3.5168833333333334,2,45,47.3,6.0,0.0,0,46.2
+rah tah tah|tyler,Rah Tah Tah,"Tyler, The Creator",1,album,14,True,2.756866666666667,1,50,3.4,0.0,0.0,0,25.1
+rainbow|lim young woong,Rainbow,Lim Young Woong,7,album,12,False,3.2733333333333334,404,14,36.94285714285714,-0.14285714285714285,1.5681184668989547,6,65.1
+rainy days|v,Rainy Days,V,3,single,2,False,2.9926666666666666,206,4,53.300000000000004,0.6666666666666666,0.3703703703703704,2,64.1
+rebirth (intro)|jimin,Rebirth (Intro),Jimin,1,album,7,False,2.4104,129,7,90.6,2.3333333333333335,0.25,0,47.4
+right now (instrumental)|newjeans,Right Now (Instrumental),NewJeans,1,single,4,False,2.67355,2,46,84.4,46.0,0.0,0,50.0
+right now|newjeans,Right Now,NewJeans,1,single,4,False,2.67355,57,4,98.5,22.333333333333332,0.0,0,48.7
+rockin' around the christmas tree|brenda lee,Rockin' Around The Christmas Tree,Brenda Lee,1,album,12,False,2.104433333333333,4,21,66.4,0.0,17.0,0,48.3
+rockstar|lisa,Rockstar,LISA,1,single,5,True,2.30355,19,31,62.0,2.0,1.75,0,53.3
+rolex|yanghongwon,ROLEX,YANGHONGWON,1,single,1,False,2.9722666666666666,2,27,76.6,4.0,0.0,0,44.7
+roller coaster|nmixx,Roller Coaster,NMIXX,1,single,1,False,2.98955,15,35,46.1,1.3333333333333333,2.1666666666666665,0,52.6
+rumble|kinglee,Rumble,KingLee,1,single,1,True,2.9067166666666666,1,29,70.5,0.0,0.0,0,25.1
+runaway|kanye west,Runaway,Kanye West,1,album,13,True,9.128883333333333,11,27,54.3,0.0,3.1666666666666665,0,44.4
+running wild|jin,Running Wild,Jin,1,album,8,False,2.527433333333333,11,2,93.2,2.6666666666666665,1.0,0,53.4
+s-class|stray kids,S-Class,Stray Kids,1,album,12,False,3.2614666666666667,31,16,85.5,3.0,0.0,0,42.3
+sahara|yanghongwon,SAHARA,YANGHONGWON,1,album,8,False,3.06,2,33,69.4,5.0,0.0,0,45.5
+salty & sweet|aespa,Salty & Sweet,aespa,1,single,6,False,3.3626666666666667,1,46,28.6,0.0,0.0,0,25.1
+sandman|beenzino,Sandman,Beenzino,1,album,18,True,2.9311,3,38,58.6,3.0,0.0,0,42.3
+santa tell me|ariana grande,Santa Tell Me,Ariana Grande,1,single,1,False,3.40155,11,11,78.4,0.3333333333333333,2.25,0,49.5
+saturn|sza,Saturn,SZA,2,single,5,False,3.1031833333333334,9,43,34.5,0.16666666666666666,1.5,1,62.6
+say less|taemin,Say Less,TAEMIN,1,single,7,False,2.594883333333333,1,48,16.8,0.0,0.0,0,25.1
+scenery|v,Scenery,V,1,single,1,False,4.9042,12,23,90.0,24.0,0.0,0,48.9
+see that?|nmixx,See that?,NMIXX,1,single,6,False,3.0465833333333334,24,21,86.4,20.666666666666668,1.0,0,61.0
+serendipity - full length edition|bts,Serendipity - Full Length Edition,BTS,1,album,26,False,4.611783333333333,1,35,60.6,0.0,0.0,0,25.1
+set me free pt.2|jimin,Set Me Free Pt.2,Jimin,1,single,1,True,3.3488166666666666,429,4,91.5,0.0,0.2,0,32.8
+set the tone|aespa,Set The Tone,aespa,1,album,10,False,3.37555,5,15,79.6,2.0,12.0,0,60.9
+seven (alesso remix)|jung kook,Seven (feat. Latto) (Alesso Remix),Jung Kook & Latto,2,single,4,True,2.708,8,17,73.65,11.416666666666666,12.0,1,87.2
+seven (band ver.)|jung kook,Seven (feat. Latto) (Band Ver.),Jung Kook & Latto,2,single,5,False,3.160433333333333,10,16,71.45,1.6666666666666667,2.25,1,71.2
+seven (david guetta remix)|jung kook,Seven (David Guetta Remix),Jung Kook & Latto & David Guetta,1,single,2,True,2.624,4,23,88.3,20.666666666666668,0.0,0,48.6
+seven (explicit ver.)|jung kook,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,1,album,11,True,3.0733333333333333,496,1,96.5,3.0,0.0,0,42.3
+seven (instrumental)|jung kook,Seven (feat. Latto) (Instrumental),Jung Kook & Latto,1,single,3,False,3.070666666666667,22,9,89.0,2.0,0.2,0,45.9
+seven (lofi mix)|jung kook,Seven (feat. Latto) (Lofi Mix),Jung Kook & Latto,1,single,7,False,3.354216666666667,2,47,30.7,2.0,0.0,0,38.2
+seven (summer mix)|jung kook,Seven (feat. Latto) (Summer Mix),Jung Kook & Latto,2,single,5,False,3.3617666666666666,6,12,71.44999999999999,2.333333333333333,2.5,1,73.6
+sexy in the air|taemin,Sexy In The Air,TAEMIN,1,single,7,False,3.2466666666666666,11,27,77.4,19.666666666666668,8.0,0,70.5
+she smiled|day6,She Smiled,DAY6,1,album,8,False,3.3832,5,27,75.3,3.0,0.0,0,42.3
+sheesh|babymonster,SHEESH,BABYMONSTER,2,single,7,False,2.8392666666666666,91,9,40.85,1.0,0.9230769230769231,1,63.5
+shh..|iu,"Shh.. (Feat. HYEIN, WONSUN JOE & Special Narr. Patti Kim)",IU,1,single,5,False,3.779333333333333,4,19,78.5,0.0,4.0,0,45.2
+shoong!|taeyang,Shoong! (feat. LISA of BLACKPINK),TAEYANG,1,album,6,False,3.41835,10,40,50.8,0.3333333333333333,0.0,0,32.4
+shopper|iu,Shopper,IU,1,single,5,False,3.5953333333333335,17,15,83.2,0.0,3.0,0,43.8
+shot glass of tears|jung kook,Shot Glass of Tears,Jung Kook,3,album,11,False,2.7874333333333334,44,13,46.333333333333336,9.11111111111111,0.0,2,68.6
+shxtty game|day6,Shxtty Game,DAY6,1,album,8,False,3.1568,3,42,51.0,3.5,0.0,0,43.9
+sirens|travis scott,SIRENS,Travis Scott,1,album,19,True,3.40745,1,42,45.6,0.0,0.0,0,25.1
+siren|riize,Siren,RIIZE,1,single,1,False,2.4660166666666665,32,8,90.1,1.3333333333333333,0.0,0,35.7
+skrr|haon,Skrr (feat. GISELLE),HAON,1,single,1,False,3.6533333333333333,5,30,64.8,1.6666666666666667,2.5,0,54.6
+slide|¥$,SLIDE,¥$ & Kanye West & Ty Dolla $ign,1,album,16,True,3.301,3,22,96.8,36.0,0.0,0,49.8
+slime you out|drake,Slime You Out (feat. SZA),Drake & SZA,1,single,1,True,5.174833333333333,2,37,98.2,75.0,4.0,0,70.1
+slow dance|jimin,Slow Dance (feat. Sofia Carson),Jimin,1,album,7,False,3.1399833333333333,129,6,92.0,2.6666666666666665,0.125,0,48.3
+slow dancing (frnk remix)|v,Slow Dancing (FRNK Remix),V,1,single,2,False,2.8306666666666667,2,44,38.3,0.0,0.0,0,25.1
+slow dancing (piano ver.)|v,Slow Dancing (Piano Ver.),V,2,single,6,False,3.1348833333333332,60,13,48.650000000000006,1.3333333333333333,0.1,1,59.8
+slow dancing|v,Slow Dancing,V,1,single,6,False,3.1171,234,4,93.6,2.6666666666666665,0.3333333333333333,0,49.4
+small girl|lee young ji,Small girl (feat. D.O.),Lee Young Ji,2,single,6,False,3.161766666666667,93,4,73.95,9.833333333333334,2.511904761904762,1,82.1
+smart|le sserafim,Smart,LE SSERAFIM,1,single,9,False,2.773066666666667,117,9,83.4,2.0,0.7142857142857143,0,49.0
+smeraldo garden marching band|jimin,Smeraldo Garden Marching Band (feat. Loco),Jimin & Loco,1,album,7,False,3.0473333333333334,149,2,96.1,2.3333333333333335,0.0,0,39.5
+"smoke (prod. dynamicduo, padi)|various artists","Smoke (Prod. Dynamicduo, Padi)",Various Artists,1,single,4,False,3.4924333333333335,46,18,74.8,5.0,1.125,0,58.5
+smoothie|nct dream,Smoothie,NCT DREAM,1,single,6,False,3.1346666666666665,11,22,76.2,3.3333333333333335,8.0,0,65.4
+snooze (acoustic)|sza,Snooze (Acoustic) (feat. Justin Bieber),SZA & Justin Bieber,1,single,1,True,3.1744,1,43,42.3,0.0,0.0,0,25.1
+snow flower|v,Snow Flower (feat. Peakboy),V,1,single,1,False,3.816883333333333,12,25,88.4,24.0,0.0,0,48.9
+snowman|sia,Snowman,Sia,1,album,13,False,2.765,10,14,73.2,0.0,3.142857142857143,0,44.3
+"so long, london|taylor swift","So Long, London",Taylor Swift,1,album,16,False,4.3829,2,44,40.9,1.0,0.0,0,34.8
+somebody|d.o.,Somebody,D.O.,1,single,7,False,2.64555,3,47,13.0,0.0,1.5,0,39.5
+somebody|jung kook,Somebody,Jung Kook,5,album,11,False,2.8099833333333333,62,11,40.5,5.4,1.8666666666666667,4,85.6
+sos (prod. marshmello)|seventeen,SOS (Prod. Marshmello),SEVENTEEN,1,album,8,False,3.2002166666666665,2,49,10.4,0.0,0.0,0,25.1
+sos|kangdaniel,SOS,KANGDANIEL,2,single,5,False,3.1971,49,24,42.2,0.16666666666666666,3.0,1,66.9
+soñar (breaker)|nmixx,Soñar (Breaker),NMIXX,1,album,7,False,2.8842166666666667,1,46,28.6,0.0,0.0,0,25.1
+spark - winter solo|aespa,Spark - WINTER Solo,aespa,1,single,4,False,3.3446666666666665,1,44,38.3,0.0,0.0,0,25.1
+spicy|aespa,Spicy,aespa,1,single,6,False,3.284,121,3,93.8,0.3333333333333333,0.0,0,32.4
+spot!|zico,SPOT!,ZICO,2,single,1,False,2.7951,90,2,69.5,1.6666666666666667,3.5,1,73.7
+spring snow|10cm,Spring Snow,10CM,2,single,2,False,3.359916666666667,22,30,48.55,2.333333333333333,7.25,1,77.8
+squabble up|kendrick lamar,squabble up,Kendrick Lamar,1,album,12,True,2.6332,3,26,76.7,2.5,0.0,0,40.3
+st. chroma|tyler,St. Chroma (feat. Daniel Caesar),"Tyler, The Creator",1,album,14,True,3.28365,2,30,67.9,4.0,5.0,0,65.4
+standing next to you (usher remix)|jung kook,Standing Next to You (Usher Remix),Jung Kook & USHER,2,single,1,False,3.5793333333333335,72,15,83.85,12.5,2.1666666666666665,1,81.6
+standing next to you - sped up - remix|beat record,Standing Next to You - Sped Up - Remix,Beat Record,1,album,10,True,3.5184,1,8,89.5,0.0,0.0,0,25.1
+standing next to you|jung kook,Standing Next to You,Jung Kook,1,album,11,False,3.43365,384,3,99.1,30.0,0.020202020202020204,0,56.2
+stars|kanye west,STARS,Kanye West & Ty Dolla $ign,1,album,16,True,1.9206333333333334,2,18,83.8,3.0,0.0,0,42.3
+stay alive (prod. suga of bts)|jung kook,Stay Alive (Prod. SUGA of BTS),Jung Kook,2,single,1,False,3.5154666666666667,13,34,29.55,0.0,1.375,1,56.3
+stay with me|ash island,Stay With Me (Feat. Skinny Brown),ASH ISLAND,1,single,1,False,2.8691,3,26,70.4,3.5,9.0,0,66.3
+steady|nct wish,Steady,NCT WISH,1,album,7,False,2.994666666666667,5,25,66.1,3.3333333333333335,14.0,0,66.3
+"steal the show - from ""elemental""|lauv","Steal The Show - From ""Elemental""",Lauv,1,single,1,False,3.1963166666666667,105,8,65.0,0.6666666666666666,1.64,0,48.5
+sticky|kiss of life,Sticky,KISS OF LIFE,1,single,2,False,2.6186666666666665,109,6,90.7,5.333333333333333,0.7777777777777778,0,56.9
+still with you|jung kook,Still With You,Jung Kook,1,single,1,False,3.9984166666666665,109,8,91.1,2.6666666666666665,0.0,0,41.0
+stinky kiss (intro)|beenzino,Stinky Kiss (Intro),Beenzino,1,album,18,True,2.79,2,31,72.3,5.0,0.0,0,45.5
+stupid in love|max,STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM),MAX,3,album,12,False,2.888933333333333,31,28,34.9,0.3333333333333333,1.9393939393939394,2,69.5
+sudden shower|eclipse,Sudden Shower,ECLIPSE,2,single,8,False,3.88385,77,26,33.85,0.3333333333333333,0.8571428571428571,1,60.7
+sugarcoat (natty solo)|kiss of life,Sugarcoat (NATTY Solo),KISS OF LIFE,2,single,6,False,2.9977666666666667,17,26,39.1,0.0,1.5,1,56.6
+summer|paul blanco,Summer (Feat. BE’O),Paul Blanco,1,single,1,True,3.3311,23,44,19.9,0.0,0.35294117647058826,0,33.7
+sunflower - spider-man: into the spider-verse|post malone,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,3,album,17,False,2.626,23,31,29.700000000000003,0.1111111111111111,1.0,2,64.6
+super bowl|stray kids,Super Bowl,Stray Kids,1,album,12,False,3.0526666666666666,1,50,3.4,0.0,0.0,0,25.1
+super lady|(g)i-dle,Super Lady,(G)I-DLE,1,album,8,False,2.5364333333333335,14,32,67.0,1.6666666666666667,0.0,0,37.0
+super shy|newjeans,Super Shy,NewJeans,2,single,2,False,2.5777666666666668,409,1,54.800000000000004,14.333333333333334,0.3,1,73.2
+super tuna|jin,Super Tuna,Jin,1,single,1,False,1.91155,8,24,75.6,0.3333333333333333,1.0,0,44.8
+supernatural (instrumental)|newjeans,Supernatural (Instrumental),NewJeans,1,single,4,False,3.183333333333333,6,17,92.2,18.666666666666668,0.0,0,48.3
+supernatural|newjeans,Supernatural,NewJeans,1,single,4,False,3.183333333333333,157,1,99.0,23.333333333333332,0.0,0,48.8
+supernova - japanese version|kangdaniel,Supernova - Japanese Version,KANGDANIEL,1,single,1,False,3.4688833333333333,10,38,47.0,1.3333333333333333,0.875,0,47.0
+supernova|aespa,Supernova,aespa,1,album,10,False,2.981333333333333,195,1,98.7,24.666666666666668,2.0,0,65.4
+supersonic|fromis_9,Supersonic,fromis_9,1,single,3,False,2.902433333333333,105,10,73.6,1.6666666666666667,0.75,0,47.9
+super|seventeen,Super,SEVENTEEN,1,single,6,False,3.3397666666666668,79,13,86.2,0.0,0.0,0,25.1
+swan song|le sserafim,Swan Song,LE SSERAFIM,1,single,5,False,2.61965,23,15,84.3,1.6666666666666667,3.0,0,55.7
+sweet night|v,Sweet Night,V,2,single,2,False,3.5709666666666666,23,31,49.4,0.0,0.5625,1,52.3
+sweet venom|enhypen,Sweet Venom,ENHYPEN,1,album,7,False,2.479216666666667,1,50,3.4,0.0,0.0,0,25.1
+t.b.h|qwer,T.B.H,QWER,5,single,7,False,2.9313333333333333,155,10,34.62,0.33333333333333337,0.9285714285714285,4,69.1
+take two|bts,Take Two,BTS,2,single,1,False,3.83255,155,5,67.2,1.3333333333333335,7.0,1,74.7
+talk saxy|riize,Talk Saxy,RIIZE,5,single,1,False,3.18235,22,26,28.360000000000003,4.0,2.6,4,87.1
+talking|kanye west,TALKING,Kanye West & Ty Dolla $ign,1,album,16,True,3.085166666666667,1,26,74.3,0.0,0.0,0,25.1
+taste|sabrina carpenter,Taste,Sabrina Carpenter,3,album,12,False,2.6213166666666665,25,29,35.833333333333336,0.5555555555555556,4.0,2,75.0
+teddy bear|stayc,Teddy Bear,STAYC,1,single,2,False,3.1628833333333333,13,42,34.2,0.0,2.5,0,42.8
+thank god|travis scott,THANK GOD,Travis Scott,1,album,19,True,3.0814666666666666,2,21,99.9,84.0,0.0,0,50.2
+that's what i like|bruno mars,That's What I Like,Bruno Mars,2,album,9,False,3.4448833333333333,5,38,32.650000000000006,0.0,6.0,1,63.5
+the astronaut|jin,The Astronaut,JIN,2,single,1,False,4.707716666666666,7,27,36.300000000000004,0.16666666666666666,1.25,1,61.9
+the breakup anthem|ebstar,The Breakup Anthem,Ebstar,1,album,40,False,3.109,1,45,33.2,0.0,0.0,0,25.1
+the first snow|exo,The First Snow,EXO,1,single,6,False,3.461116666666667,15,19,74.5,0.3333333333333333,1.5,0,46.8
+the planet|bts,The Planet,BTS,3,single,1,False,2.9692666666666665,41,18,50.199999999999996,0.2222222222222222,0.6666666666666666,2,63.8
+the tortured poets department|taylor swift,The Tortured Poets Department,Taylor Swift,1,album,16,True,4.884133333333334,3,29,71.3,1.0,0.0,0,34.8
+the unknown sea|taemin,The Unknown Sea,TAEMIN,1,single,7,False,3.2773333333333334,1,45,33.2,0.0,0.0,0,25.1
+thirsty|aespa,Thirsty,aespa,1,single,6,False,3.22355,47,17,79.4,0.3333333333333333,1.1666666666666667,0,45.6
+tick-tack|illit,Tick-Tack,ILLIT,1,single,5,False,2.1578,2,49,14.5,1.0,0.0,0,34.8
+time moving slow|¥$,TIME MOVING SLOW,¥$ & Kanye West & Ty Dolla $ign,1,album,16,True,2.6613,1,44,38.3,0.0,0.0,0,25.1
+time of our life -japanese ver.- - japanese ver.|day6,Time of Our Life -Japanese ver.- - Japanese ver.,DAY6,5,single,4,False,3.4264666666666668,102,25,34.82000000000001,0.13333333333333333,0.31363636363636366,4,63.5
+timeless|the weeknd,Timeless (with Playboi Carti),The Weeknd & Playboi Carti,1,single,1,True,4.266666666666667,12,4,94.0,2.3333333333333335,0.0,0,39.5
+to. x|taeyeon,To. X,TAEYEON,2,single,6,False,2.8397666666666668,155,12,46.400000000000006,11.333333333333334,1.2416666666666667,1,77.9
+too much|the kid laroi,TOO MUCH,The Kid LAROI & Jung Kook & Central Cee,1,single,1,True,3.398233333333333,22,3,97.0,10.333333333333334,0.3333333333333333,0,55.8
+too sad to dance|jung kook,Too Sad to Dance,Jung Kook,5,album,11,False,2.93185,43,10,51.5,5.266666666666667,0.5,4,79.8
+topline|stray kids,TOPLINE (Feat. Tiger JK),Stray Kids,1,album,12,False,3.3924333333333334,1,49,10.4,0.0,0.0,0,25.1
+touch|katseye,Touch,KATSEYE,2,single,1,False,2.1647,78,16,30.95,0.0,0.6071428571428571,1,52.5
+travel again|beenzino,Travel Again (Feat. Cautious Clay),Beenzino,1,album,18,True,4.284433333333333,10,12,88.0,3.3333333333333335,0.0,0,43.4
+trippy|beenzino,Trippy (Feat. Lance Skiiiwalker),Beenzino,1,album,18,True,4.617333333333334,2,39,60.1,6.0,0.0,0,46.2
+trust in me|lim young woong,Trust in me,Lim Young Woong,1,single,2,False,4.046433333333334,25,42,25.5,0.0,2.0,0,41.4
+type shit|future,Type Shit,Future & Metro Boomin,1,album,17,True,3.8044333333333333,1,48,16.8,0.0,0.0,0,25.1
+underneath the tree|kelly clarkson,Underneath the Tree,Kelly Clarkson,1,album,14,False,3.8273333333333333,4,18,67.5,0.0,21.0,0,48.5
+unforgiven|le sserafim,UNFORGIVEN (feat. Nile Rodgers),LE SSERAFIM,1,album,13,False,3.0358,103,2,94.6,0.0,0.0,0,25.1
+unlove (prod. honne)|zion.t,UNLOVE (prod. HONNE),Zion.T,1,album,10,False,3.0007333333333333,1,45,33.2,0.0,0.0,0,25.1
+up - karina solo|aespa,UP - KARINA Solo,aespa,1,single,4,False,2.7773333333333334,48,4,93.1,3.6666666666666665,3.0,0,62.9
+v (peace)|zion.t,V (Peace) (feat. AKMU),Zion.T,1,album,10,False,2.4791166666666666,4,36,41.6,1.0,4.333333333333333,0,55.4
+vampire|olivia rodrigo,vampire,Olivia Rodrigo,1,single,1,True,3.6620666666666666,38,21,80.4,2.3333333333333335,1.0,0,52.0
+vancouver 2|big naughty,Vancouver 2,BIG Naughty,1,single,1,False,3.370216666666667,17,8,96.2,17.0,3.0,0,66.8
+vancouver|big naughty,Vancouver,BIG Naughty,2,single,2,False,3.6046666666666667,9,33,29.5,0.16666666666666666,1.0,1,60.7
+vibe|taeyang,VIBE (feat. Jimin of BTS),TAEYANG,4,album,6,False,2.9295833333333334,69,28,30.25,0.08333333333333333,1.9439655172413792,3,69.5
+wacced out murals|kendrick lamar,wacced out murals,Kendrick Lamar,1,album,12,True,5.284866666666667,1,38,54.8,0.0,0.0,0,25.1
+walk|nct 127,Walk,NCT 127,1,album,11,False,3.1971,10,27,62.3,3.3333333333333335,5.0,0,64.1
+warmth|lim young woong,Warmth,Lim Young Woong,1,single,2,False,3.91755,195,11,77.9,5.666666666666667,8.666666666666666,0,68.1
+water|tyla,Water,Tyla,1,single,1,False,3.3375833333333333,2,42,45.6,0.0,0.0,0,25.1
+way 4 luv|plave,WAY 4 LUV,PLAVE,2,single,6,False,3.65755,12,41,31.799999999999997,0.5833333333333333,5.0,1,71.2
+we can't be friends (wait for your love)|ariana grande,we can't be friends (wait for your love),Ariana Grande,1,album,13,False,3.81065,59,15,83.6,2.6666666666666665,1.25,0,54.6
+we got so much|le sserafim,We got so much,LE SSERAFIM,1,single,5,False,2.7624666666666666,4,25,66.5,1.6666666666666667,12.0,0,59.6
+welcome to my world|aespa,Welcome To MY World (feat. nævis),aespa,1,single,1,False,3.4486666666666665,8,35,60.6,0.0,0.0,0,25.1
+welcome to the show|day6,Welcome to the Show,DAY6,3,album,7,False,3.617783333333333,97,22,57.03333333333333,6.777777777777778,4.192982456140351,2,88.5
+well…?|yanghongwon,Well…?,YANGHONGWON,1,album,8,False,2.34555,3,32,65.7,3.5,3.0,0,62.6
+what the hell|e sens,What The Hell,E SENS,1,album,13,False,2.529166666666667,1,41,47.9,0.0,0.0,0,25.1
+wherever u r (ft. v of bts)|umi,wherever u r (ft. V of BTS),UMI & V,2,single,1,False,2.5505666666666666,70,14,72.55,13.5,0.0,1,64.9
+whiplash|aespa,Whiplash,aespa,1,single,6,False,3.0537666666666667,36,3,93.0,3.0,4.0,0,62.4
+who (acoustic remix)|jimin,Who (Acoustic Remix),Jimin,3,album,10,False,3.0679166666666666,97,18,51.333333333333336,1.2222222222222223,1.488888888888889,2,71.1
+who (beautiful mind remix)|jimin,Who (Beautiful Mind Remix),Jimin,4,album,10,False,2.965883333333333,78,20,48.3,1.0,1.625,3,73.0
+who (funky remix)|jimin,Who (Funky Remix),Jimin,2,album,10,False,3.1416333333333335,82,23,64.85,1.5,3.25,1,72.7
+who (instrumental)|jimin,Who (Instrumental),Jimin,2,album,10,False,2.848116666666667,90,17,67.7,1.5,1.75,1,68.5
+who (rock remix)|jimin,Who (Rock Remix),Jimin,4,album,10,False,2.8665833333333333,101,16,45.375,0.9583333333333334,1.890625,3,73.1
+who (shibuyakei remix)|jimin,Who (Shibuyakei Remix),Jimin,2,album,10,False,2.78015,89,20,67.8,1.6666666666666667,1.8666666666666667,1,69.3
+who|jimin,Who,Jimin,1,album,7,False,2.848116666666667,129,1,96.4,2.6666666666666665,0.0,0,41.0
+why?|plave,Why?,PLAVE,2,single,1,False,2.4562166666666667,5,34,33.75,0.25,1.25,1,62.4
+wife|(g)i-dle,Wife,(G)I-DLE,1,album,8,False,2.0204333333333335,37,20,64.7,2.6666666666666665,3.2857142857142856,0,60.4
+winter bear|v,Winter Bear,V,1,single,1,False,2.9137333333333335,12,22,91.2,24.333333333333332,0.0,0,49.0
+with you|jimin,With you,Jimin & HA SUNG WOON,5,single,2,False,3.365083333333333,22,20,36.52,0.0,0.36923076923076925,4,58.4
+xo (only if you say yes)|enhypen,XO (Only If You Say Yes),ENHYPEN,1,album,9,False,3.1388666666666665,5,40,51.9,3.0,2.0,0,58.5
+yes or no|groovyroom,"Yes or No (Feat. HUH YUNJIN of LE SSERAFIM, Crush)",GroovyRoom,1,single,1,False,2.9857666666666667,66,14,65.6,3.0,1.9411764705882353,0,58.0
+yes or no|jung kook,Yes or No,Jung Kook,2,album,11,False,2.4592833333333335,180,7,59.5,13.583333333333334,0.0,1,65.0
+"yes, and?|ariana grande","yes, and?",Ariana Grande,2,single,1,True,3.5832333333333333,43,13,80.25,2.5,1.0833333333333335,1,70.3
+you & me (coachella ver.)|jennie,You & Me (Coachella ver.),JENNIE,1,single,2,False,2.997733333333333,3,4,99.5,38.0,0.0,0,49.9
+you & me|jennie,You & Me,JENNIE,4,single,2,False,2.986066666666667,63,4,36.125,0.6666666666666667,0.0,3,57.3
+you were beautiful|day6,You Were Beautiful,DAY6,5,album,14,False,4.719333333333333,60,26,38.160000000000004,0.0,3.2555555555555555,4,69.0
+young man|hyukoh,Young Man,HYUKOH & 落日飛車 Sunset Rollercoaster,1,single,1,False,4.2881,9,13,87.2,2.0,0.0,0,38.2
+アイドル|yoasobi,アイドル,YOASOBI,3,single,1,False,3.5538833333333333,118,7,53.06666666666666,0.1111111111111111,0.6666666666666666,2,62.8
+地球儀 - spinning globe|kenshi yonezu,地球儀 - Spinning Globe,Kenshi Yonezu,1,single,1,False,4.557283333333333,2,48,16.8,0.0,0.0,0,25.1
+愛を伝えたいだとか|aimyon,愛を伝えたいだとか,Aimyon,1,album,11,False,3.9206666666666665,34,32,64.5,0.0,0.0,0,25.1
+踊り子|vaundy,踊り子,Vaundy,1,album,35,False,3.8221333333333334,85,14,77.8,0.0,3.75,0,45.0
+青い珊瑚礁|seiko matsuda,青い珊瑚礁,Seiko Matsuda,1,album,36,False,3.6662166666666667,11,30,69.6,0.6666666666666666,0.0,0,33.7
+녹아내려요 melt down|day6,녹아내려요 Melt Down,DAY6,1,single,8,False,2.7597833333333335,2,30,68.8,0.0,0.0,0,25.1
+"무제(無題) (untitled, 2014)|g-dragon","무제(無題) (Untitled, 2014)",G-DRAGON,2,single,5,False,3.71445,2,43,22.849999999999998,0.0,0.0,1,42.2
+예뻤어|day6,예뻤어,DAY6,1,album,14,False,4.719333333333333,2,43,42.3,0.0,0.0,0,25.1
+한 페이지가 될 수 있게|day6,한 페이지가 될 수 있게,DAY6,1,single,6,False,3.42625,2,35,59.7,0.0,1.0,0,37.5

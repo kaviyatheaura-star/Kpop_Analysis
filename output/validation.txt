@@ -1,0 +1,6 @@
+2025-03-01: had 100 rows (two snapshots); kept first 50
+rows raw=27800, clean=27750; date range 2024-05-18 to 2025-11-27
+missing snapshot dates (treated as unobserved, not as exits): ['2025-03-14', '2025-03-25', '2025-07-11', '2025-08-13']
+days with !=50 rows after cleaning: 0
+popularity range 0-100; zero-popularity rows: 95
+min_gap=3: 913 episodes, 391 re-entries, 165 songs with >=1 re-entry
